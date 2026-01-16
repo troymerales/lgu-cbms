@@ -1,0 +1,12 @@
+code,description
+01,Natural Causes
+02,Accident
+03,Illness/Disease
+04,Complications at Birth
+05,Malnutrition
+06,Infection
+07,Congenital Anomaly
+08,Other Medical
+09,Other
+10,Not Stated
+99,Unknown

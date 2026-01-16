@@ -1,0 +1,20 @@
+code,description
+01,Too Young to Go to School
+02,Illness/Disability
+03,Too Far from School
+04,High Cost of Education
+05,Early Marriage
+06,Family Problems
+07,Other Family Reasons
+08,Not Interested
+09,Looking for Work
+10,Found Work
+11,Housekeeping
+12,Other Personal Reasons
+13,School Not Available
+14,School Destroyed
+15,School Closed
+16,Other School Reasons
+17,Other
+18,Not Stated
+99,Unknown

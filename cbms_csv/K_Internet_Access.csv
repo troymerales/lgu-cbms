@@ -1,0 +1,1301 @@
+barangay,household_id,access_internet,internet_for_all,type_connection
+Anitap,ANI-0001,1,2,D
+Anitap,ANI-0002,2,2,D
+Anitap,ANI-0003,2,2,D
+Anitap,ANI-0004,2,2,D
+Anitap,ANI-0005,1,2,A
+Anitap,ANI-0006,2,2,D
+Anitap,ANI-0007,2,2,D
+Anitap,ANI-0008,2,2,D
+Anitap,ANI-0009,1,2,D
+Anitap,ANI-0010,2,2,D
+Anitap,ANI-0011,1,2,D
+Anitap,ANI-0012,2,2,D
+Anitap,ANI-0013,2,2,D
+Anitap,ANI-0014,1,2,C
+Anitap,ANI-0015,2,2,D
+Anitap,ANI-0016,1,2,A
+Anitap,ANI-0017,1,1,D
+Anitap,ANI-0018,2,2,D
+Anitap,ANI-0019,2,2,D
+Anitap,ANI-0020,2,2,D
+Anitap,ANI-0021,1,1,C
+Anitap,ANI-0022,1,1,D
+Anitap,ANI-0023,2,2,D
+Anitap,ANI-0024,2,2,D
+Anitap,ANI-0025,1,2,A
+Anitap,ANI-0026,1,1,D
+Anitap,ANI-0027,1,2,C
+Anitap,ANI-0028,2,2,D
+Anitap,ANI-0029,2,2,D
+Anitap,ANI-0030,2,2,D
+Manuel Roxas,MAN-0001,1,2,C
+Manuel Roxas,MAN-0002,1,1,B
+Manuel Roxas,MAN-0003,1,2,C
+Manuel Roxas,MAN-0004,1,1,C
+Manuel Roxas,MAN-0005,2,2,D
+Manuel Roxas,MAN-0006,2,2,D
+Manuel Roxas,MAN-0007,2,2,D
+Manuel Roxas,MAN-0008,1,1,A
+Manuel Roxas,MAN-0009,2,2,D
+Manuel Roxas,MAN-0010,2,2,D
+Manuel Roxas,MAN-0011,1,1,C
+Manuel Roxas,MAN-0012,1,2,A
+Manuel Roxas,MAN-0013,1,1,D
+Manuel Roxas,MAN-0014,2,2,D
+Manuel Roxas,MAN-0015,1,2,A
+Manuel Roxas,MAN-0016,1,1,A
+Manuel Roxas,MAN-0017,2,2,D
+Manuel Roxas,MAN-0018,2,2,D
+Manuel Roxas,MAN-0019,1,2,A
+Manuel Roxas,MAN-0020,2,2,D
+Manuel Roxas,MAN-0021,1,1,A
+Manuel Roxas,MAN-0022,1,1,A
+Manuel Roxas,MAN-0023,1,2,B
+Manuel Roxas,MAN-0024,2,2,D
+Manuel Roxas,MAN-0025,1,2,D
+Manuel Roxas,MAN-0026,1,2,C
+Manuel Roxas,MAN-0027,1,1,A
+Manuel Roxas,MAN-0028,2,2,D
+Manuel Roxas,MAN-0029,2,2,D
+Manuel Roxas,MAN-0030,1,2,D
+Manuel Roxas,MAN-0031,1,2,D
+Manuel Roxas,MAN-0032,2,2,D
+Manuel Roxas,MAN-0033,2,2,D
+Manuel Roxas,MAN-0034,1,1,C
+Manuel Roxas,MAN-0035,1,1,C
+Manuel Roxas,MAN-0036,2,2,D
+Manuel Roxas,MAN-0037,2,2,D
+Manuel Roxas,MAN-0038,2,2,D
+Manuel Roxas,MAN-0039,2,2,D
+Manuel Roxas,MAN-0040,1,1,D
+Manuel Roxas,MAN-0041,2,2,D
+Manuel Roxas,MAN-0042,2,2,D
+Manuel Roxas,MAN-0043,2,2,D
+Manuel Roxas,MAN-0044,1,1,C
+Manuel Roxas,MAN-0045,1,2,D
+Manuel Roxas,MAN-0046,2,2,D
+Manuel Roxas,MAN-0047,2,2,D
+Manuel Roxas,MAN-0048,1,1,C
+Manuel Roxas,MAN-0049,1,1,A
+Manuel Roxas,MAN-0050,1,1,C
+Manuel Roxas,MAN-0051,1,1,B
+Manuel Roxas,MAN-0052,2,2,D
+Manuel Roxas,MAN-0053,2,2,D
+Manuel Roxas,MAN-0054,2,2,D
+Manuel Roxas,MAN-0055,1,2,C
+Manuel Roxas,MAN-0056,2,2,D
+Manuel Roxas,MAN-0057,2,2,D
+Manuel Roxas,MAN-0058,2,2,D
+Don Aurelio Chicote,DON-0001,1,2,B
+Don Aurelio Chicote,DON-0002,1,1,C
+Don Aurelio Chicote,DON-0003,1,2,C
+Don Aurelio Chicote,DON-0004,1,1,C
+Don Aurelio Chicote,DON-0005,1,1,B
+Don Aurelio Chicote,DON-0006,2,2,D
+Don Aurelio Chicote,DON-0007,1,2,D
+Don Aurelio Chicote,DON-0008,2,2,D
+Don Aurelio Chicote,DON-0009,2,2,D
+Don Aurelio Chicote,DON-0010,1,1,B
+Don Aurelio Chicote,DON-0011,2,2,D
+Don Aurelio Chicote,DON-0012,2,2,D
+Don Aurelio Chicote,DON-0013,2,2,D
+Don Aurelio Chicote,DON-0014,1,1,C
+Don Aurelio Chicote,DON-0015,2,2,D
+Don Aurelio Chicote,DON-0016,1,2,A
+Don Aurelio Chicote,DON-0017,1,1,C
+Don Aurelio Chicote,DON-0018,2,2,D
+Don Aurelio Chicote,DON-0019,1,1,D
+Don Aurelio Chicote,DON-0020,2,2,D
+Don Aurelio Chicote,DON-0021,2,2,D
+Don Aurelio Chicote,DON-0022,1,1,C
+Don Aurelio Chicote,DON-0023,1,1,D
+Don Aurelio Chicote,DON-0024,1,1,D
+Don Aurelio Chicote,DON-0025,1,1,B
+Don Aurelio Chicote,DON-0026,1,1,D
+Don Aurelio Chicote,DON-0027,2,2,D
+Don Aurelio Chicote,DON-0028,1,1,A
+Don Aurelio Chicote,DON-0029,2,2,D
+Don Aurelio Chicote,DON-0030,2,2,D
+Don Aurelio Chicote,DON-0031,1,2,C
+Don Aurelio Chicote,DON-0032,2,2,D
+Don Aurelio Chicote,DON-0033,1,2,B
+Don Aurelio Chicote,DON-0034,2,2,D
+Don Aurelio Chicote,DON-0035,1,1,B
+Don Aurelio Chicote,DON-0036,1,2,A
+Don Aurelio Chicote,DON-0037,2,2,D
+Don Aurelio Chicote,DON-0038,2,2,D
+Don Aurelio Chicote,DON-0039,1,1,D
+Don Aurelio Chicote,DON-0040,2,2,D
+Don Aurelio Chicote,DON-0041,2,2,D
+Don Aurelio Chicote,DON-0042,2,2,D
+Don Aurelio Chicote,DON-0043,2,2,D
+Don Aurelio Chicote,DON-0044,2,2,D
+Don Aurelio Chicote,DON-0045,2,2,D
+Don Aurelio Chicote,DON-0046,2,2,D
+Don Aurelio Chicote,DON-0047,1,1,D
+Don Aurelio Chicote,DON-0048,1,1,A
+Don Aurelio Chicote,DON-0049,2,2,D
+Don Aurelio Chicote,DON-0050,2,2,D
+Don Aurelio Chicote,DON-0051,1,2,C
+Don Aurelio Chicote,DON-0052,2,2,D
+Don Aurelio Chicote,DON-0053,2,2,D
+Don Aurelio Chicote,DON-0054,1,2,C
+Don Aurelio Chicote,DON-0055,2,2,D
+Don Aurelio Chicote,DON-0056,1,1,B
+Don Aurelio Chicote,DON-0057,2,2,D
+Don Aurelio Chicote,DON-0058,2,2,D
+Don Aurelio Chicote,DON-0059,1,1,D
+Don Aurelio Chicote,DON-0060,1,1,A
+Don Aurelio Chicote,DON-0061,2,2,D
+Lavigan,LAV-0001,2,2,D
+Lavigan,LAV-0002,1,1,D
+Lavigan,LAV-0003,1,2,A
+Lavigan,LAV-0004,2,2,D
+Lavigan,LAV-0005,1,2,A
+Lavigan,LAV-0006,1,1,C
+Lavigan,LAV-0007,2,2,D
+Lavigan,LAV-0008,2,2,D
+Lavigan,LAV-0009,2,2,D
+Lavigan,LAV-0010,2,2,D
+Lavigan,LAV-0011,2,2,D
+Lavigan,LAV-0012,1,2,B
+Lavigan,LAV-0013,2,2,D
+Lavigan,LAV-0014,1,1,C
+Lavigan,LAV-0015,2,2,D
+Lavigan,LAV-0016,2,2,D
+Lavigan,LAV-0017,1,2,D
+Lavigan,LAV-0018,2,2,D
+Lavigan,LAV-0019,1,2,A
+Lavigan,LAV-0020,1,1,A
+Lavigan,LAV-0021,2,2,D
+Lavigan,LAV-0022,2,2,D
+Lavigan,LAV-0023,1,1,A
+Lavigan,LAV-0024,2,2,D
+Lavigan,LAV-0025,2,2,D
+Lavigan,LAV-0026,1,1,B
+Lavigan,LAV-0027,2,2,D
+Lavigan,LAV-0028,2,2,D
+Lavigan,LAV-0029,2,2,D
+Lavigan,LAV-0030,2,2,D
+Lavigan,LAV-0031,2,2,D
+Lavigan,LAV-0032,2,2,D
+Lavigan,LAV-0033,2,2,D
+Lavigan,LAV-0034,2,2,D
+Lavigan,LAV-0035,2,2,D
+Lavigan,LAV-0036,2,2,D
+Lavigan,LAV-0037,2,2,D
+Lavigan,LAV-0038,2,2,D
+Lavigan,LAV-0039,2,2,D
+Lavigan,LAV-0040,1,2,B
+Lavigan,LAV-0041,2,2,D
+Lavigan,LAV-0042,2,2,D
+Lavigan,LAV-0043,1,2,C
+Lavigan,LAV-0044,2,2,D
+Lavigan,LAV-0045,2,2,D
+Lavigan,LAV-0046,1,1,C
+Lavigan,LAV-0047,2,2,D
+Lavigan,LAV-0048,1,1,D
+Lavigan,LAV-0049,1,1,D
+Lavigan,LAV-0050,1,1,A
+Lavigan,LAV-0051,1,1,C
+Lavigan,LAV-0052,2,2,D
+Lavigan,LAV-0053,2,2,D
+Lavigan,LAV-0054,2,2,D
+Lavigan,LAV-0055,2,2,D
+Lavigan,LAV-0056,1,1,D
+Lavigan,LAV-0057,2,2,D
+Lavigan,LAV-0058,1,1,D
+Luzon,LUZ-0001,2,2,D
+Luzon,LUZ-0002,1,2,C
+Luzon,LUZ-0003,1,1,B
+Luzon,LUZ-0004,2,2,D
+Luzon,LUZ-0005,2,2,D
+Luzon,LUZ-0006,1,2,A
+Luzon,LUZ-0007,1,2,D
+Luzon,LUZ-0008,1,1,B
+Luzon,LUZ-0009,1,2,C
+Luzon,LUZ-0010,2,2,D
+Luzon,LUZ-0011,2,2,D
+Luzon,LUZ-0012,2,2,D
+Luzon,LUZ-0013,1,1,B
+Luzon,LUZ-0014,2,2,D
+Luzon,LUZ-0015,2,2,D
+Luzon,LUZ-0016,1,1,C
+Luzon,LUZ-0017,1,1,C
+Luzon,LUZ-0018,2,2,D
+Luzon,LUZ-0019,1,1,A
+Luzon,LUZ-0020,2,2,D
+Luzon,LUZ-0021,2,2,D
+Luzon,LUZ-0022,1,1,D
+Luzon,LUZ-0023,1,1,C
+Luzon,LUZ-0024,2,2,D
+Luzon,LUZ-0025,1,2,A
+Luzon,LUZ-0026,2,2,D
+Luzon,LUZ-0027,1,1,B
+Luzon,LUZ-0028,2,2,D
+Luzon,LUZ-0029,1,1,B
+Luzon,LUZ-0030,1,2,C
+Luzon,LUZ-0031,2,2,D
+Luzon,LUZ-0032,2,2,D
+Luzon,LUZ-0033,1,1,A
+Luzon,LUZ-0034,1,2,C
+Luzon,LUZ-0035,2,2,D
+Luzon,LUZ-0036,2,2,D
+Luzon,LUZ-0037,2,2,D
+Luzon,LUZ-0038,2,2,D
+Luzon,LUZ-0039,2,2,D
+Luzon,LUZ-0040,2,2,D
+Luzon,LUZ-0041,2,2,D
+Luzon,LUZ-0042,1,2,B
+Luzon,LUZ-0043,2,2,D
+Luzon,LUZ-0044,2,2,D
+Luzon,LUZ-0045,1,2,A
+Luzon,LUZ-0046,2,2,D
+Luzon,LUZ-0047,2,2,D
+Luzon,LUZ-0048,2,2,D
+Luzon,LUZ-0049,2,2,D
+Luzon,LUZ-0050,1,1,D
+Luzon,LUZ-0051,1,2,C
+Luzon,LUZ-0052,1,2,A
+Luzon,LUZ-0053,2,2,D
+Luzon,LUZ-0054,2,2,D
+Luzon,LUZ-0055,2,2,D
+Luzon,LUZ-0056,1,2,C
+Luzon,LUZ-0057,2,2,D
+Luzon,LUZ-0058,1,2,A
+Luzon,LUZ-0059,2,2,D
+Luzon,LUZ-0060,2,2,D
+Luzon,LUZ-0061,2,2,D
+Luzon,LUZ-0062,1,1,A
+Luzon,LUZ-0063,2,2,D
+Luzon,LUZ-0064,2,2,D
+Luzon,LUZ-0065,1,2,D
+Luzon,LUZ-0066,1,1,A
+Magdug,MAG-0001,2,2,D
+Magdug,MAG-0002,2,2,D
+Magdug,MAG-0003,2,2,D
+Magdug,MAG-0004,1,2,D
+Magdug,MAG-0005,1,1,C
+Magdug,MAG-0006,1,1,C
+Magdug,MAG-0007,1,2,A
+Magdug,MAG-0008,1,2,D
+Magdug,MAG-0009,1,1,D
+Magdug,MAG-0010,2,2,D
+Magdug,MAG-0011,2,2,D
+Magdug,MAG-0012,1,2,B
+Magdug,MAG-0013,2,2,D
+Magdug,MAG-0014,1,2,D
+Magdug,MAG-0015,1,1,B
+Magdug,MAG-0016,2,2,D
+Magdug,MAG-0017,2,2,D
+Magdug,MAG-0018,1,2,C
+Magdug,MAG-0019,2,2,D
+Magdug,MAG-0020,1,2,D
+Magdug,MAG-0021,2,2,D
+Magdug,MAG-0022,2,2,D
+Magdug,MAG-0023,1,1,D
+Magdug,MAG-0024,2,2,D
+Magdug,MAG-0025,2,2,D
+Magdug,MAG-0026,2,2,D
+Magdug,MAG-0027,2,2,D
+Magdug,MAG-0028,1,1,A
+Magdug,MAG-0029,2,2,D
+Magdug,MAG-0030,2,2,D
+Magdug,MAG-0031,1,1,A
+Magdug,MAG-0032,2,2,D
+Magdug,MAG-0033,2,2,D
+Magdug,MAG-0034,1,2,D
+Magdug,MAG-0035,1,2,A
+Magdug,MAG-0036,2,2,D
+Magdug,MAG-0037,2,2,D
+Magdug,MAG-0038,2,2,D
+Magdug,MAG-0039,2,2,D
+Magdug,MAG-0040,2,2,D
+Magdug,MAG-0041,2,2,D
+Magdug,MAG-0042,2,2,D
+Magdug,MAG-0043,1,2,B
+Magdug,MAG-0044,1,2,D
+Magdug,MAG-0045,2,2,D
+Magdug,MAG-0046,1,1,C
+Magdug,MAG-0047,2,2,D
+Magdug,MAG-0048,2,2,D
+Magdug,MAG-0049,1,2,B
+Magdug,MAG-0050,2,2,D
+Magdug,MAG-0051,2,2,D
+Magdug,MAG-0052,2,2,D
+Monserrat,MON-0001,1,1,C
+Monserrat,MON-0002,2,2,D
+Monserrat,MON-0003,1,1,A
+Monserrat,MON-0004,2,2,D
+Monserrat,MON-0005,2,2,D
+Monserrat,MON-0006,2,2,D
+Monserrat,MON-0007,2,2,D
+Monserrat,MON-0008,2,2,D
+Monserrat,MON-0009,2,2,D
+Monserrat,MON-0010,2,2,D
+Monserrat,MON-0011,1,1,A
+Monserrat,MON-0012,2,2,D
+Monserrat,MON-0013,1,1,B
+Monserrat,MON-0014,1,2,C
+Monserrat,MON-0015,1,2,D
+Monserrat,MON-0016,2,2,D
+Monserrat,MON-0017,2,2,D
+Monserrat,MON-0018,2,2,D
+Monserrat,MON-0019,2,2,D
+Monserrat,MON-0020,1,2,B
+Monserrat,MON-0021,2,2,D
+Monserrat,MON-0022,2,2,D
+Monserrat,MON-0023,2,2,D
+Monserrat,MON-0024,1,1,C
+Monserrat,MON-0025,2,2,D
+Monserrat,MON-0026,1,2,B
+Monserrat,MON-0027,2,2,D
+Monserrat,MON-0028,2,2,D
+Monserrat,MON-0029,2,2,D
+Monserrat,MON-0030,1,1,D
+Monserrat,MON-0031,2,2,D
+Monserrat,MON-0032,2,2,D
+Monserrat,MON-0033,2,2,D
+Monserrat,MON-0034,2,2,D
+Monserrat,MON-0035,1,1,A
+Monserrat,MON-0036,2,2,D
+Monserrat,MON-0037,2,2,D
+Monserrat,MON-0038,1,1,D
+Monserrat,MON-0039,2,2,D
+Monserrat,MON-0040,2,2,D
+Monserrat,MON-0041,2,2,D
+Monserrat,MON-0042,2,2,D
+Monserrat,MON-0043,2,2,D
+Nangan,NAN-0001,1,2,C
+Nangan,NAN-0002,1,1,B
+Nangan,NAN-0003,2,2,D
+Nangan,NAN-0004,1,2,D
+Nangan,NAN-0005,2,2,D
+Nangan,NAN-0006,1,1,A
+Nangan,NAN-0007,2,2,D
+Nangan,NAN-0008,1,1,D
+Nangan,NAN-0009,2,2,D
+Nangan,NAN-0010,1,2,B
+Nangan,NAN-0011,2,2,D
+Nangan,NAN-0012,2,2,D
+Nangan,NAN-0013,2,2,D
+Nangan,NAN-0014,2,2,D
+Nangan,NAN-0015,2,2,D
+Nangan,NAN-0016,2,2,D
+Nangan,NAN-0017,2,2,D
+Nangan,NAN-0018,1,1,A
+Nangan,NAN-0019,1,2,D
+Nangan,NAN-0020,1,2,D
+Nangan,NAN-0021,2,2,D
+Nangan,NAN-0022,2,2,D
+Nangan,NAN-0023,1,2,C
+Nangan,NAN-0024,1,1,B
+Nangan,NAN-0025,2,2,D
+Nangan,NAN-0026,2,2,D
+Nangan,NAN-0027,2,2,D
+Nangan,NAN-0028,2,2,D
+Nangan,NAN-0029,1,1,B
+Nangan,NAN-0030,2,2,D
+Nangan,NAN-0031,2,2,D
+Nangan,NAN-0032,1,2,D
+Nangan,NAN-0033,1,2,B
+Nangan,NAN-0034,2,2,D
+Nangan,NAN-0035,1,1,B
+Nangan,NAN-0036,1,2,B
+Nangan,NAN-0037,2,2,D
+Nangan,NAN-0038,2,2,D
+Nangan,NAN-0039,2,2,D
+Nangan,NAN-0040,2,2,D
+Nangan,NAN-0041,2,2,D
+Nangan,NAN-0042,1,1,B
+Nangan,NAN-0043,2,2,D
+Nangan,NAN-0044,1,2,C
+Nangan,NAN-0045,2,2,D
+Nangan,NAN-0046,1,1,B
+Nangan,NAN-0047,2,2,D
+Nangan,NAN-0048,1,2,C
+Nangan,NAN-0049,2,2,D
+Nangan,NAN-0050,2,2,D
+Nangan,NAN-0051,2,2,D
+Nangan,NAN-0052,2,2,D
+Nangan,NAN-0053,1,1,A
+Nangan,NAN-0054,2,2,D
+Nangan,NAN-0055,1,1,C
+Nangan,NAN-0056,1,2,B
+Nangan,NAN-0057,2,2,D
+Nangan,NAN-0058,2,2,D
+Nangan,NAN-0059,1,2,B
+Nangan,NAN-0060,2,2,D
+Nangan,NAN-0061,1,1,C
+Nangan,NAN-0062,1,1,B
+Nangan,NAN-0063,2,2,D
+Nangan,NAN-0064,1,1,A
+Nangan,NAN-0065,1,2,D
+Nangan,NAN-0066,2,2,D
+Nangan,NAN-0067,2,2,D
+Nangan,NAN-0068,1,2,B
+Nangan,NAN-0069,1,2,D
+Nangan,NAN-0070,1,1,B
+Nangan,NAN-0071,2,2,D
+Nangan,NAN-0072,2,2,D
+Nangan,NAN-0073,2,2,D
+Nangan,NAN-0074,2,2,D
+Nangan,NAN-0075,1,1,A
+Nangan,NAN-0076,2,2,D
+Nangan,NAN-0077,2,2,D
+Nangan,NAN-0078,1,2,D
+Nangan,NAN-0079,1,2,C
+Nangan,NAN-0080,2,2,D
+Nangan,NAN-0081,2,2,D
+Nangan,NAN-0082,2,2,D
+Nangan,NAN-0083,1,2,B
+Nangan,NAN-0084,2,2,D
+Nangan,NAN-0085,2,2,D
+Nangan,NAN-0086,1,1,B
+Nangan,NAN-0087,1,2,B
+Nangan,NAN-0088,2,2,D
+Nangan,NAN-0089,1,2,A
+Nangan,NAN-0090,1,1,C
+Nangan,NAN-0091,2,2,D
+Nangan,NAN-0092,2,2,D
+Nangan,NAN-0093,2,2,D
+Nangan,NAN-0094,1,2,D
+Nangan,NAN-0095,2,2,D
+Nangan,NAN-0096,2,2,D
+Nangan,NAN-0097,1,2,A
+Nangan,NAN-0098,1,1,B
+Nangan,NAN-0099,1,2,D
+Nangan,NAN-0100,1,2,B
+Nangan,NAN-0101,2,2,D
+Nangan,NAN-0102,1,2,D
+Nangan,NAN-0103,1,2,C
+Nangan,NAN-0104,1,1,A
+Nangan,NAN-0105,2,2,D
+Nangan,NAN-0106,2,2,D
+Nangan,NAN-0107,1,1,C
+Nangan,NAN-0108,2,2,D
+Nangan,NAN-0109,1,1,C
+Nangan,NAN-0110,2,2,D
+Nangan,NAN-0111,2,2,D
+Nangan,NAN-0112,2,2,D
+Oregon,ORE-0001,2,2,D
+Oregon,ORE-0002,2,2,D
+Oregon,ORE-0003,2,2,D
+Oregon,ORE-0004,1,1,A
+Oregon,ORE-0005,2,2,D
+Oregon,ORE-0006,2,2,D
+Oregon,ORE-0007,2,2,D
+Oregon,ORE-0008,2,2,D
+Oregon,ORE-0009,2,2,D
+Oregon,ORE-0010,2,2,D
+Oregon,ORE-0011,2,2,D
+Oregon,ORE-0012,1,1,C
+Oregon,ORE-0013,2,2,D
+Oregon,ORE-0014,2,2,D
+Oregon,ORE-0015,1,2,C
+Oregon,ORE-0016,2,2,D
+Oregon,ORE-0017,2,2,D
+Oregon,ORE-0018,1,2,C
+Oregon,ORE-0019,2,2,D
+Oregon,ORE-0020,2,2,D
+Oregon,ORE-0021,2,2,D
+Oregon,ORE-0022,2,2,D
+Oregon,ORE-0023,2,2,D
+Oregon,ORE-0024,2,2,D
+Oregon,ORE-0025,1,1,D
+Oregon,ORE-0026,2,2,D
+Poblacion,POB-0001,2,2,D
+Poblacion,POB-0002,1,1,A
+Poblacion,POB-0003,1,1,B
+Poblacion,POB-0004,1,2,A
+Poblacion,POB-0005,2,2,D
+Poblacion,POB-0006,2,2,D
+Poblacion,POB-0007,1,2,A
+Poblacion,POB-0008,1,1,C
+Poblacion,POB-0009,2,2,D
+Poblacion,POB-0010,1,1,C
+Poblacion,POB-0011,1,1,C
+Poblacion,POB-0012,1,2,B
+Poblacion,POB-0013,2,2,D
+Poblacion,POB-0014,1,2,A
+Poblacion,POB-0015,2,2,D
+Poblacion,POB-0016,2,2,D
+Poblacion,POB-0017,2,2,D
+Poblacion,POB-0018,2,2,D
+Poblacion,POB-0019,1,1,A
+Poblacion,POB-0020,2,2,D
+Poblacion,POB-0021,2,2,D
+Poblacion,POB-0022,1,1,A
+Poblacion,POB-0023,2,2,D
+Poblacion,POB-0024,2,2,D
+Poblacion,POB-0025,2,2,D
+Poblacion,POB-0026,2,2,D
+Poblacion,POB-0027,2,2,D
+Poblacion,POB-0028,1,2,C
+Poblacion,POB-0029,2,2,D
+Poblacion,POB-0030,1,2,A
+Poblacion,POB-0031,1,2,A
+Poblacion,POB-0032,1,1,B
+Poblacion,POB-0033,1,1,C
+Poblacion,POB-0034,2,2,D
+Poblacion,POB-0035,1,2,C
+Poblacion,POB-0036,1,1,D
+Poblacion,POB-0037,2,2,D
+Poblacion,POB-0038,2,2,D
+Poblacion,POB-0039,2,2,D
+Poblacion,POB-0040,2,2,D
+Poblacion,POB-0041,2,2,D
+Poblacion,POB-0042,2,2,D
+Poblacion,POB-0043,2,2,D
+Poblacion,POB-0044,2,2,D
+Poblacion,POB-0045,2,2,D
+Poblacion,POB-0046,2,2,D
+Poblacion,POB-0047,1,1,D
+Poblacion,POB-0048,2,2,D
+Poblacion,POB-0049,2,2,D
+Poblacion,POB-0050,2,2,D
+Poblacion,POB-0051,1,2,A
+Poblacion,POB-0052,2,2,D
+Poblacion,POB-0053,2,2,D
+Poblacion,POB-0054,2,2,D
+Poblacion,POB-0055,2,2,D
+Poblacion,POB-0056,2,2,D
+Poblacion,POB-0057,2,2,D
+Poblacion,POB-0058,2,2,D
+Poblacion,POB-0059,1,2,A
+Poblacion,POB-0060,1,2,C
+Poblacion,POB-0061,2,2,D
+Poblacion,POB-0062,2,2,D
+Poblacion,POB-0063,2,2,D
+Poblacion,POB-0064,1,1,D
+Poblacion,POB-0065,2,2,D
+Poblacion,POB-0066,1,1,B
+Poblacion,POB-0067,1,2,D
+Poblacion,POB-0068,1,2,B
+Poblacion,POB-0069,1,1,B
+Poblacion,POB-0070,2,2,D
+Poblacion,POB-0071,2,2,D
+Poblacion,POB-0072,2,2,D
+Poblacion,POB-0073,1,1,C
+Poblacion,POB-0074,1,2,D
+Poblacion,POB-0075,1,1,C
+Poblacion,POB-0076,1,1,D
+Poblacion,POB-0077,2,2,D
+Poblacion,POB-0078,2,2,D
+Poblacion,POB-0079,2,2,D
+Poblacion,POB-0080,2,2,D
+Poblacion,POB-0081,2,2,D
+Poblacion,POB-0082,1,1,C
+Poblacion,POB-0083,1,1,D
+Poblacion,POB-0084,2,2,D
+Poblacion,POB-0085,2,2,D
+Poblacion,POB-0086,2,2,D
+Poblacion,POB-0087,1,2,C
+Poblacion,POB-0088,1,2,B
+Poblacion,POB-0089,2,2,D
+Poblacion,POB-0090,2,2,D
+Poblacion,POB-0091,2,2,D
+Poblacion,POB-0092,2,2,D
+Poblacion,POB-0093,2,2,D
+Poblacion,POB-0094,2,2,D
+Poblacion,POB-0095,2,2,D
+Poblacion,POB-0096,2,2,D
+Poblacion,POB-0097,2,2,D
+Poblacion,POB-0098,2,2,D
+Poblacion,POB-0099,1,1,A
+Poblacion,POB-0100,1,1,D
+Poblacion,POB-0101,2,2,D
+Poblacion,POB-0102,1,1,C
+Poblacion,POB-0103,1,2,B
+Poblacion,POB-0104,1,1,D
+Poblacion,POB-0105,1,2,C
+Poblacion,POB-0106,1,1,A
+Poblacion,POB-0107,1,1,A
+Poblacion,POB-0108,2,2,D
+Poblacion,POB-0109,1,1,A
+Poblacion,POB-0110,2,2,D
+Poblacion,POB-0111,2,2,D
+Poblacion,POB-0112,1,1,D
+Poblacion,POB-0113,1,1,C
+Poblacion,POB-0114,2,2,D
+Poblacion,POB-0115,1,1,A
+Poblacion,POB-0116,2,2,D
+Poblacion,POB-0117,1,1,A
+Poblacion,POB-0118,1,2,B
+Poblacion,POB-0119,2,2,D
+Poblacion,POB-0120,2,2,D
+Poblacion,POB-0121,2,2,D
+Poblacion,POB-0122,1,2,B
+Poblacion,POB-0123,2,2,D
+Poblacion,POB-0124,2,2,D
+Pundaguitan,PUN-0001,1,1,C
+Pundaguitan,PUN-0002,2,2,D
+Pundaguitan,PUN-0003,2,2,D
+Pundaguitan,PUN-0004,2,2,D
+Pundaguitan,PUN-0005,2,2,D
+Pundaguitan,PUN-0006,2,2,D
+Pundaguitan,PUN-0007,1,1,B
+Pundaguitan,PUN-0008,2,2,D
+Pundaguitan,PUN-0009,2,2,D
+Pundaguitan,PUN-0010,2,2,D
+Pundaguitan,PUN-0011,1,2,A
+Pundaguitan,PUN-0012,1,2,A
+Pundaguitan,PUN-0013,2,2,D
+Pundaguitan,PUN-0014,1,1,A
+Pundaguitan,PUN-0015,2,2,D
+Pundaguitan,PUN-0016,2,2,D
+Pundaguitan,PUN-0017,2,2,D
+Pundaguitan,PUN-0018,2,2,D
+Pundaguitan,PUN-0019,2,2,D
+Pundaguitan,PUN-0020,2,2,D
+Pundaguitan,PUN-0021,2,2,D
+Pundaguitan,PUN-0022,1,2,B
+Pundaguitan,PUN-0023,1,1,C
+Pundaguitan,PUN-0024,2,2,D
+Pundaguitan,PUN-0025,1,2,D
+Pundaguitan,PUN-0026,2,2,D
+Pundaguitan,PUN-0027,1,1,A
+Pundaguitan,PUN-0028,1,1,D
+Pundaguitan,PUN-0029,1,1,B
+Pundaguitan,PUN-0030,1,2,D
+Pundaguitan,PUN-0031,2,2,D
+Pundaguitan,PUN-0032,1,1,B
+Pundaguitan,PUN-0033,2,2,D
+Pundaguitan,PUN-0034,2,2,D
+Pundaguitan,PUN-0035,2,2,D
+Pundaguitan,PUN-0036,2,2,D
+Pundaguitan,PUN-0037,1,2,C
+Pundaguitan,PUN-0038,1,1,A
+Pundaguitan,PUN-0039,1,1,D
+Pundaguitan,PUN-0040,2,2,D
+Pundaguitan,PUN-0041,2,2,D
+Pundaguitan,PUN-0042,1,1,A
+Pundaguitan,PUN-0043,1,1,A
+Pundaguitan,PUN-0044,1,1,A
+Pundaguitan,PUN-0045,1,1,C
+Pundaguitan,PUN-0046,2,2,D
+Pundaguitan,PUN-0047,1,2,D
+Pundaguitan,PUN-0048,2,2,D
+Pundaguitan,PUN-0049,2,2,D
+Pundaguitan,PUN-0050,2,2,D
+Pundaguitan,PUN-0051,2,2,D
+Pundaguitan,PUN-0052,2,2,D
+Pundaguitan,PUN-0053,1,2,A
+Pundaguitan,PUN-0054,2,2,D
+Sergio Osmeña,SER-0001,2,2,D
+Sergio Osmeña,SER-0002,1,2,B
+Sergio Osmeña,SER-0003,2,2,D
+Sergio Osmeña,SER-0004,2,2,D
+Sergio Osmeña,SER-0005,2,2,D
+Sergio Osmeña,SER-0006,1,1,B
+Sergio Osmeña,SER-0007,1,1,A
+Sergio Osmeña,SER-0008,2,2,D
+Sergio Osmeña,SER-0009,2,2,D
+Sergio Osmeña,SER-0010,1,1,C
+Sergio Osmeña,SER-0011,1,1,D
+Sergio Osmeña,SER-0012,2,2,D
+Sergio Osmeña,SER-0013,1,1,C
+Sergio Osmeña,SER-0014,2,2,D
+Sergio Osmeña,SER-0015,2,2,D
+Sergio Osmeña,SER-0016,1,2,B
+Sergio Osmeña,SER-0017,1,2,B
+Sergio Osmeña,SER-0018,1,2,D
+Sergio Osmeña,SER-0019,2,2,D
+Sergio Osmeña,SER-0020,1,2,B
+Sergio Osmeña,SER-0021,2,2,D
+Sergio Osmeña,SER-0022,2,2,D
+Sergio Osmeña,SER-0023,1,1,D
+Sergio Osmeña,SER-0024,2,2,D
+Sergio Osmeña,SER-0025,1,1,B
+Sergio Osmeña,SER-0026,1,2,B
+Sergio Osmeña,SER-0027,1,1,D
+Sergio Osmeña,SER-0028,1,1,B
+Sergio Osmeña,SER-0029,2,2,D
+Sergio Osmeña,SER-0030,2,2,D
+Sergio Osmeña,SER-0031,2,2,D
+Sergio Osmeña,SER-0032,1,1,C
+Sergio Osmeña,SER-0033,2,2,D
+Sergio Osmeña,SER-0034,2,2,D
+Sergio Osmeña,SER-0035,1,1,B
+Sergio Osmeña,SER-0036,1,2,B
+Sergio Osmeña,SER-0037,1,2,C
+Sergio Osmeña,SER-0038,2,2,D
+Sergio Osmeña,SER-0039,1,1,A
+Sergio Osmeña,SER-0040,2,2,D
+Sergio Osmeña,SER-0041,1,2,B
+Sergio Osmeña,SER-0042,1,2,B
+Sergio Osmeña,SER-0043,2,2,D
+Surop,SUR-0001,1,1,A
+Surop,SUR-0002,2,2,D
+Surop,SUR-0003,2,2,D
+Surop,SUR-0004,2,2,D
+Surop,SUR-0005,1,1,C
+Surop,SUR-0006,1,2,B
+Surop,SUR-0007,2,2,D
+Surop,SUR-0008,2,2,D
+Surop,SUR-0009,2,2,D
+Surop,SUR-0010,1,2,B
+Surop,SUR-0011,1,1,B
+Surop,SUR-0012,1,2,C
+Surop,SUR-0013,2,2,D
+Surop,SUR-0014,1,1,A
+Surop,SUR-0015,1,2,D
+Surop,SUR-0016,1,1,D
+Surop,SUR-0017,2,2,D
+Surop,SUR-0018,2,2,D
+Surop,SUR-0019,2,2,D
+Surop,SUR-0020,1,2,D
+Surop,SUR-0021,2,2,D
+Surop,SUR-0022,2,2,D
+Surop,SUR-0023,1,1,C
+Surop,SUR-0024,2,2,D
+Surop,SUR-0025,1,1,D
+Surop,SUR-0026,1,1,C
+Surop,SUR-0027,1,1,D
+Surop,SUR-0028,1,2,A
+Surop,SUR-0029,1,1,D
+Surop,SUR-0030,2,2,D
+Surop,SUR-0031,2,2,D
+Surop,SUR-0032,2,2,D
+Surop,SUR-0033,1,1,C
+Surop,SUR-0034,2,2,D
+Surop,SUR-0035,2,2,D
+Surop,SUR-0036,2,2,D
+Surop,SUR-0037,2,2,D
+Surop,SUR-0038,2,2,D
+Surop,SUR-0039,2,2,D
+Surop,SUR-0040,2,2,D
+Surop,SUR-0041,1,1,D
+Surop,SUR-0042,1,1,A
+Surop,SUR-0043,2,2,D
+Surop,SUR-0044,2,2,D
+Surop,SUR-0045,2,2,D
+Surop,SUR-0046,2,2,D
+Surop,SUR-0047,1,2,B
+Surop,SUR-0048,1,1,B
+Surop,SUR-0049,1,2,B
+Surop,SUR-0050,2,2,D
+Surop,SUR-0051,1,2,B
+Surop,SUR-0052,2,2,D
+Surop,SUR-0053,2,2,D
+Surop,SUR-0054,2,2,D
+Surop,SUR-0055,2,2,D
+Surop,SUR-0056,2,2,D
+Surop,SUR-0057,1,2,D
+Surop,SUR-0058,2,2,D
+Tagabebe,TAG-0001,2,2,D
+Tagabebe,TAG-0002,2,2,D
+Tagabebe,TAG-0003,2,2,D
+Tagabebe,TAG-0004,1,2,D
+Tagabebe,TAG-0005,1,2,B
+Tagabebe,TAG-0006,2,2,D
+Tagabebe,TAG-0007,2,2,D
+Tagabebe,TAG-0008,2,2,D
+Tagabebe,TAG-0009,2,2,D
+Tagabebe,TAG-0010,1,2,B
+Tagabebe,TAG-0011,2,2,D
+Tagabebe,TAG-0012,1,2,C
+Tagabebe,TAG-0013,2,2,D
+Tagabebe,TAG-0014,2,2,D
+Tagabebe,TAG-0015,1,2,C
+Tagabebe,TAG-0016,1,2,C
+Tagabebe,TAG-0017,1,1,B
+Tagabebe,TAG-0018,2,2,D
+Tagabebe,TAG-0019,2,2,D
+Tagabebe,TAG-0020,1,1,C
+Tagabebe,TAG-0021,1,2,D
+Tagabebe,TAG-0022,2,2,D
+Tagabebe,TAG-0023,2,2,D
+Tagabebe,TAG-0024,2,2,D
+Tagabebe,TAG-0025,1,2,D
+Tagabebe,TAG-0026,2,2,D
+Tagabebe,TAG-0027,2,2,D
+Tagabebe,TAG-0028,1,1,C
+Tagabebe,TAG-0029,2,2,D
+Tagabebe,TAG-0030,2,2,D
+Tagabebe,TAG-0031,1,2,B
+Tagabebe,TAG-0032,2,2,D
+Tagabebe,TAG-0033,2,2,D
+Tagabebe,TAG-0034,2,2,D
+Tagabebe,TAG-0035,2,2,D
+Tagabebe,TAG-0036,1,1,B
+Tagabebe,TAG-0037,2,2,D
+Tagabebe,TAG-0038,1,1,D
+Tagabebe,TAG-0039,1,2,C
+Tagabebe,TAG-0040,2,2,D
+Tagabebe,TAG-0041,2,2,D
+Tagabebe,TAG-0042,1,2,D
+Tagabebe,TAG-0043,2,2,D
+Tagabebe,TAG-0044,1,1,D
+Tagabebe,TAG-0045,1,2,C
+Tagabebe,TAG-0046,1,2,A
+Tagabebe,TAG-0047,2,2,D
+Tamban,TAM-0001,1,1,A
+Tamban,TAM-0002,1,2,C
+Tamban,TAM-0003,2,2,D
+Tamban,TAM-0004,2,2,D
+Tamban,TAM-0005,2,2,D
+Tamban,TAM-0006,2,2,D
+Tamban,TAM-0007,2,2,D
+Tamban,TAM-0008,2,2,D
+Tamban,TAM-0009,2,2,D
+Tamban,TAM-0010,2,2,D
+Tamban,TAM-0011,2,2,D
+Tamban,TAM-0012,2,2,D
+Tamban,TAM-0013,1,2,B
+Tamban,TAM-0014,1,2,A
+Tamban,TAM-0015,2,2,D
+Tamban,TAM-0016,2,2,D
+Tamban,TAM-0017,1,1,A
+Tamban,TAM-0018,2,2,D
+Tamban,TAM-0019,1,1,D
+Tamban,TAM-0020,1,1,C
+Tamban,TAM-0021,2,2,D
+Tamban,TAM-0022,1,1,B
+Tamban,TAM-0023,1,2,C
+Tamban,TAM-0024,2,2,D
+Tamban,TAM-0025,2,2,D
+Tamban,TAM-0026,1,1,B
+Tamban,TAM-0027,2,2,D
+Tamban,TAM-0028,2,2,D
+Tamban,TAM-0029,1,1,B
+Tamban,TAM-0030,2,2,D
+Tamban,TAM-0031,2,2,D
+Tamban,TAM-0032,2,2,D
+Tamban,TAM-0033,1,2,C
+Tamban,TAM-0034,2,2,D
+Tamban,TAM-0035,2,2,D
+Tamban,TAM-0036,2,2,D
+Tandang Sora,TAN-0001,2,2,D
+Tandang Sora,TAN-0002,1,2,C
+Tandang Sora,TAN-0003,2,2,D
+Tandang Sora,TAN-0004,2,2,D
+Tandang Sora,TAN-0005,2,2,D
+Tandang Sora,TAN-0006,2,2,D
+Tandang Sora,TAN-0007,2,2,D
+Tandang Sora,TAN-0008,1,1,B
+Tandang Sora,TAN-0009,2,2,D
+Tandang Sora,TAN-0010,2,2,D
+Tandang Sora,TAN-0011,1,1,A
+Tandang Sora,TAN-0012,2,2,D
+Tandang Sora,TAN-0013,1,1,C
+Tandang Sora,TAN-0014,2,2,D
+Tandang Sora,TAN-0015,1,1,B
+Tandang Sora,TAN-0016,1,2,A
+Tandang Sora,TAN-0017,2,2,D
+Tandang Sora,TAN-0018,1,1,C
+Tandang Sora,TAN-0019,2,2,D
+Tandang Sora,TAN-0020,2,2,D
+Tandang Sora,TAN-0021,1,1,C
+Tandang Sora,TAN-0022,2,2,D
+Tandang Sora,TAN-0023,1,1,C
+Tandang Sora,TAN-0024,2,2,D
+Tandang Sora,TAN-0025,2,2,D
+Tandang Sora,TAN-0026,2,2,D
+Tandang Sora,TAN-0027,1,2,C
+Tandang Sora,TAN-0028,1,1,A
+Tandang Sora,TAN-0029,2,2,D
+Tandang Sora,TAN-0030,2,2,D
+Tandang Sora,TAN-0031,1,2,D
+Tandang Sora,TAN-0032,1,1,D
+Tandang Sora,TAN-0033,1,1,C
+Tandang Sora,TAN-0034,2,2,D
+Tibanban,TIB-0001,2,2,D
+Tibanban,TIB-0002,1,2,B
+Tibanban,TIB-0003,1,1,D
+Tibanban,TIB-0004,2,2,D
+Tibanban,TIB-0005,2,2,D
+Tibanban,TIB-0006,1,1,C
+Tibanban,TIB-0007,2,2,D
+Tibanban,TIB-0008,2,2,D
+Tibanban,TIB-0009,2,2,D
+Tibanban,TIB-0010,2,2,D
+Tibanban,TIB-0011,2,2,D
+Tibanban,TIB-0012,1,1,A
+Tibanban,TIB-0013,2,2,D
+Tibanban,TIB-0014,1,1,D
+Tibanban,TIB-0015,1,2,D
+Tibanban,TIB-0016,2,2,D
+Tibanban,TIB-0017,1,1,D
+Tibanban,TIB-0018,1,2,C
+Tibanban,TIB-0019,1,2,D
+Tibanban,TIB-0020,2,2,D
+Tibanban,TIB-0021,1,2,A
+Tibanban,TIB-0022,2,2,D
+Tibanban,TIB-0023,2,2,D
+Tibanban,TIB-0024,1,2,D
+Tibanban,TIB-0025,1,2,C
+Tibanban,TIB-0026,1,2,A
+Tibanban,TIB-0027,2,2,D
+Tibanban,TIB-0028,1,1,A
+Tibanban,TIB-0029,1,1,B
+Tibanban,TIB-0030,2,2,D
+Tibanban,TIB-0031,1,1,D
+Tibanban,TIB-0032,1,1,D
+Tibanban,TIB-0033,2,2,D
+Tibanban,TIB-0034,2,2,D
+Tibanban,TIB-0035,2,2,D
+Tibanban,TIB-0036,2,2,D
+Tibanban,TIB-0037,2,2,D
+Tibanban,TIB-0038,1,1,A
+Tibanban,TIB-0039,2,2,D
+Tibanban,TIB-0040,2,2,D
+Tibanban,TIB-0041,1,2,A
+Tibanban,TIB-0042,2,2,D
+Tibanban,TIB-0043,2,2,D
+Tibanban,TIB-0044,2,2,D
+Tibanban,TIB-0045,1,1,B
+Tibanban,TIB-0046,1,1,C
+Tibanban,TIB-0047,2,2,D
+Tibanban,TIB-0048,1,2,C
+Tibanban,TIB-0049,2,2,D
+Tibanban,TIB-0050,2,2,D
+Tibanban,TIB-0051,2,2,D
+Tibanban,TIB-0052,1,2,B
+Tibanban,TIB-0053,1,2,D
+Tibanban,TIB-0054,2,2,D
+Tibanban,TIB-0055,1,1,D
+Tibanban,TIB-0056,1,2,C
+Tibanban,TIB-0057,2,2,D
+Tibanban,TIB-0058,1,2,B
+Tibanban,TIB-0059,1,1,A
+Tibanban,TIB-0060,1,2,C
+Tibanban,TIB-0061,2,2,D
+Tibanban,TIB-0062,1,2,D
+Tibanban,TIB-0063,1,1,C
+Tibanban,TIB-0064,2,2,D
+Tibanban,TIB-0065,1,1,A
+Tibanban,TIB-0066,2,2,D
+Tibanban,TIB-0067,1,2,C
+Tibanban,TIB-0068,1,2,B
+Tibanban,TIB-0069,2,2,D
+Tibanban,TIB-0070,2,2,D
+Tibanban,TIB-0071,2,2,D
+Tibanban,TIB-0072,2,2,D
+Tibanban,TIB-0073,2,2,D
+Tibanban,TIB-0074,1,2,A
+Tibanban,TIB-0075,2,2,D
+Tibanban,TIB-0076,2,2,D
+Tibanban,TIB-0077,1,1,B
+Tibanban,TIB-0078,2,2,D
+Tibanban,TIB-0079,2,2,D
+Tibanban,TIB-0080,1,1,C
+Tibanban,TIB-0081,2,2,D
+Tibanban,TIB-0082,1,1,C
+Tibanban,TIB-0083,1,2,D
+Tibanban,TIB-0084,2,2,D
+Tibanban,TIB-0085,2,2,D
+Tibanban,TIB-0086,1,1,B
+Tibanban,TIB-0087,1,2,C
+Tibanban,TIB-0088,2,2,D
+Tibanban,TIB-0089,2,2,D
+Tibanban,TIB-0090,2,2,D
+Tibanban,TIB-0091,2,2,D
+Tibanban,TIB-0092,1,2,B
+Tibanban,TIB-0093,1,1,D
+Tibanban,TIB-0094,1,1,A
+Tibanban,TIB-0095,2,2,D
+Tibanban,TIB-0096,2,2,D
+Tibanban,TIB-0097,2,2,D
+Tibanban,TIB-0098,2,2,D
+Tibanban,TIB-0099,1,2,B
+Tibanban,TIB-0100,2,2,D
+Tibanban,TIB-0101,2,2,D
+Tibanban,TIB-0102,2,2,D
+Tibanban,TIB-0103,2,2,D
+Tibanban,TIB-0104,2,2,D
+Tibanban,TIB-0105,1,1,B
+Tibanban,TIB-0106,2,2,D
+Tibanban,TIB-0107,2,2,D
+Tibanban,TIB-0108,1,1,C
+Tibanban,TIB-0109,2,2,D
+Tibanban,TIB-0110,2,2,D
+Tibanban,TIB-0111,1,2,B
+Tibanban,TIB-0112,1,1,A
+Tibanban,TIB-0113,1,1,B
+Tibanban,TIB-0114,2,2,D
+Tibanban,TIB-0115,2,2,D
+Tibanban,TIB-0116,2,2,D
+Tibanban,TIB-0117,2,2,D
+Tibanban,TIB-0118,2,2,D
+Tibanban,TIB-0119,2,2,D
+Tibanban,TIB-0120,1,2,A
+Tibanban,TIB-0121,2,2,D
+Tibanban,TIB-0122,1,1,A
+Tibanban,TIB-0123,2,2,D
+Tibanban,TIB-0124,1,1,C
+Tibanban,TIB-0125,2,2,D
+Tibanban,TIB-0126,2,2,D
+Tibanban,TIB-0127,2,2,D
+Tibanban,TIB-0128,2,2,D
+Tibanban,TIB-0129,1,2,D
+Tibanban,TIB-0130,1,1,B
+Tibanban,TIB-0131,1,2,C
+Tibanban,TIB-0132,1,1,B
+Tibanban,TIB-0133,2,2,D
+Tibanban,TIB-0134,1,1,A
+Tibanban,TIB-0135,2,2,D
+Tibanban,TIB-0136,1,1,D
+Tibanban,TIB-0137,1,1,C
+Tibanban,TIB-0138,1,1,A
+Tibanban,TIB-0139,1,2,D
+Tibanban,TIB-0140,2,2,D
+Tibanban,TIB-0141,2,2,D
+Tibanban,TIB-0142,1,2,D
+Tibanban,TIB-0143,2,2,D
+Tibanban,TIB-0144,2,2,D
+Tibanban,TIB-0145,2,2,D
+Tibanban,TIB-0146,1,1,B
+Tibanban,TIB-0147,1,1,D
+Tibanban,TIB-0148,2,2,D
+Tibanban,TIB-0149,2,2,D
+Tibanban,TIB-0150,1,2,A
+Tibanban,TIB-0151,1,1,B
+Tibanban,TIB-0152,2,2,D
+Tibanban,TIB-0153,2,2,D
+Tibanban,TIB-0154,1,2,D
+Tibanban,TIB-0155,2,2,D
+Tibanban,TIB-0156,1,1,B
+Tibanban,TIB-0157,2,2,D
+Tibanban,TIB-0158,1,1,A
+Tibanban,TIB-0159,2,2,D
+Tibanban,TIB-0160,1,2,B
+Tibanban,TIB-0161,1,2,B
+Tibanban,TIB-0162,2,2,D
+Tibanban,TIB-0163,2,2,D
+Tibanban,TIB-0164,2,2,D
+Tibanban,TIB-0165,1,2,C
+Tibanban,TIB-0166,2,2,D
+Tibanban,TIB-0167,1,1,D
+Tibanban,TIB-0168,1,2,C
+Tibanban,TIB-0169,1,1,D
+Tibanban,TIB-0170,2,2,D
+Tibanban,TIB-0171,2,2,D
+Tibanban,TIB-0172,2,2,D
+Tibanban,TIB-0173,2,2,D
+Tibanban,TIB-0174,2,2,D
+Tibanban,TIB-0175,2,2,D
+Tibanban,TIB-0176,2,2,D
+Tibanban,TIB-0177,1,1,B
+Tibanban,TIB-0178,1,2,C
+Tibanban,TIB-0179,2,2,D
+Tibanban,TIB-0180,2,2,D
+Tibanban,TIB-0181,2,2,D
+Tibanban,TIB-0182,2,2,D
+Tibanban,TIB-0183,2,2,D
+Tibanban,TIB-0184,1,1,B
+Tibanban,TIB-0185,2,2,D
+Tibanban,TIB-0186,2,2,D
+Tibanban,TIB-0187,1,1,D
+Tibanban,TIB-0188,2,2,D
+Tibanban,TIB-0189,2,2,D
+Tibanban,TIB-0190,2,2,D
+Tibanban,TIB-0191,2,2,D
+Tibanban,TIB-0192,2,2,D
+Tibanban,TIB-0193,2,2,D
+Tibanban,TIB-0194,1,1,D
+Tibanban,TIB-0195,1,1,D
+Tibanban,TIB-0196,1,1,A
+Tibanban,TIB-0197,1,2,B
+Tibanban,TIB-0198,2,2,D
+Tibanban,TIB-0199,2,2,D
+Tibanban,TIB-0200,2,2,D
+Tibanban,TIB-0201,2,2,D
+Tibanban,TIB-0202,2,2,D
+Tibanban,TIB-0203,2,2,D
+Tibanban,TIB-0204,2,2,D
+Tibanban,TIB-0205,1,1,B
+Tibanban,TIB-0206,2,2,D
+Tibanban,TIB-0207,2,2,D
+Tibanban,TIB-0208,1,1,B
+Tibanban,TIB-0209,1,1,C
+Tibanban,TIB-0210,2,2,D
+Tibanban,TIB-0211,2,2,D
+Tibanban,TIB-0212,1,2,A
+Tibanban,TIB-0213,2,2,D
+Tibanban,TIB-0214,2,2,D
+Tibanban,TIB-0215,1,2,A
+Tibanban,TIB-0216,1,1,C
+Tibanban,TIB-0217,2,2,D
+Tiblawan,TIB-0001,1,1,B
+Tiblawan,TIB-0002,2,2,D
+Tiblawan,TIB-0003,1,1,B
+Tiblawan,TIB-0004,2,2,D
+Tiblawan,TIB-0005,1,1,A
+Tiblawan,TIB-0006,1,1,C
+Tiblawan,TIB-0007,2,2,D
+Tiblawan,TIB-0008,2,2,D
+Tiblawan,TIB-0009,2,2,D
+Tiblawan,TIB-0010,2,2,D
+Tiblawan,TIB-0011,2,2,D
+Tiblawan,TIB-0012,2,2,D
+Tiblawan,TIB-0013,1,1,B
+Tiblawan,TIB-0014,2,2,D
+Tiblawan,TIB-0015,2,2,D
+Tiblawan,TIB-0016,2,2,D
+Tiblawan,TIB-0017,1,2,A
+Tiblawan,TIB-0018,1,2,B
+Tiblawan,TIB-0019,1,2,A
+Tiblawan,TIB-0020,2,2,D
+Tiblawan,TIB-0021,1,2,C
+Tiblawan,TIB-0022,2,2,D
+Tiblawan,TIB-0023,2,2,D
+Tiblawan,TIB-0024,2,2,D
+Tiblawan,TIB-0025,1,1,B
+Tiblawan,TIB-0026,2,2,D
+Tiblawan,TIB-0027,2,2,D
+Tiblawan,TIB-0028,1,2,C
+Tiblawan,TIB-0029,2,2,D
+Tiblawan,TIB-0030,1,1,B
+Tiblawan,TIB-0031,2,2,D
+Tiblawan,TIB-0032,2,2,D
+Tiblawan,TIB-0033,2,2,D
+Tiblawan,TIB-0034,1,1,B
+Tiblawan,TIB-0035,2,2,D
+Tiblawan,TIB-0036,2,2,D
+Tiblawan,TIB-0037,1,2,B
+Tiblawan,TIB-0038,1,1,C
+Tiblawan,TIB-0039,2,2,D
+Tiblawan,TIB-0040,2,2,D
+Tiblawan,TIB-0041,2,2,D
+Tiblawan,TIB-0042,2,2,D
+Tiblawan,TIB-0043,2,2,D
+Tiblawan,TIB-0044,1,1,B
+Tiblawan,TIB-0045,1,2,C
+Tiblawan,TIB-0046,2,2,D
+Tiblawan,TIB-0047,1,1,A
+Tiblawan,TIB-0048,2,2,D
+Tiblawan,TIB-0049,2,2,D
+Tiblawan,TIB-0050,2,2,D
+Tiblawan,TIB-0051,1,1,D
+Tiblawan,TIB-0052,2,2,D
+Tiblawan,TIB-0053,2,2,D
+Tiblawan,TIB-0054,2,2,D
+Tiblawan,TIB-0055,1,1,A
+Tiblawan,TIB-0056,1,1,B
+Tiblawan,TIB-0057,2,2,D
+Tiblawan,TIB-0058,2,2,D
+Tiblawan,TIB-0059,2,2,D
+Tiblawan,TIB-0060,2,2,D
+Tiblawan,TIB-0061,2,2,D
+Tiblawan,TIB-0062,2,2,D
+Tiblawan,TIB-0063,2,2,D
+Tiblawan,TIB-0064,2,2,D
+Tiblawan,TIB-0065,1,1,C
+Tiblawan,TIB-0066,2,2,D
+Tiblawan,TIB-0067,2,2,D
+Tiblawan,TIB-0068,2,2,D
+Tiblawan,TIB-0069,1,1,A
+Tiblawan,TIB-0070,2,2,D
+Tiblawan,TIB-0071,1,2,A
+Tiblawan,TIB-0072,2,2,D
+Tiblawan,TIB-0073,2,2,D
+Tiblawan,TIB-0074,1,1,A
+Tiblawan,TIB-0075,2,2,D
+Tiblawan,TIB-0076,2,2,D
+Tiblawan,TIB-0077,2,2,D
+Tiblawan,TIB-0078,1,2,C
+Tiblawan,TIB-0079,2,2,D
+Tiblawan,TIB-0080,1,2,C
+Tiblawan,TIB-0081,2,2,D
+Tiblawan,TIB-0082,2,2,D
+Tiblawan,TIB-0083,1,1,A
+Tiblawan,TIB-0084,2,2,D
+Tiblawan,TIB-0085,2,2,D
+Tiblawan,TIB-0086,2,2,D
+Tiblawan,TIB-0087,1,1,A
+Tiblawan,TIB-0088,2,2,D
+Tiblawan,TIB-0089,2,2,D
+Tiblawan,TIB-0090,2,2,D
+Tiblawan,TIB-0091,1,2,A
+Tiblawan,TIB-0092,1,1,B
+Tiblawan,TIB-0093,1,1,D
+Tiblawan,TIB-0094,1,1,B
+Tiblawan,TIB-0095,1,1,A
+Tiblawan,TIB-0096,1,1,B
+Tiblawan,TIB-0097,1,1,C
+Tiblawan,TIB-0098,2,2,D
+Tiblawan,TIB-0099,1,2,A
+Upper Tibanban,UPP-0001,2,2,D
+Upper Tibanban,UPP-0002,1,2,D
+Upper Tibanban,UPP-0003,2,2,D
+Upper Tibanban,UPP-0004,1,1,C
+Upper Tibanban,UPP-0005,2,2,D
+Upper Tibanban,UPP-0006,1,1,A
+Upper Tibanban,UPP-0007,2,2,D
+Upper Tibanban,UPP-0008,1,1,D
+Upper Tibanban,UPP-0009,1,2,A
+Upper Tibanban,UPP-0010,2,2,D
+Upper Tibanban,UPP-0011,2,2,D
+Upper Tibanban,UPP-0012,2,2,D
+Upper Tibanban,UPP-0013,1,2,A
+Upper Tibanban,UPP-0014,2,2,D
+Upper Tibanban,UPP-0015,2,2,D
+Upper Tibanban,UPP-0016,2,2,D
+Upper Tibanban,UPP-0017,2,2,D
+Upper Tibanban,UPP-0018,2,2,D
+Upper Tibanban,UPP-0019,2,2,D
+Upper Tibanban,UPP-0020,2,2,D
+Upper Tibanban,UPP-0021,1,1,D
+Upper Tibanban,UPP-0022,1,1,B
+Upper Tibanban,UPP-0023,2,2,D
+Upper Tibanban,UPP-0024,1,2,A
+Upper Tibanban,UPP-0025,2,2,D
+Upper Tibanban,UPP-0026,2,2,D
+Upper Tibanban,UPP-0027,1,2,D
+Upper Tibanban,UPP-0028,2,2,D
+Upper Tibanban,UPP-0029,1,1,C
+Upper Tibanban,UPP-0030,2,2,D
+Upper Tibanban,UPP-0031,1,2,A
+Upper Tibanban,UPP-0032,2,2,D
+Crispin Dela Cruz,CRI-0001,1,1,C
+Crispin Dela Cruz,CRI-0002,2,2,D
+Crispin Dela Cruz,CRI-0003,2,2,D
+Crispin Dela Cruz,CRI-0004,1,2,D
+Crispin Dela Cruz,CRI-0005,1,1,C
+Crispin Dela Cruz,CRI-0006,1,2,D
+Crispin Dela Cruz,CRI-0007,2,2,D
+Crispin Dela Cruz,CRI-0008,1,1,A
+Crispin Dela Cruz,CRI-0009,1,1,B
+Crispin Dela Cruz,CRI-0010,1,1,B
+Crispin Dela Cruz,CRI-0011,1,2,A
+Crispin Dela Cruz,CRI-0012,1,2,A
+Crispin Dela Cruz,CRI-0013,2,2,D
+Crispin Dela Cruz,CRI-0014,2,2,D
+Crispin Dela Cruz,CRI-0015,2,2,D
+Crispin Dela Cruz,CRI-0016,1,1,C
+Crispin Dela Cruz,CRI-0017,1,2,B
+Crispin Dela Cruz,CRI-0018,2,2,D
+Crispin Dela Cruz,CRI-0019,1,1,C
+Crispin Dela Cruz,CRI-0020,2,2,D
+Crispin Dela Cruz,CRI-0021,2,2,D
+Crispin Dela Cruz,CRI-0022,2,2,D
+Crispin Dela Cruz,CRI-0023,1,1,B
+Crispin Dela Cruz,CRI-0024,2,2,D
+Crispin Dela Cruz,CRI-0025,2,2,D
+Crispin Dela Cruz,CRI-0026,2,2,D
+Crispin Dela Cruz,CRI-0027,1,1,A
+Crispin Dela Cruz,CRI-0028,2,2,D
+Crispin Dela Cruz,CRI-0029,2,2,D
+Crispin Dela Cruz,CRI-0030,2,2,D
+Crispin Dela Cruz,CRI-0031,1,2,C
+Crispin Dela Cruz,CRI-0032,2,2,D
+Crispin Dela Cruz,CRI-0033,2,2,D
+Crispin Dela Cruz,CRI-0034,1,2,D
+Crispin Dela Cruz,CRI-0035,2,2,D
+Crispin Dela Cruz,CRI-0036,2,2,D
+Crispin Dela Cruz,CRI-0037,2,2,D
+Crispin Dela Cruz,CRI-0038,1,1,A
+Crispin Dela Cruz,CRI-0039,1,2,D
+Crispin Dela Cruz,CRI-0040,2,2,D
+Crispin Dela Cruz,CRI-0041,2,2,D
+Crispin Dela Cruz,CRI-0042,1,1,D
+Crispin Dela Cruz,CRI-0043,1,2,D
+Crispin Dela Cruz,CRI-0044,1,2,B
+Crispin Dela Cruz,CRI-0045,1,2,A
+Crispin Dela Cruz,CRI-0046,2,2,D
+Crispin Dela Cruz,CRI-0047,2,2,D
+Crispin Dela Cruz,CRI-0048,2,2,D
+Crispin Dela Cruz,CRI-0049,2,2,D
+Crispin Dela Cruz,CRI-0050,2,2,D

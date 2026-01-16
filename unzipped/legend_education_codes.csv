@@ -1,0 +1,72 @@
+code,description
+00000000,No Grade Completed
+01000000,Preschool
+02000000,Kindergarten
+02100000,Special Education
+10000101,Grade 1
+10000102,Grade 2
+10000103,Grade 3
+10000104,Grade 4
+10000105,Grade 5
+10000106,Grade 6
+10000107,Grade 7
+10000108,Grade 8
+11000101,First Year High School
+11000102,Second Year High School
+11000103,Third Year High School
+11000104,Fourth Year High School
+11000105,High School Graduate
+11000108,High School Level
+11000201,First Year College
+11000202,Second Year College
+11000203,Third Year College
+11000301,Fourth Year College
+11000302,College Graduate
+20400101,Post Baccalaureate Certificate
+20400102,Post Baccalaureate Diploma
+20400103,Master's Degree
+20400105,Doctorate Degree
+21400101,Post Secondary Certificate
+21400102,Post Secondary Diploma
+21400103,Associate Degree
+21400105,Bachelor's Degree
+21400201,Post Secondary Certificate
+21400202,Post Secondary Diploma
+21400203,Associate Degree
+21400301,Post Secondary Certificate
+21400302,Post Secondary Diploma
+30400106,Post Secondary Certificate
+30400107,Post Secondary Diploma
+30400108,Associate Degree
+30400109,Bachelor's Degree
+30400110,Master's Degree
+30400111,Doctorate Degree
+30400201,Post Secondary Certificate
+30400203,Post Secondary Diploma
+30400204,Associate Degree
+30400205,Bachelor's Degree
+30400206,Master's Degree
+30400207,Doctorate Degree
+30400208,Post Secondary Certificate
+30400301,Post Secondary Diploma
+30400303,Associate Degree
+30500006,Post Secondary Certificate
+30500007,Post Secondary Diploma
+30500008,Associate Degree
+30500009,Bachelor's Degree
+30500010,Master's Degree
+30500011,Doctorate Degree
+40000001,Post Secondary Certificate
+40000002,Post Secondary Diploma
+40000003,Associate Degree
+50000001,Post Secondary Certificate
+50000002,Post Secondary Diploma
+50000003,Associate Degree
+60000001,Post Secondary Certificate
+60000002,Post Secondary Diploma
+60000003,Associate Degree
+60000004,Bachelor's Degree
+60000005,Master's Degree
+60000006,Doctorate Degree
+70000010,Post Secondary Certificate
+80000010,Post Secondary Diploma

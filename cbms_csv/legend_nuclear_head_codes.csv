@@ -1,0 +1,12 @@
+code,description
+00,Nuclear Family Head
+01,Spouse
+02,Son/Daughter
+03,Son/Daughter-in-law
+04,Grandson/Granddaughter
+05,Father/Mother
+06,Brother/Sister
+07,Other Relative
+08,Non-relative
+09,Other
+10,Not Stated

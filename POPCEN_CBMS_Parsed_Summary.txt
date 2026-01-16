@@ -1,0 +1,2916 @@
+=== 2024 POPCEN-CBMS FORM 2 (HPQ) Structured Summary ===
+
+
+--- A. CORE DEMOGRAPHIC CHARACTERISTICS 2 ---
+
+- L 
+I 
+N 
+E 
+  
+N 
+U 
+M 
+B 
+E 
+R FOR ALL HOUSEHOLD MEMBERS 2 FOR 5 YEARS OLD AND OVER
+- Who is the household head?  
+Who are the other members of the household usually 
+residing here as of June 01, 2024? 
+ORDER OF LISTING: 
+• HEAD 
+• SPOUSE OF THE HEAD 
+• NEVER-MARRIED CHILDREN OF THE HEAD/SPOUSE, 
+FROM THE OLDEST TO THE YOUNGEST 
+• EVER-MARRIED CHILDREN OF THE HEAD/SPOUSE AND 
+THEIR FAMILIES, FROM THE OLDEST TO THE YOUNGEST 
+• OTHER RELATIVES OF THE HEAD 
+• NONRELATIVES OF THE HEAD What is 
+(NAME)’s 
+relationship to 
+the head of this 
+household? 
+ 
+ 
+ 
+ 
+SEE CODES 
+BELOW Is (NAME) 
+male or 
+female? 
+ 
+ 
+1 MALE 
+2 FEMALE 2 In what month, day, and 
+year was (NAME) born? 
+ 
+ 
+ 
+MONTH (MM) 
+DAY (DD) 
+YEAR (YYYY) 
+M M  D D 
+Y  Y  Y  Y What is 
+(NAME)'s age 
+as of May 31, 
+2024? Was (NAME)’s 
+birth registered 
+with the Local 
+Civil Registry 
+Office? 
+ 
+1   YES 
+2   NO 
+8   DON'T KNOW Is (NAME) single, married, in common law/
+live-in arrangement with another person, 
+widowed, or divorced/separated/annulled? 
+ 
+1 SINGLE                               5    D  I VORCED 
+2 MARRIED                           6    SEPARATED 
+3 COMMON-LAW/LIVE- IN  7 ANNULLED 
+4 WIDOWED     8 NOT REPORTED 
+ 
+FOR CHILDREN “0” TO “9” YEARS OLD, 
+WRITE CODE “1” (SINGLE) IN THE BOX What is (NAME)’s ethnicity by 
+descent/blood relation/
+consanguinity? 
+ 
+Is he/she a/an ___? 
+ 
+MENTION THE PREDOMINANT/
+COMMON INDIGENOUS PEOPLES (IP) 
+OR NON-IP GROUPS IN THE AREA, 
+ETHNICITY MAY BE BASED ON 
+MOTHER OR FATHER’S ETHNICITY 
+SUBJECT TO GUIDELINES What is 
+(NAME)’s 
+religious 
+affiliation? 
+ 
+ 
+ 
+ 
+SEE CODES Can (NAME) 
+read and write 
+a simple 
+message in 
+any language 
+or dialect? 
+ 
+ 
+ 
+1 YES 
+2 NO What is (NAME)'s Highest Grade/
+Year Completed (HGC)? 
+ 
+ 
+ 
+SEE CODES BELOW 
+ 
+ 
+ANY ANSWER, ASK REQUEST FOR 
+CONSENT TO BE INTERVIEW IN 
+CBMS (SECTIONS B -  O)
+-  A01 A02 A03 2 A04 A05 A06 A07 A08 A09 A10 A11
+- 1 __________________________     _____________________ 
+   LAST NAME                    FIRST NAME 
+ 
+       _________        _____________________  
+SUFFIX                  MIDDLE NAME 0  1  2 MM  DD  YYYY    _________ 
+SPECIFY _________ 
+SPECIFY  ____________ 
+SPECIFY        
+- 2   
+- 2 __________________________     _____________________ 
+   LAST NAME                     FIRST NAME 
+       _________        _____________________  
+SUFFIX                  MIDDLE NAME   2 MM  DD  YYYY    _________ 
+SPEC IFY _________ 
+SPEC IFY  ____________ 
+SPECIFY
+- 2   
+- 3 __________________________     _____________________ 
+   LAST NAME                     FIRST NAME 
+       _________        _____________________  
+SUFFIX                  MIDDLE NAME   2 MM  DD  YYYY    _________ 
+SPEC IFY _________ 
+SPEC IFY  ____________ 
+SPECIFY
+- 4 __________________________     _____________________ 
+   LAST NAME                     FIRST NAME 
+       _________        _____________________  
+SUFFIX                  MIDDLE NAME   2 MM  DD  YYYY    _________ 
+SPEC IFY _________ 
+SPEC IFY  ____________ 
+SPECIFY        
+- 5 __________________________     _____________________ 
+   LAST NAME                    FIRST NAME 
+ 
+       _________        _____________________  
+SUFFIX                  MIDDLE NAME   2 MM  DD  YYYY          _________ 
+SPECIFY _________ 
+SPECIFY  ____________ 
+SPECIFY        
+- 6 __________________________     _____________________ 
+   LAST NAME                     FIRST NAME 
+       _________        _____________________  
+SUFFIX                  MIDDLE NAME   2 MM  DD  YYYY          _________ 
+SPECIFY _________ 
+SPECIFY  ____________        
+- 2   
+
+--- LEVEL 0 - EARLY CHILDHOOD EDUCATION   LEVEL 2 - LOWER SECONDARY / JUNIOR HIGH SCHOOL  LEVEL 3 - UPPER SECONDARY (SENIOR HIGH SCHOOL)  LEVEL 4 - POST- SECONDARY NON-TERTIARY EDUCATION
+00000000 - NO GRADE COMPLETED  20400101 - 1ST YEAR  ARTS AND DESIGN TRACK  40000001 -  1ST YEAR 
+01000000 - NURSERY  20400102 - 2ND YEAR  30400201 - GRADE 11  40000002 -  2ND YEAR 
+02000000 - KINDERGARTEN   20400103 - 3RD YEAR  30400203 - SHS GRADUATE (STRAND UNKNOWN TO RESPONDENT)    4 0000003 -  3RD YEAR 
+02100000 - KINDERGARTEN (K TO 12)  20400105 - HIGH SCHOOL GRADUATE   30400204 - MUSIC STRAND GRADUATE  IF GRADUATE, SPECIFY PROGRAM 
+LEVEL 1 - PRIMARY EDUCATION (ELEMENTARY)  21400101 - GRADE 7 (K TO 12)  30400205 - THEATER STRAND GRADUATE  LEVEL 5 - SHORT CYCLE TERTIARY EDUCATION 
+10000101  - GRADE 1  21400102 - GRADE 8 (K TO 12)  30400206 - VISUAL ARTS STRAND GRADUATE  50000001 -  1ST YEAR                                                 
+10000102  - GRADE 2  21400103 - GRADE 9 ( K TO 12)  30400207 - MEDIA ARTS STRAND GRADUATE  50000002 -  2ND YEAR                                                 
+10000103  - GRADE 3  21400105 - JUNIOR HIGH SCHOOL GRADUATE (K TO 12)  30400208 - DANCE STRAND GRADUATE  50000003 -  3RD YEAR 
+10000104  - GRADE 4  21400201 - INDIGENOUS PEOPLE EDUCATION (IPED)  SPORTS TRACK   IF GRADUATE, SPECIFY PROGRAM  
+10000105  - GRADE 5  21400202 - MADRASAH EDUCATION PROGRAM (IMEP)  30400301 - GRADE 11  LEVEL 6 - BACHELOR LEVEL EDUCATION OR EQUIVALENT
+10000106  - GRADE 6  21400203 - SPECIAL EDUCATION PROGRAM  30400303 - SHS GRADUATE  60000001 -  1ST YEAR                                                 
+10000107  - ELEMENTARY GRADUATE  21400301 - A&E SECONDARY LEVEL PASSER (ALS)  TECHNOLOGY AND LIVELIHOOD EDUCATION AND   60000002 -  2ND YEAR                                                 
+10000108  - GRADE 7 GRADUATE  21400302 - ALTERNATIVE DELIVERY MODE (MDM)   TECHNICAL-VOCATIONAL LIVELIHOOD TRACK  60000003 -  3RD YEAR                                                 
+11000101  - GRADE 1 (K TO 12)  LEVEL 3 - UPPER SECONDARY (SENIOR HIGH SCHOOL)  IF GRADE 11 TECHNOLOGY AND LIVELIHOOD EDUCATION AND   60000004 -  4TH YEAR                                                 
+11000102  - GRADE 2 (K TO 12)  ACADEMIC TRACK   TECHNICAL-VOCATIONAL LIVELIHOOD TRACK COMPLETER,   60000005 -  5TH YEAR                   
+11000103  - GRADE 3 (K TO 12)  IF GRADE 11 ACADEMIC TRACK COMPLETER, SPECIFY STRAND IF KNOWN  SPECIFY STRAND IF KNOWN  60000006 -  6TH YEAR                    
+11000104  - GRADE 4 (K TO 12)  30400106 - SHS GRADUATE (STRAND UNKNOWN TO RESPONDENT)  30500006 - SHS GRADUATE (STRAND UNKNOWN TO RESPONDENT)  IF GRADUATE, SPECIFY PROGRAM  
+11000105  - GRADE 5 (K TO 12)  30400107 - ACCOUNTANCY, BUSINESS AND MANAGEMENTS STRAND   30500007 - AGRI-FISHERY ARTS STRAND GRADUATE  LEVEL 7 - MASTER LEVEL EDUCATION OR EQUIVALENT 
+11000108  - ELEMENTARY GRADUATE (K TO 12)  GRADUATE  30500008 - HOME ECONOMICS STRAND  GRADUATE  70000010 - UNDERGRADUATE                                 
+11000201 - INDIGENOUS PEOPLE EDUCATION (IPED)  30400108 - GENERAL ACADEMIC STRAND  GRADUATE  30500009 - INDUSTRIAL ARTS STRAND GRADUATE  IF GRADUATE, SPECIFY PROGRAM 
+11000202 - MADRASAH EDUCATION PROGRAMS (IMEP)  30400109 - HUMANITIES AND SOCIAL SCIENCES  STRAND GRADUATE  30500010 - INFORMATION AND COMMUNICATIONS TECHNOLGY   LEVEL 8 - DOCTORAL LEVEL EDUCATION OR EQUIVALENT
+11000203 - SPECIAL EDUCATIOON PROGRAM (SPED)  30400110 - PRE-BACCALAUREATE MARITIME  SPECIALIZATION GRADUATE  STRAND GRADUATE  80000010 - UNDERGRADUATE 
+11000301 - A&E ELEMENTARY LEVEL PASSER (ALS)  30400111 - SCIENCE, TECHNOLOGY, ENGINEERING AND MATHEMATIC  30500011 - TVL MARITIME SPECIALIZATION STRAND GRADUATE   IF GRADUATE, SPECIFY PROGRAM   
+11000302 - ALTERNATIVE DELIVERY MODE (MDM)   STRAND GRADUATE 2 ---
+
+- Are there other persons in this household 
+who were not yet listed such as infants, 
+small children, elderly persons, and 
+overseas worker? 
+1 YES, ADD TO THE 
+HOUSEHOLD MEMBER 
+LIST   
+2 NONE Are there more than six (6) 
+members in this household? 
+ 
+ 
+1 YES, USE ADDITIONAL 
+BOOKLET 
+ 
+2 NONE 2
+- 01 HOUSEHOLD HEAD  10 GRANDDAUGHTER  19 UNCLE 
+02 SPOUSE  11 FATHER  20 AUNT 
+03 SON  12 MOTHER  21 NEPHEW  
+04 DAUGHTER   13 FATHER-IN-LAW  22 NIECE 
+05 STEPSON  14 MOTHER-IN-LAW  23 OTHER RELATIVE 
+06 STEPDAUGHTER  15 BROTHER  24 BOARDER  
+07 SON-IN-LAW  16 SISTER  25 DOMESTIC HELPER  
+08 DAUGHTER-IN-LAW  17 BROTHER-IN-LAW   26 NONRELATIVE 
+09 GRANDSON  18 SISTER-IN-LAW 2
+- M M D D 2
+- Y Y Y Y 2
+-   2
+-       2
+-    2
+- 0 1 2
+-    2
+-   2
+-       2
+-    2
+-    2
+-   2
+-   2
+-       2
+-    2
+-   2
+-   2
+-   2
+-    2
+-   2
+-   2
+-    2
+- REQUEST FOR CONSENT TO BE INTERVIEWED IN CBMS (SECTIONS B TO Q) 3 REFUSAL CASE
+
+--- Before we proceed with the interview, I would like to ask you these questions:   
+A Do you agree to participate in the CBMS interview?  ………………………………………………………………………...………………………………1 YES      2 NO   
+B Does your household have members aged 18 years old and over? May we request you to ask them if they are giving permission 
+……………… 1 YES      2 NO  
+to you to provide their information to us? Do members of your household agree to share their information to the CBMS?  
+C Do you agree to share your information to national government agencies with social protection programs?  .……………………………….. 1 YES      2 NO 3 IF A=1, B=1, AND C=1, GO TO SECTION B; 
+IF A=1, B=1, C=2, GO TO SECTION B; 
+IF A=1, B=2, CALLBACK; 
+IF A= 2, CALLBACK IF 1ST TO 3RD VISITS; 
+IF MORE THAN 3 VISITS WERE MADE, REFUSAL ASK TO HOUSEHOLDS THAT REFUSED TO BE INTERVIEWED AFTER THREE REFUSALS 
+WHY DID THE HOUSEHOLD REFUSE TO  BE INTERVIEWED?  
+ 
+1 NOT INTERESTED IN BEING COVERED IN GOVERNMENT PROGRAMS 
+2 CONCERN ON SECURITY 
+___________________ 
+3 PREFER NOT TO ANSWER 
+SPECIFY 
+9 OTHERS, SPECIFY 
+THROUGH OBSERVATION, RECORD Q01 - Q04 IN PAGE 11 TO HOUSEHOLDS THAT REFUSED ---
+
+
+--- B. OTHER DEMOGRAPHIC CHARACTERISTICS 3 ---
+
+- L 
+I 
+N 
+E 
+  
+N 
+U 
+M 
+B 
+E 
+R FOR ALL HOUSEHOLD MEMBERS 3 FOR 10 YEARS OLD AND OVER FOR 60 YEARS 
+OLD AND OVER FOR FEMALE HOUSEHOLD 
+MEMBERS 10 YEARS OLD 
+AND OVER FOR ALL HOUSEHOLD MEMBERS
+- IN WHICH 
+NUCLEAR 
+FAMILY DOES 
+(NAME) 
+BELONG? What is 
+(NAME)’s 
+relationship to 
+the head of the 
+nuclear family? 
+ 
+ 
+SEE CODES 
+BELOW Was (NAME) issued a 
+National ID/PhilID? 
+ 
+PHYSICAL/PRINTED 
+PLASTIC ID OR EPHILID OR 
+DIGITAL ID 
+ 
+ 
+ 
+1 YES 
+2 NO, GO TO B05 
+8 DON’T KNOW, GO TO B05 What is (NAME)’s PhilSys Card 
+Number (PCN)? 
+ 
+ 
+ 
+ 
+ 
+ 
+SEE CODES BELOW 3 Is (NAME) a solo parent taking 
+care of a child/children? 
+ 
+SOLO PARENT SHOULD HAVE 
+UNMARRIED AND UNEMPLOYED 
+CHILDREN OR DEPENDENTS AGED 
+22 YEARS OLD OR BELOW, OR 
+THOSE AGED 22 YEARS OLD AND 
+ABOVE WITH DISABILITY 
+1 YES 
+2 NO, GO TO B07 
+8 DON’T KNOW, GO TO B07 Does (NAME) 
+have a Solo 
+Parent ID? 
+ 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO 
+8 DON’T KNOW Does (NAME) 
+have a Senior 
+Citizen ID? 
+ 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO 
+8 DON’T KNOW Is (NAME) 
+currently 
+pregnant? 
+ 
+ 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO Is (NAME) 
+currently 
+lactating/
+breastfeeding 
+mother? 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO Does (NAME) have a disability (i.e., 
+sever difficulty or cannot do the following: 
+seeing, hearing, communicating, walking 
+or climbing steps, remembering/
+concentrating, self-caring) or with cancer 
+or with rare disease? 
+ 
+ 
+1 YES 
+2 NO Does (NAME) 
+have Persons 
+with Disability 
+(PWD) ID? 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO Which among the following type of 
+disability/ies does (NAME) have? 
+ 
+ 
+ 
+ 
+ 
+SEE CODES BELOW
+-  B01 B02 B03 B04 3 B05 B06 B07 B08 B09 B10 B11 B12
+- 1     3        A    B   C    D     E   F   G    Z 
+____________ 
+SPECIFY
+- 2     3        A    B   C    D    E   F   G    Z 
+____________ 
+SPECIFY
+- 3     3                 A    B   C    D    E   F   G    Z 
+____________ 
+SPECIFY
+- 3        
+- 4     3        A    B   C    D    E   F   G    Z 
+____________ 
+SPECIFY
+- 5     3        A    B   C    D    E   F   G    Z 
+____________ 
+SPECIFY
+- 6     3        A    B   C    D     E   F   G    Z 
+____________ 
+SPECIFY
+- 00 ONE MEMBER HH  06 BROTHER 
+01 FAMILY HEAD  07 SISTER 
+02 SPOUSE  08 FATHER 
+03 PARTNER  09 MOTHER 
+04 SON  10 OTHER FAMILY MEMBER 
+05 DAUGHTER SPECIFY PCN IF RESPONDENT/HOUSEHOLD MEMBER IS WILLING TO PROVIDE 
+9999999999999996 LOST PHILSYS CARD 
+9999999999999997 NOT OPEN TO SHARE  
+9999999999999998 DON’T KNOW, NOT AVAILABLE 3 A VISUAL DISABILITY  E SPEECH LANGUANGE IMPAIRMENT 
+B DEAF OR HEARING DISABILITY  F CANCER 
+C INTELLECTUAL/LEARNING/MENTAL/PSYCHOSOCIAL DISABILITY  G RARE DISEASE 
+D PHYSICAL DISABILITY (ORTHOPEDIC)  Z OTHERS, SPECIFY
+-       3  
+-       3  
+-       3  
+-   3
+-   3
+-       3  
+-   3
+-   3
+-       3  
+-       3  
+-       3  
+-       3  
+-   3
+-   3
+-       3  
+-       3  
+-       3  
+-   3
+-   3
+-       3  
+-   3
+-   3
+-       3  
+
+--- B. OTHER DEMOGRAPHIC CHARACTERISTICS 4 C. MIGRATION ---
+
+
+--- L 
+I 
+N 
+E 
+  
+N 
+U 
+M 
+B 
+E 
+R  4 Now, we will ask about your household members’ migration experience and whether there are overseas Filipinos in this household ---
+
+- FOR 5 YEARS OLD AND OVER 4 FOR ALL 
+HOUSEHOLD 
+MEMBERS FOR 15 
+YEARS OLD 
+AND OVER FOR ALL HOUSEHOLD MEMBERS
+
+--- The following questions ask about difficulties a person may have doing certain activities 
+because of a HEALTH PROBLEM. 
+ 
+Does (NAME) have any difficulty in …..? 
+ 
+SEE CODES BELOW 4 Is (NAME) a 
+citizen of the 
+Philippines? 
+ 
+ 
+ 
+1 YES, Filipino 
+Citizen 
+2, YES, Filipino 
+with Dual 
+citizenship 
+3 NO, GO TO C03 Is (NAME) 
+currently an 
+overseas 
+Filipino? 
+ 
+ 
+ 
+SEE CODES 
+BELOW In the past three (3) 
+years, did (NAME) move 
+and reside continuously 
+for three (3) months or 
+more in any city/
+municipality and province, 
+or country other than his/
+her current residence? 
+ 
+1 YES 
+2 NO, GO TO SECTION D In what province/HUC, city/municipality, and barangay, 
+or country did (NAME) recently moved? 
+ 
+ 
+ 
+ 
+ 
+SEE CODES BELOW In what month 
+and year did 
+(NAME) recently 
+move?  
+M M 
+Y  Y  Y  Y In what province/HUC, city/municipality, and barangay 
+or country did (NAME) come from? 
+ 
+ 
+ 
+ 
+ 
+SEE CODE BELOW In the past 12 months 
+(June 01, 2023 - May 
+31, 2024), did (NAME) 
+move here due to 
+natural calamities, 
+man-made disaster/
+event, peace and 
+order or relocation 
+due to other reasons? 
+ 
+SEE CODES BELOW ---
+
+- Seeing, 
+even if 
+wearing 
+glasses Hearing, 
+even if 
+using 
+hearing aid Walking or 
+climbing 
+steps, even if 
+with cane or 
+artificial leg Remembering 
+or 
+concentrating 4 Self-care 
+(such as 
+washing all 
+over or 
+dressing) Communicating 
+using his/her 
+usual 
+(customary) 
+language
+-  B13 B14 B15 B16 4 B17 B18 C01 C02 C03 C04 C05 C06 C07
+- 1     4      ______________                 
+PROV/HUC/COUNTRY 
+  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY          ______________                 
+PROV/HUC/COUNTRY 
+  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY         
+- 4    
+- 4 
+- 2     4      ______________                 
+PROV/HUC /COUNTRY  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY  ______________                 
+PROV/HUC/COUNTRY   
+  PROV/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY 
+- 4    
+- 4 
+- 3     4      ______________                 
+PROV/HUC/COUNTRY   
+  PROV/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY  ______________                 
+PROV/HUC/COUNTRY   
+  PROV/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY 
+- 4        
+- 4    
+- 4 
+- 4     4      ______________                 
+PROV/HUC /COUNTRY  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY  ______________                 
+PROV/HUC/COUNTRY   
+  PROV/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY 
+- 4    
+- 4 
+- 5     4      ______________                 
+PROV/HUC/COUNTRY 
+  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY  ______________                 
+PROV/HUC/ COUNTRY  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY 
+- 4    
+- 4 
+- 6     4      ______________                 
+PROV/HUC/COUNTRY 
+  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY  ______________                 
+PROV/HUC/COUNTRY 
+  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY 
+- 4    
+- 4 
+- 1 NO, NO DIFFICULTY 
+2 YES, SOME DIFFICULTY 
+3 YES, A LOT OF DIFFICULTY 
+4 CANNOT DO AT ALL 1 YES, OVERSEAS FILIPINO WORKER (OFW) WITH CONTRACT 
+2 YES, OTHER OFW WITH NO CONTRACT 
+3 YES, EMPLOYEE IN PHILIPIPINE EMBASSY, CONSULATES & OTHER MISSIONS 
+4 YES, STUDENT ABROAD 
+5 YES, TOURIST 
+6 YES, OTHER OVERSEAS FILIPINO NOT ELSEWHERE CLASSIFIED 
+7 NO, RESIDENT (PHILIPPINES) 4 IF DIFFERENT PROV/HUC, ENTER 3-DIGIT CODE FOR PROV/HUC; ENTER 2-DIGIT CODE FOR 
+CITY/MUN; ENTER 3-DIGIT CODE FOR BRGY 
+IF SAME CURRENT PROV/HUC BUT DIFFERENT CITY/MUN AND BRGY; ENTER 000 FOR PROV/
+HUC; ENTER 2-DIGIT CODE FOR SPECIFIC CITY/MUN; AND 3-DIGIT CODE FOR BRGY 
+IF SAME CURRENT PROV/HUC AND CITY/MUN BUT DIFFERENT BRGY;  ENTER 000 FOR PROV/
+HUC; ENTER 00 FOR CITY/MUN; AND ENTER 3-DIGIT CODE FOR BRGY; 
+IF OUTSIDE THE PHILIPPINES, ENTER 5-DIGIT FOR SPECIFIC COUNTRY  
+99999997 DON’T KNOW FOREIGN COUNTRY   
+99999998 DON'T KNOW 1 No 
+2 Yes, natural calamities 
+3 Yes, man-made disaster/event 
+4 Yes, peace and order 
+5 Yes, relocation due to other reasons
+- Y Y Y Y 4
+-   4
+-       4  
+-   4
+-       4  
+-       4  
+-   4
+-       4  
+-       4  
+-   4
+-       4  
+-       4  
+-   4
+-       4  
+
+--- D. EDUCATION 5 E. ECONOMIC CHARACTERISTICS ---
+
+
+--- L 
+I 
+N 
+E 
+  
+N 
+U 
+M 
+B 
+E 
+R The next set of questions pertains to education 5 We would like to ask information on the work, job or business activity of household members. ---
+
+- FOR 3 YEARS OLD AND OVER 5 FOR 15 YEARS OLD AND OVER FOR PERSONS WHO EVER WORKED OR HAD A JOB/BUSINESS DURING THE PAST WEEK
+
+--- Did (NAME) attend school 
+at anytime from  
+August 2023 - May 2024? 
+Or enrolled for  
+August 2024 - May 2025? 
+ 
+ 
+1 YES 
+2 NO, GO TO D04 In which school/
+Community Learning 
+Center (CLC) is (NAME) 
+currently attending? 
+ 
+Is it ____? 
+ 
+1 PUBLIC 
+2 PRIVATE, REGULAR 
+3 PRIVATE, HOME 
+SCHOOL What grade/year is (NAME) 
+currently attending? 
+ 
+ 
+ 
+ 
+SEE CODES BELOW 
+ 
+ 
+ANY ANSWER, GO TO D05 5 Why is (NAME) not 
+attending school? 
+ 
+ 
+ 
+ 
+SEE CODES BELOW Is (NAME) a graduate 
+of technical/vocational 
+education and training 
+(TVET) course/
+program? 
+ 
+1 YES 
+2 NO Is (NAME) currently 
+attending TVET for 
+skills development? 
+ 
+ 
+ 
+1 YES 
+2 NO 
+ 
+IF BOTH NO IN D05 AND 
+D06, GO TO SECTION E What skills development 
+training courses/programs 
+have (NAME) attended 
+including the current one? 
+ 
+ 
+SEE CODES FOR 5 YEARS OLD AND OVER ---
+
+- 5 ANSWER ONLY IF “4”, “5”, OR “7” IN C02
+- 5 Did (NAME) do any work for at 
+least one hour during the past 
+week (including work from 
+home or telecommuting? 
+ 
+1 YES, GO TO E03 
+2 NO Although (NAME) did not work, 
+did (NAME) have a job or 
+business during the past week? 
+ 
+ 
+1 YES 
+2 NO, GO TO E16 
+3 NO, TEMPORARILY,GO TO E16 Where was (NAME)’s location of work? 
+ 
+3 DIGITS FOR PROV/HUC 
+2 DIGITS FOR CITY/MUN
+- 5 ENTER PROV/HUC CODE ENTER CITY/MUN CODE
+-  D01 D02 D03 5 D04 D05 D06 D07 E01 E02 E03 E04
+- 1    5 _________ 
+SPECIFY   ____S_P_E_C__IF_Y_ ___      __________ 
+SPECIFY    __________ 
+SPECIFY
+- ____________ 
+SPECIFY 5
+- 2      5      _________ 
+SPECIFY   ____S_P_E_C__IF_Y_ ___      __________  
+SPECIFY    ________ __ 
+SPECIFY
+- ____________ 
+SPECIFY 5
+- 3      5      _________ 
+SPECIFY   ____S_P_E_C__IF_Y_ ___      __________ 
+SPECIFY    __________ 
+SPECIFY
+- ____________ 
+SPECIFY 5
+- 4      5      _________ 
+SPECIFY   ____S_P_E_C__IF_Y_ ___      __________  
+SPECIFY    ________ __ 
+SPECIFY
+- ____________ 
+SPECIFY 5
+- 5      5      _________ 
+SPECIFY   ____S_P_E_C__IF_Y_ ___      __________  
+SPECIFY    __________ 
+SPECIFY
+- ____________ 
+SPECIFY 5
+- 6      5      _________ 
+SPECIFY   ______________ 
+SPECIFY      __________ 
+SPECIFY    __________ 
+SPECIFY
+- ____________ 
+SPECIFY 5   
+
+--- LEVEL 0 - EARLY CHILDHOOD EDUCATION   LEVEL 2 - LOWER SECONDARY / JUNIOR HIGH SCHOOL  LEVEL 3 - UPPER SECONDARY (SENIOR HIGH SCHOOL)  LEVEL 3 - UPPER SECONDARY (SENIOR HIGH SCHOOL) 
+00000000 - NO GRADE COMPLETED  21400101 - GRADE 7 (K TO 12)  ARTS AND DESIGN TRACK  LEVEL 4 - POST- SECONDARY NON-TERTIARY EDUCATION 
+01000000 - NURSERY  21400102 - GRADE 8 (K TO 12)  30400201 - GRADE 11  40000001 -  1ST YEAR 
+02100000 - KINDERGARTEN (K TO 12)  21400103 - GRADE 9 ( K TO 12)  30400202 - GRADE 12  40000002 -  2ND YEAR 
+LEVEL 1 - PRIMARY EDUCATION (ELEMENTARY)  21400104 - GRADE 10 (K TO 12)  SPORTS TRACK   40000003 -  3RD YEAR 
+11000101  - GRADE 1 (K TO 12)  21400201 - INDIGENOUS PEOPLE EDUCATION (IPED)  30400301 - GRADE 11  LEVEL 5 - SHORT CYCLE TERTIARY EDUCATION 
+11000102  - GRADE 2 (K TO 12)  21400202 - MADRASAH EDUCATION PROGRAM (IMEP)  30400302 - GRADE 12  50000001 -  1ST YEAR                                                 
+11000103  - GRADE 3 (K TO 12)  21400203 - SPECIAL EDUCATION PROGRAM  TECHNOLOGY AND LIVELIHOOD EDUCATION AND TECHNICAL-VOCATIONAL  50000002 -  2ND YEAR                                                 
+11000104  - GRADE 4 (K TO 12)  21400301 - A&E SECONDARY LEVEL (ALS)  LIVELIHOOD TRACK  50000003 -  3RD YEAR 
+11000105  - GRADE 5 (K TO 12)  21400302 - ALTERNATIVE DELIVERY MODE (MDM)  30500001 - GRADE 11 (AGRI-FISHERY ARTS)  LEVEL 6 - BACHELOR LEVEL EDUCATION OR EQUIVALENT 
+11000106  - GRADE 6 (K TO 12)  LEVEL 3 - UPPER SECONDARY (SENIOR HIGH SCHOOL)  30500002 - GRADE 11 (HOME ECONOMICS)                               60000001 -  1ST YEAR                                                 
+11000201 - INDIGENOUS PEOPLE EDUCATION (IPED)  ACADEMIC TRACK   30500003 - GRADE 11 (INDUSTRIAL ARTS)                               60000002 -  2ND YEAR                                                 
+11000202 - MADRASAH EDUCATION PROGRAMS (IMEP) 30400101 - GRADE 11 (ABM STRAND)  30500004 - GRADE 11 (ICT)  60000003 -  3RD YEAR                                                 
+11000203 - SPECIAL EDUCATIOON PROGRAM (SPED)  30400102 - GRADE 11 (GA STRAND)  30500005 - GRADE 11 (TVL MARITIME)  60000004 -  4TH YEAR                                                 
+11000301 - A&E  ELEMENTARY LEVEL (ALS)  30400103 - GRADE 11 (HUMSS STRAND)   30500006 - GRADE 12 (AGRI-FISHERY ARTS)  60000005 -  5TH YEAR                   
+11000302 - ALTERNATIVE DELIVERY MODE (MDM)   30400104 - GRADE 11 (PRE-BACCALAUREATE MARITIME)  30500007 - GRADE 12 (HOME ECONOMICS)  60000006 -  6TH YEAR                    
+30400105 - GRADE 11 (STEM STRAND)  30500008 - GRADE 12 (INDUSTRIAL ARTS)  LEVEL 7 - MASTER LEVEL EDUCATION OR EQUIVALENT 
+30400106 - GRADE 12 (ABM STRAND)  30500009 - GRADE 12 (ICT)  70000010 - UNDERGRADUATE                                 
+30400107 - GRADE 12 (GA STRAND)  30500010 - GRADE 12 (TVL MARITIME)  LEVEL 8 - DOCTORAL LEVEL EDUCATION OR EQUIVALENT 
+30400108 - GRADE 12 (HUMSS STRAND)   80000010 - UNDERGRADUATE 
+30400109 - GRADE 12 PRE-BACCALAUREATE MARITIME 
+30400110 - GRADE 12 (STEM STRAND) 
+30400111 - A&E SENIOR HIGH SCHOOL LEVEL (ALS) 5 01 ACCESSIBILITY OF SCHOOL 
+02 ILLNESS 
+03 DISABILITY 
+04 PREGNANCY 
+05 MARRIAGE 
+06 HIGH COST OF EDUCATION/FINANCIAL CONCERN 
+07 EMPLOYMENT 
+08 FINISHED SCHOOLING OR FINISHED POST-SECONDARY OR COLLEGE 
+09 LOOKING FOR WORK 
+10 LACK OF PERSONAL INTEREST 
+11 TOO YOUNG/OLD TO GO TO SCHOOL 
+12 BULLYING 
+13 FAMILY MATTERS 
+14 NO/WEAK INTERNET CONNECTION 
+15 MODULAR LEARNING IS NOT PREFERRED 
+16 WITH PROBLEMS IN SCHOOL REQUIREMENTS  
+(E.G., NO BIRTH CERTIFICATE OR FORM 137) 
+17 LACK OF CONFIDENCE 
+18 ORAL HYGIENE ISSUE 
+99 OTHERS, SPECIFY ---
+
+-   5
+-   5
+-   5
+-   5
+-   5
+-   5
+-   5
+-   5
+-   5
+
+--- E. ECONOMIC CHARACTERISTICS 6 ---
+
+- L 
+I 
+N
+E 
+ 
+N
+U
+M
+B
+E
+R Now, we would like to ask information on the work, job or business activity of household member 6
+- FOR PERSONS WHO EVER WORKED OR HAD A JOB/BUSINESS DURING THE PAST WEEK 6 FOR PERSONS WHO DID NOT WORK OR HAD NO JOB/BUSINESS DURING THE PAST 
+WEEK
+- FOR 5 YEARS OLD AND OVER 6
+- ANSWER ONLY IF “4”, “5”, OR “7” IN C02 6
+
+--- What was (NAME)’s primary 
+occupation during the past 
+week? 
+ 
+(SPECIFY OCCUPATION  
+e.g., 234204 - PRE-SCHOOL 
+TEACHER,  
+611101 - UPLAND, RICE FARMER) 
+ 
+ 
+ENTER PSOC CODE In what kind of industry did 
+(NAME) work during the 
+past week? 
+ 
+(SPECIFY INDUSTRY  
+e.g.,  85111 - PRE-SCHOOL 
+EDUCATION,  
+01123 - GROWING OF PADDY 
+RICE UPLAND/KAINGIN) 
+ 
+ENTER PSIC CODE What is 
+(NAME)'s 
+nature of 
+employment? 
+ 
+ 
+ 
+ 
+ 
+ 
+SEE CODES 
+BELOW What is 
+(NAME)’s 
+class of 
+worker ? 
+ 
+ 
+ 
+ 
+ 
+ 
+SEE CODES 
+BELOW 6 What is 
+(NAME)’s basis 
+if payment?  
+ 
+ 
+(FOR MEMBER 
+WITH CODE 0, 1, 
+2, or 5, IN E08) 
+ 
+ 
+SEE CODES 
+BELOW Did (NAME) 
+have other job 
+or business 
+during the 
+past week? 
+ 
+ 
+ 
+1 YES 
+2 NO What was (NAME)’s 
+total number of hours 
+worked for all jobs 
+during the past week? 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO Did (NAME) 
+want more hours 
+of work during 
+the past week? 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO Is 
+(NAME) a 
+farmer? 
+ 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO Is (NAME) a 
+fisherfolk? 
+ 
+ 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO 
+ 
+ANY ANSWER, GO 
+TO SECTION F Did (NAME) look for 
+work or try to 
+establish business 
+during the past week? 
+ 
+ 
+ 
+ 
+1 YES, GO TO E17 
+2 NO Why did 
+(NAME) not 
+look for work? 
+ 
+ 
+ 
+ 
+ 
+SEE CODES 
+BELOW Had opportunity for work 
+existed last week or within 
+two (2) weeks, would have 
+(NAME) been available? 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO Is (NAME) willing to take 
+up work during the past 
+week o within two (2) 
+weeks? 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO ---
+
+-  E05 E06 E07 E08 6 E09 E10 E11 E12 E13 E14 E15 E16 E17 E18
+- 1 ____________ 
+SPECIFY ____________ 
+SPECIFY   6 _________ 
+SPECIFY       _________ 
+SPECIFY  
+- 2 ____________ 
+SPECIFY ____________ 
+SPECIFY   6 _________ 
+SPECIFY       _________ 
+SPECIFY  
+- 3 ____________ 
+SPECIFY ____________ 
+SPECIFY   6 _________ 
+SPECIFY       _________ 
+SPECIFY  
+- 4 ____________ 
+SPECIFY ____________ 
+SPECIFY   6 _________ 
+SPECIFY       _________ 
+SPECIFY  
+- 5 ____________ 
+SPECIFY ____________ 
+SPECIFY   6 _________ 
+SPECIFY       _________ 
+SPECIFY  
+- 6 ____________ 
+SPECIFY ____________ 
+SPECIFY   6 _________ 
+SPECIFY       _________ 
+SPECIFY  
+- 1 PERMANENT JOB/BUSINESS/UNPAID FAMILY WORK 
+2 SHORT-TERM OR SEASONAL OR CASUAL JOB/
+BUSINESS, UNPAID FAMILY WORK 
+3 WORKED FOR DIFFERENT EMPLOYERS OR CUSTOMERS 
+ON DAY-TO-DAY OR WEEK-TO-WEEK BASIS 0 WORKED FOR PRIVATE HOUSEHOLD 
+1 WORKED FOR PRIVATE ESTABLISHMENT 
+2 WORKED FOR GOVERNMENT/GOVERNMENT-OWNED AND CONTROLLED CORPORATION 
+3 SELF-EMPLOYED WITHOUT PAID EMPLOYEE 
+4 EMPLOYER IN OWN FAMILY-OPERATED FARM OR BUSINESS 
+5 WORKED WITH PAY IN OWN FAMILY-OPERATED FARM OR BUSINESS 
+6 WORKED WITHOUT PAY IN OWN FAMILY-OPERATED FARM OR BUSINESS 6 0 IN KIND, IMPUTED (RECEIVED AS WAGE/SALARY) 
+1 PER PIECE 
+2 PER HOUR 
+3 PER DAY 
+4 MONTHLY 
+5 PAKYAW 
+6 OTHER SALARIES/WAGES, SPECIFY 
+7 NOT SALARIES/WAGES (EX. COMMISSION BASIS), SPECIFY 01 TEMPORARY ILLNESS OR DISABILITY 
+02 BAD WEATHER 
+03 WAITING FOR REHIRE/JOB RECALL 
+04 TIRED/BELIEVED NO WORK AVAILABLE 
+05 AWAITING RESULTS OF PREVIOUS JOB APPLICATION 
+06 TOO YOUNG/OLD TO GO TO SCHOOL 
+07 RETIRED 
+08 PERMANENT DISABILITY 
+09 SCHOOLING 
+10 HOUSEHOLD AND FAMILY DUTIES, SPECIFY  
+99 OTHERS, SPECIFY
+-       6
+-      6
+-   6
+-    6
+-       6
+-      6
+-   6
+-    6
+-       6
+-      6
+-   6
+-    6
+-       6
+-      6
+-   6
+-    6
+-       6
+-      6
+-   6
+-    6
+-       6
+-      6
+-   6
+-    6
+
+--- F. HEALTH 7 ---
+
+
+--- In the next questions, we will ask about the health status of the household members. There will be questions about  infants and children, other sickness experienced by the 
+members of your household, and access to health services. Some of the questions might be sensitive or difficult to answer, but we encourage you to answer as this might help 
+the government craft programs that might benefit your household and your community. 7 ---
+
+- ILLNESS/SICKNESS/INJURY 7
+- FOR ALL HOUSEHOLD MEMBERS 7
+- F01 In the past six (6) months, did you or any of your household members get ill/sick/injured that requires medical attention? 
+ 1 YES                             2 NO, GO TO F05  7
+- F02 Did you or any of your household members avail medical treatment for his/her current or most recent illness/sickness/injury? 
+1 YES                             2 NO, GO TO F04  7
+- F03 Where did the household member avail medical treatment for his/her current or most recent illness/sickness/injury? 
+ 
+ 
+SEE CODES BELOW ________________________ 
+SPECIFY 7
+- F04 What was the main reason why the household member did not avail any medical treatment in the past month? 
+SEE CODES BELOW _______________________ 
+SPECIFY 7
+- OPERATION TIMBANG PLUS AND CHILD MORTALITY 7
+- FOR CURRENT AND FORMER HOUSEHOLD MEMBERS (0 TO 5 YEARS OLD) 7
+- F05 In the past 12 months, did any of your household member aged zero (0) to five (5) years old measured during the Operation 
+Timbang (OPT) Plus? 
+1 YES                             2 NO, GO TO SECTION G  7
+- F06 In the past three (3) years, was/were there former household member/s aged zero (0) to five (5) years old died?  
+(Include children who were born alive but later died). 
+1 YES                        2 NO, GO TO SECTION G  7
+- F07 What was the age (in month/s) of the child or baby when he/she died? AGE (IN MONTHS) AGE (IN MONTHS) 7 AGE (IN MONTHS)
+- F08 What was the main cause of death of the child or baby? 
+SEE CODES BELOW CAUSE OF DEATH     
+     
+________________ 
+SPECIFY CAUSE OF DEATH     
+     
+________________ 
+SPECIFY 7 CAUSE OF DEATH     
+     
+________________ 
+SPECIFY
+
+--- PUBLIC SECTOR  ALTERNATIVE MEDICAL SECTOR 
+A REGIONAL HOSPITAL/PUBLIC MEDICAL CENTER  P HILOT/HERBALISTS 
+B PROVINCIAL HOSPITAL  Q THERAPEUTIC MASSAGE CENTER 
+C DISTRICT HOSPITAL  R OTHER ALTERNATIVE HEALING 
+D MUNICIPAL HOSPITAL  NOT MEDICAL SECTOR 
+E RURAL HEALTH UNIT (RHU)/ URBAN HEALTH CENTER (UHC)/  S SHOP SELLING DRUGS/MARKET 
+LYING-IN CLINIC   T FAITH HEALER 
+F BARANGAY HEALTH STATION  Z OTHER LOCATION  
+G MOBILE CLINIC 
+H ISOLATION FACILITY 
+I OTHER PUBLIC HEALTH FACILITY  
+PRIVATE MEDICAL SECTOR 
+J PRIVATE HOSPITAL 
+K LYING-IN CLINIC/BIRTHING HOME 
+L PRIVATE CLINIC 
+M PRIVATE PHARMACY 
+N MOBILE CLINIC 
+O OTHER PRIVATE HEALTH FACILITY 1 FACILITY IS FAR 
+2 NO MONEY 
+3 WORRIED ABOUT TREATMENT COST 
+4 HOME REMEDY IS AVAILABLE 
+5 HEALTH FACILITY IS NOT PHILHEALTH ACCREDITED 
+6 EXPECTED THAT SICKNESS/INJURY WILL HEAL EVENTUALLY 
+9 OTHERS, SPECIFY 7 ---
+
+- 01 BACTERIAL SEPSIS OF NEWBORN  07 NEONATAL ASPIRATION SYNDROME 
+02 PNEUMONIA  08 INTRAUTERINE HYPOXIA AND BIRTH ASPHYXIA 
+03 RESPIRATORY DISTRESS OF NEWBORN  09 OTHER CONGENITAL MALFORMATIONS 
+04 CONGENITAL MALFORMATION OF HEART  10 DIARRHEA AND GASTROENTERITIS OF PRESUMED INFECTIOUS ORIGIN 
+05 DISORDERS RELATED TO SHORT GESTATION AND LOW BIRTH WEIGHT NOT  99 OTHERS, SPECIFY     
+ELSEWHERE CLASSIFIED 
+06 CONGENITAL PNEUMONIA 7
+
+--- G. FOOD SECURITY 7 ---
+
+
+--- Now we would like to ask about your household’s experience in food security in the past 12 months. We will give several statements and you are requested to answer whether 
+you or any other adult in the household experienced this or not by saying "Yes" or "No". 7 ---
+
+- During the past 12 months (June 01, 2023 - May 31, 2024), was there a time when you ….                              1 YES            2 NO         8 DON’T KNOW       9 PREFER NOT TO ANSWER 7
+- G01 (or any other adult in the household) were worried about not having enough food to eat because of a lack of money or other resources? 7   
+
+--- G02 (or any other adult in the household) were unable to eat healthy and nutritious food because of a lack of money or other resources? 7 ---
+
+- G03 (or any other adult in the household) ate only a few kinds of food because of a lack of money or other resources? 7   
+- G04 (or any other adult in the household) had to skip a meal because there was not enough money or other resources to get food? 7 
+- G05 (or any other adult in the household) ate less than you thought you should because of a lack of money or other resources? 7 
+- G06 or your household ran out of food because of a lack of money or other resources? 7   
+- G07 (or any other adult in the household) were hungry but did not eat because there was not enough money or other resources for food? 7   
+- G08 (or any other adult in the household) went without eating for a whole day because of a lack of money or other resources? 7   
+
+--- H. ASSISTANCE FROM ABROAD 7 ---
+
+- The next question will ask about the assistance you or any member of your family received from abroad. 7
+
+--- H01 In the past six (6) months, did any member of the family receive income in-cash, in-kind, any gifts, support, relief, or other forms of assistance from abroad? 
+  
+ 1 YES                             2 NO 7 ---
+
+-       7    
+-       7    
+-   7
+-   7
+-   7
+-   7
+-   7
+-   7
+
+--- I. FORMAL FINANCIAL ACCOUNT 8 ---
+
+- Now we will ask about the family's financial activities. 8
+
+--- I01 Which of the following formal financial accounts (which is/are active, whether personal or joint accounts) do you or any of your family 
+members have? 
+A Bank account (ATM, online/electronic banking, passbook)  F Account with microfinance NGO  
+B Digital bank account (UNObank, Union Digital Bank, GoTyme, Overseas Filipino Bank,  (e.g., CARD, ASA) 
+Tonik, and Maya Bank)   G Money Remittance Centers (e.g., Palawan Express, 
+C E-money account (e.g., G-Cash, Maya) or cash card   LBC, ML Kwarta Padala, Western Union) 
+D Account with Non-Stock Savings and Loan Association or NSSLA (e.g., AFPSLAI,  Y None 
+Manila Teachers SLA)  Z Others, specify (e.g., CIMB, ING, PayPal, Census 
+E Account with cooperatives  Provident Fund, Inc [CPFI]) 8 1 YES           2 NO ---
+
+- 8        
+- 8 A     B      C     D     E     F     G     Z 
+  _______________ 
+SPECIFY
+
+--- J. NEGATIVE SHOCKS AND DISASTER PREPAREDNESS 8 ---
+
+- We would like to ask whether your household experienced risks/vulnerabilities/disaster in the past 12 months as well as ask about your household’s preparedness should an 
+unfortunate event arises. 8
+- J01 In the past 12 month (June 01, 2023 - May 31, 2024), how many times did the following RISKS/VULNERABILITIES/DISASTERS negatively affected the household? 
+ 
+MENTION THE FOLLOWING RISKS/VULNERABILITIES/DISASTERS  AND RECORD NUMBER OF TIMES THE HOUSEHOLD EXPERIENCED THE RISKS/VULNERABILITIES/DISASTERS 8
+- RISKS/VULNERABILITIES/DISASTERS NUMBER OF 
+TIMES RISKS/VULNERABILITIES/DISASTERS 8 NUMBER OF 
+TIMES RISKS/VULNERABILITIES/DISASTERS NUMBER OF 
+TIMES
+- A Typhoon   H Pests or Diseases That Affected 
+Crops Before They Were Harvested 8   O Increase in Price  
+- B Power Outage   I Pests or Diseases that Affected 
+Livestock 8   P Political Conflict  
+- C Drought   J Pests or Disease That Led to Losses of 
+Stored Crops 8   Q Death of Household Member  
+- D Too much rain or Flood   K Crop Failed 8   R Illness/Injury of Household Member  
+- E Erosion, Cracks, Landslides   L Livestock Died 8   Z Others, specify 
+___________________________ 
+SPECIFY  
+- F Earthquake   M Pollution Caused by Mining 8  
+- G Fire   N Building Collapsed 8   
+- J02 Do you know the location of your evacuation area? 
+ 
+1 YES                         2 NO 8 
+- J03 In the past 12 months, do you know any local government contact number or hotlines which you can contact in case of emergency? 
+ 
+1 YES                     2 NO 8 
+
+--- K. INTERNET ACCESS 8 ---
+
+- In the next questions, we will ask about your household’s online activities. 8
+- K01 In the past 12 months, do you or any member of your household have access to internet? 
+ 
+1 YES                                                              2 NO, GO TO SECTION L 8 
+- K02 Does this household have its own internet at home which can be used by any household member when needed?  
+  
+1 YES                                                              2 NO, GO TO SECTION L 8 
+- K03 What types of internet connection are available at home?  
+A FIXED (WIRED) NARROWBAND/BROADBAND NETWORK  
+C SATELLITE BROADBAND NETWORK 
+[e.g., via Digital Subscriber Line (DSL), cable modem, high 
+ 
+   speed leased line, fiber-to-the-home/building, powerline, and 
+ 
+other fixed (wired) broadband]  
+D MOBILE BROADBAND NETWORK [e.g., via handset, card (e.g., 
+B FIXED (WIRELESS) BROADBAND NETWORK   [e.g., via 
+integrated SIM card) or USB modem]   
+WiMAX and fixed Code Division Multiple Access (CDMA)] 8 
+
+--- L. PUBLIC SAFETY 8 ---
+
+- The next set of questions will ask about how you or your household members feel about your neighborhood and possible experiences as victims of crime in the past 12 months. 
+This might be a sensitive topic but we encourage you to answer the questions as it might help achieve peace and order in your community or Barangay. 8
+- L01 How safe do you feel walking alone in your area (i.e., neighborhood or village) at night?  
+ 1 Very safe  3 Unsafe  5 I never go out at night/Does not apply  
+2 Safe  4 Very unsafe  8 Don’t Know 8 
+
+--- M. SOCIAL PROTECTION PROGRAMS 8 ---
+
+
+--- Now, we would like to ask if any of the household members received assistance/benefits from or is a member of any social protection programs. 8 ---
+
+
+--- M01 Is any member of your household (including OFW) a dependent/beneficiary/
+member of any of the following social/health insurance programs? 8 M02 In the past 12 months, (June 01, 2023 - May 31, 2024), did any member of your 
+household receive benefits/ grants/assistance from the following social/health 
+insurance programs? ---
+
+- A Social Security System (SSS) Yes    1  GO TO M02 
+No   2  GO TO M01.B  8 A Social Security System (SSS) Yes    1  GO TO M03 
+No   2  GO TO M02.B 
+- B Government Service Insurance System (GSIS) Yes    1  GO TO M02 
+No   2  GO TO M01.C  8 B Government Service Insurance System (GSIS) Yes    1  GO TO M03 
+No   2  GO TO M02.C 
+
+--- C PhilHealth Yes    1  GO TO M02 
+No   2  GO TO M01.D  8 C PhilHealth Yes    1  GO TO M03 
+No   2  GO TO M02.D ---
+
+
+--- D Health/Medical Insurance other than PhilHealth 
+(MediCard, Maxicare, etc.) Yes    1  GO TO M02 
+No   2  GO TO M03  8 D Health/Medical Insurance other than PhilHealth 
+(MediCard, Maxicare, etc.) Yes    1  GO TO M03 
+No   2  GO TO M03 ---
+
+-     8
+
+--- M. SOCIAL PROTECTION PROGRAMS 9 ---
+
+- M03 In the past 12 months (June 01, 2023 - May 31, 2024), is any member of your 
+household a dependent/beneficiary/member of any of the following social  
+assistance programs? M04 In the past 12 months (June 01, 2023 - May 31, 2024), did any member of your 
+household receive benefits/grants/assistance from the following social assistance 
+programs? 9
+- A Pantawid Pamilyang Pilipino Program (4Ps) Yes     1  GO TO M04 
+No   2  GO TO M03.B  A Pantawid Pamilyang Pilipino Program (4Ps) 9 Yes    1  GO TO M05 
+No   2  GO TO M04.B 
+- B Social Pension for Indigent Senior Citizen (SocPen) Yes     1  GO TO M04 
+No   2  GO TO M03.C  B Social Pension for Indigent Senior Citizen 
+(SocPen) 9 Yes    1  GO TO M05 
+No   2  GO TO M04.C 
+- C Assistance to Individuals in Crises Situation (AICS) Yes     1  GO TO M04 
+No   2  GO TO M03.D  C Assistance to Individuals in Crises Situation (AICS) 9 Yes    1  GO TO M05 
+No   2  GO TO M04.D 
+- D Walang Gutom 2027 : Food Stamp Program Yes     1  GO TO M04 
+No   2  GO TO M03.E  D Walang Gutom 2027 : Food Stamp Program 9 Yes    1  GO TO M05 
+No   2  GO TO M04.E 
+
+--- E Education Assistance Programs  
+(UAQTE, TES, SHS VP, GASTPE, E-GASTPE) Yes     1  GO TO M04 
+No   2  GO TO M03.F  E Education Assistance Programs  
+(UAQTE, TES, SHS VP, GASTPE, E-GASTPE) 9 Yes    1  GO TO M05 
+No   2  GO TO M04.F ---
+
+- F Employment Assistance/Livelihood Program (i.e., 
+TUPAD, cash-for work, SLP, DILEEP) Yes     1  GO TO M04 
+No   2  GO TO M03.G  F Employment Assistance/Livelihood Program (i.e., 
+TUPAD, cash-for work, SLP, DILEEP) 9 Yes    1  GO TO M05 
+No   2  GO TO M04.G 
+- Z Others, specify 
+_______________ 
+SPECIFY Yes     1  GO TO M04 
+No   2  GO TO M05  Z Others, specify 9 Yes    1  GO TO M05 
+No   2  GO TO M05 
+- ANSWER IF YES IN M03A 
+M05. Indicate Pantawid ID Number 
+ANSWER 9999999999999999998 IF DON’T KNOW 
+ANSWER 9999999999999999999 IF NOT APPLICABLE  9
+
+--- N. WATER, SANITATION, AND HYGIENE 9 ---
+
+- In this section, we would like to know about the sources of water (for drinking and non-drinking uses), as well as to the sanitation facility being used by your household. 9
+- N01 What is your household's main source of water supply?   
+COMMUNITY WATER SYSTEM 
+01 PIPED INTO DWELLING     
+02 PIPED INTO YARD/PLOT   
+03 PUBLIC TAP/STANDPIPE 
+____________ 
+POINT SOURCE 
+      04 PROTECTED WELL/TUBE WELL/BOREHOLE       SPECIFY 
+05 UNPROTECTED (OPEN DUG WELL)   
+06 DEVELOPED/PROTECTED SPRING 
+07 UNDEVELOPED/UNPROTECTED SPRING 
+08 RIVER/STREAM/POND/LAKE/DAM 
+     09 RAINWATER 
+     10 TANKER TRUCK/PEDDLER/NEIGHBOR 
+      99 OTHERS, SPECIFY N04 Where is that water source located?   
+ 
+  1    I N    O   W N DWELLING  GO TO N08 
+2 IN OWN YARD/PLOT 
+3 ELSEWHERE 9
+- N05 How long does it take for members of your  
+     
+household to go there, get water,  
+and come back (in minutes)?   
+    _______ 
+000 HOUSEHOLD DOES NOT COLLECT, GO TO N08 
+___ NUMBER OF MINUTES  
+998 DON'T KNOW 9
+- N06 If water is communal/shared, who usually fetches the water in the household?    
+   
+ANSWER 99 IF NOT A HOUSEHOLD MEMBER  
+THEN INDICATE THE NAME      ___________________ 
+LAST NAME, FIRST NAME, M.I. 9
+- N02 What is the main source of drinking water used by  
+members of your household?  
+IF UNCLEAR, PROBE TO IDENTIFY THE PLACE FROM WHICH MEMBERS OF THIS 
+HOUSEHOLD MOST OFTEN COLLECT DRINKING WATER (COLLECTION POINT)   
+PIPED WATER 
+11 PIPED INTO DWELLING, GO TO N08 
+12 PIPED INTO YARD/PLOT, GO TO N08 
+13 PIPED TO NEIGHBOR     
+14 PUBLIC TAP/STAND PIPE 
+21 TUBE WELL/BOREHOLE  __________ 
+DUG WELL  SPECIFY 
+31 PROTECTED WELL 
+32 UNPROTECTED WELL  
+   (OPEN DUG WELL)  GO TO N04 
+SPRING 
+41 PROTECTED SPRING 
+42 UNPROTECTED SPRING 
+51 RAINWATER 
+61 TANKER-TRUCK 
+71 CART WITH SMALL TANK 
+72 WATER REFILLING STATION 
+81 SURFACE WATER  
+     (RIVER, STREAM , POND, LAKE, DAM, CANAL, IRRIGATION CHANNEL), GO TO N04 
+PACKAGED WATER 
+91 BOTTLED WATER 
+92 SACHET WATER 
+99 OTHERS, SPECIFY, GO TO N04 9
+- N07 How far is this water source from your house?               METER 9
+- N08 What kind of toilet facility do members of your household 
+usually use? 
+IF 'FLUSH' OR 'POUR FLUSH', PROBE: Where does it flush to? 
+IF NOT POSSIBLE TO DETERMINE, ASK PERMISSION TO 
+OBSERVE FACILITY   
+FLUSH/POUR FLUSH     
+11 FLUSH/POUR FLUSH TO PIPED SEWER SYSTEM 
+12 FLUSH/POUR FLUSH TO SEPTIC TANK 
+13 FLUSH/POUR FLUSH TO PIT LATRINE  ____________ 
+14 FLUSH/POUR FLUSH TO OPEN DRAIN  SPECIFY 
+15 FLUSH/POUR FLUSH TO DON’T KNOW WHERE 
+PIT LATRINE 
+21 VENTILATED IMPROVED LATRINE 
+22 PIT LATRINE WITH SLAB 
+23 PIT LATRINE WITHOUT SLAB/OPEN PIT 
+31 COMPOSTING TOILET 
+41 BUCKET/PAIL SYSTEM 
+51 HANGING TOILET/HANGING LATRINE 
+71 PUBLIC TOILET, GO TO N12 
+95 NO FACILITY/DISPOSAL OF HUMAN FECES IN FIELDS, FORESTS, 
+BUSHES, OPEN BODIES OF WATER, BEACHES, OR OTHER OPEN 
+SPACES, GO TO N12 
+99 OTHERS, SPECIFY 9
+- N03 What is the main source of water used by members of your household for other 
+purposes such as cooking and handwashing? 
+IF UNCLEAR, PROBE TO IDENTIFY THE PLACE FROM WHICH THE MEMBERS OF THIS 
+HOUSEHOLD MOST OFTEN COLLECT WATER FOR OTHER PURPOSES (COOKING 
+AND HANDWASHING)      
+PIPED WATER 
+11 PIPED INTO DWELLING, GO TO N09 
+12 PIPED INTO YARD/PLOT  
+13 PIPED TO NEIGHBOR  
+14 PUBLIC TAP/STAND PIPE        
+21 TUBE WELL/BOREHOLE 
+DUG WELL  __________ 
+31 PROTECTED WELL  SPECIFY 
+ 
+32 UNPROTECTED WELL (OPEN DUG WELL) 
+SPRING 
+41 PROTECTED SPRING 
+42 UNPROTECTED SPRING 
+ 51 RAINWATER 
+ 61 TANKER-TRUCK 
+ 71  CART WITH SMALL TANK 
+ 72 WATER REFILLING STATION 
+  81 SURFACE WATER  
+          (RIVER, STREAM  POND, LAKE, DAM, CANAL, IRRIGATION CHANNEL) 
+PACKAGED WATER 
+      91 BOTTLED WATER 
+      92 SACHET WATER 
+      99 OTHERS, SPECIFY 9
+- N09 Where is this toilet facility located?     
+  1 IN OWN DWELLING   
+2 IN OWN YARD/PLOT   
+3 ELSEWHERE 9
+- N10 Do you share this facility with others who are not 
+ 
+ members of your household?     
+1 YES                           2 NO, GO TO N12 9
+- N11 Do you share this facility only with members of other 
+households that you know or is the facility open to the     
+use of the general public? 
+1 SHARED WITH KNOWN HOUSEHOLD   2 SHARED WITH GENERAL 
+(NOT PUBLIC)  PUBLIC 9
+- N12 In what ways does your household dispose its garbage/solid wastes?    
+A SEGREGATING WASTE 
+         
+B LETTING GARBAGE TRUCK COLLECT WASTE 
+C RECYCLING/REUSING AT HOME 
+D SELLING/GIVING AWAY RECYCLABLES 
+  E  COMPOSTING           
+F BURNING 
+G DUMPING IN PIT WITH COVER  ____________ 
+H DUMPING IN PIT WITHOUT COVER 
+SPECIFY 
+I THROWING IN UNHABITED LOCATIONS 
+Z OTHERS, SPECIFY 9
+-       9             
+-   9
+-    9
+-   9
+-     9
+-   9
+-   9
+-   9
+-      9
+-      9
+
+--- N. WATER, SANITATION, AND HYGIENE 10 ---
+
+- N13 We would like to learn about where members of this household 
+wash their hands. 
+Can you please show me where members of your household 
+most often wash their hands after using the toilet facility? 
+RECORD RESULT AND OBSERVATION    
+OBSERVED 
+ 
+FIXED FACILITY OBSERVED (SINK/TAP) 
+ 
+1 IN DWELLING 
+2 IN YARD/PLOT  ____________ 
+MOBILE OBJECT OBSERVED   SPECIFY 
+3 BUCKET/JUG/KETTLE 
+NOT OBSERVED 
+4 NO HANDWASHING PLACE IN DWELLING/YARD/PLOT 
+5 NO PERMISSION TO SEE  GO TO SECTION O 
+9 OTHERS, SPECIFY N14 OBSERVE PRESENCE OF WATER AT THE PLACE FOR 
+HANDWASHING. 
+ 
+VERIFY BY CHECKING THE FAUCET/TAP/PUMP, BASIN,   
+  
+BUCKET, WATER CONTAINER OR SIMILAR OBJECTS FOR 
+PRESENCE OF WATER     
+1 WATER IS AVAILABLE         2 WATER IS NOT AVAILABLE 10
+- N15 IS SOAP OR DETERGENT PRESENT AT THE PLACE FOR 
+   HANDWASHING?     
+1 YES                                        2 NO, GO TO SECTION O 10
+- N16 RECORD YOUR OBSERVATION 
+       
+A BAR OR LIQUID SOAP 
+ B DETERGENT 
+C ASH//SOIL/SAND  ____________ 
+Z OTHERS, SPECIFY    SPECIFY 10
+
+--- O. HOUSING CHARACTERISTICS 10 ---
+
+- The last set of questions will ask about the characteristics and amenities of your housing unit and your household conveniences. 10
+- O01 ANSWER THROUGH OBSERVATION. IF DOUBTFUL, ASK THE 
+RESPONDENT   
+What is the type of building occupied by your household?      
+01 SINGLE HOUSE 
+02 DUPLEX  ____________ 
+03 APARTMENT/ACCESSORIA/ROW HOUSE/TOWNHOUSE  SPECIFY 
+04 CONDOMINIUM/CONDOTEL 
+05 OTHER MULTI-UNIT RESIDENTIAL BUILDING (3 OR MORE UNITS) 
+06 COMMERCIAL/INDURSTIAL/AGRICULTURAL (e.g., OFFICE, FACTORY, BARN) 
+07 INSTITUTIONAL LIVING QUARTER (e.g., HOTEL, HOSPITAL, CONVENT, JAIL) 
+08 NONE (e.g., HOMELESS/CART), END INTERVIEW  
+09 OTHER TYPES OF BUILDING (e.g., BUS/TRAILER, BOAT, TENT), SPECIFY,  GO TO O10 
+10 TEMPORARY EVACUATION CENTER/RELOCATION AREA (e.g., SCHOOL, GYM, 
+RELOCATION HOUSE), END INTERVIEW O10 Is there any electricity in the dwelling place? 
+   
+1 YES                         2 NO, GO TO O12 10
+- O11 What type of fuel/energy source does this household use for lighting?  
+   
+1 ELECTRICITY   
+2 KEROSENE (GAAS) 
+ 3  LIQUIFIED PETROLEUM GAS (LPG) 
+4 OIL (VEGETABLE, ANIMAL, AND OTHERS)  ____________ 
+5 SOLAR PANEL/SOLAR LAMP  SPECIFY 
+6 NONE 
+9 OTHERS, SPECIFY 10
+- O12 What type of fuel/energy source does this household use most of the time for 
+cooking?   
+ 
+1 ELECTRICITY 
+2 KEROSENE (GAAS)   
+ 3 LIQUEFIED PETROLEUM GAS (LPG) 
+4 CHARCOAL 
+5 WOOD  ____________ 
+6 NONE  SPECIFY 
+9 OTHERS, SPECIFY 10
+- O02 How many floors are there in this building?  
+   
+ 
+NUMBER OF FLOORS 10
+- O03 ANSWER THROUGH OBSERVATION. IF 
+ 
+DOUBTFUL, ASK THE RESPONDENT 
+ 
+What is the main construction material of the roof 
+of this building/housing unit?    ____________ 
+SPECIFY 
+1 GALVANIZED IRON/ALUMINUM  
+ 2 CONCRETE/CLAY TILE 
+3 HALF-GALVANIZED IRON AND HALF-CONCRETE 
+4 WOOD/BAMBOO 
+5 COGON/NIPA/ANAHAW 
+6 ASBESTOS 
+7 MAKESHIFT/SALVAGED/IMPROVISED MATERIALS  
+9 OTHERS, SPECIFY 10
+- O13 How many of each of the following items does the household own?     
+HOUSEHOLD CONVENIENCES 
+A Refrigerator/Freezer  A     
+B Air conditioner  B     
+C Washing Machine  C     
+D Stove with Oven / Gas Range  D     
+ICT DEVICES       
+E Radio/Radio cassette (AM, FM, and transistor)  E     
+F Television  F     
+G Audio component/Stereo set/Karaoke/Videoke  G     
+H Landline/Wireless telephone  H     
+I Cellular Phone (Basic or with button keypad)  I     
+J Cellular Phone (Modern or smart phone)  J     
+K Tablet  K     
+ 
+L Personal computer (e.g., desktop, laptop, notebook, netbook)  L     
+ 
+VEHICLES       
+M Car  M     
+N Van  N     
+O Jeep  O     
+P Truck  P     
+Q Motorcycle/Motor scooter  Q     
+R E-bike  R     
+S Tricycle  S     
+T Bicycle  T     
+U Pedicab  U     
+V Motorized boat/Banca  V     
+W Non-motorized boat/Banca  W 10
+- O04 ANSWER THROUGH OBSERVATION. IF DOUBTFUL, 
+   
+ASK THE RESPONDENT  
+   
+What is the main construction material of the outer  ____________ 
+walls of this building/housing unit?    SPECIFY 
+01 CONCRETE/BRICK/STONE 
+02 WOOD 
+03 HALF CONCRETE/BRICK/STONE AND HALF WOOD 
+04 GALVANIZED IRON/ALUMINUM 
+05 BAMBOO/SAWALI/COGON/NIPA 
+06 ASBESTOS 
+07 GLASS 
+08 MAKESHIFT/SALVAGED/IMPROVISED MATERIALS  
+09 NONE 
+10 CONCRETE HOLLOW BLOCKS 
+11 CONCRETE HOLLOW BLOCKS/WOOD 
+12 SHEAR WALLS 
+99 OTHERS, SPECIFY 10
+- O05 What is the main construction material of the floor 
+   
+of this housing unit?  
+1 CONCRETE 
+____________ 
+2 WOOD 
+3 COCONUT LUMBER  SPECIFY 
+4 BAMBOO 
+5 EARTH/SAND/MUD 
+6 MAKESHIFT/SALVAGED/ IMPROVISED MATERIALS 
+9 OTHERS, SPECIFY 10
+- O06 What is the estimated floor area of this housing unit?         
+  IN SQUARE METERS 10
+- O07 How many bedrooms does this housing unit have?     
+  NUMBER OF BEDROOMS 10
+- REMARKS ABOUT THE INTERVIEW / HOUSEHOLD 10
+-  10
+- O08 What is the tenure status of the housing unit and 
+   
+lot occupied by this household?  
+1 OWN OR OWNER-LIKE POSSESSION OF THE HOUSE AND LOT 
+2 OWN HOUSE, RENT LOT 
+  3 OWN HOUSE, RENT-FREE LOT WITH CONSENT OF OWNER 
+4 OWN HOUSE, RENT-FREE LOT WITHOUT CONSENT OF OWNER  
+5 RENT HOUSE/INCLUDING LOT 
+6 RENT- FREE HOUSE AND LOT WITH CONSENT OF OWNER 
+7 RENT- FREE HOUSE AND LOT WITHOUT CONSENT OF OWNER 10
+- O09 When was the housing unit/building constructed?         
+   
+YEAR OF CONSTRUCTION 10
+-     10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-     10
+-   10
+-     10
+
+
+=== APPENDIX: CODES ===
+
+
+--- CODES FOR THE RESULT OF VISIT 1 ---
+
+- 1 COMPLETED  
+2 NOT YET COMPLETED (FOR CALLBACK)  
+3 ENTIRE HOUSEHOLD IS ABSENT/AWAY DURING THE ENUMERATION PERIOD 
+4 REFUSED 
+9 OTHERS, SPECIFY 1
+- APPOINTMENT FOR NEXT VISIT 1
+- APPOINTMENT NUMBER 1 2 1
+- DATE (MM/DD/YYYY)   1
+- TIME (HH:MM)   1
+-   1
+-    1
+-   1
+-    1
+-  1     
+- 1     
+- 1     
+- 1     
+- 1  
+-       1     
+-  1
+-  1
+-   1
+-   1
+-   1
+-  1
+-  1
+-  1
+-  1
+- L 
+I 
+N 
+E 
+  
+N 
+U 
+M 
+B 
+E 
+R FOR ALL HOUSEHOLD MEMBERS 2 FOR 5 YEARS OLD AND OVER
+- Who is the household head?  
+Who are the other members of the household usually 
+residing here as of June 01, 2024? 
+ORDER OF LISTING: 
+• HEAD 
+• SPOUSE OF THE HEAD 
+• NEVER-MARRIED CHILDREN OF THE HEAD/SPOUSE, 
+FROM THE OLDEST TO THE YOUNGEST 
+• EVER-MARRIED CHILDREN OF THE HEAD/SPOUSE AND 
+THEIR FAMILIES, FROM THE OLDEST TO THE YOUNGEST 
+• OTHER RELATIVES OF THE HEAD 
+• NONRELATIVES OF THE HEAD What is 
+(NAME)’s 
+relationship to 
+the head of this 
+household? 
+ 
+ 
+ 
+ 
+SEE CODES 
+BELOW Is (NAME) 
+male or 
+female? 
+ 
+ 
+1 MALE 
+2 FEMALE 2 In what month, day, and 
+year was (NAME) born? 
+ 
+ 
+ 
+MONTH (MM) 
+DAY (DD) 
+YEAR (YYYY) 
+M M  D D 
+Y  Y  Y  Y What is 
+(NAME)'s age 
+as of May 31, 
+2024? Was (NAME)’s 
+birth registered 
+with the Local 
+Civil Registry 
+Office? 
+ 
+1   YES 
+2   NO 
+8   DON'T KNOW Is (NAME) single, married, in common law/
+live-in arrangement with another person, 
+widowed, or divorced/separated/annulled? 
+ 
+1 SINGLE                               5    D  I VORCED 
+2 MARRIED                           6    SEPARATED 
+3 COMMON-LAW/LIVE- IN  7 ANNULLED 
+4 WIDOWED     8 NOT REPORTED 
+ 
+FOR CHILDREN “0” TO “9” YEARS OLD, 
+WRITE CODE “1” (SINGLE) IN THE BOX What is (NAME)’s ethnicity by 
+descent/blood relation/
+consanguinity? 
+ 
+Is he/she a/an ___? 
+ 
+MENTION THE PREDOMINANT/
+COMMON INDIGENOUS PEOPLES (IP) 
+OR NON-IP GROUPS IN THE AREA, 
+ETHNICITY MAY BE BASED ON 
+MOTHER OR FATHER’S ETHNICITY 
+SUBJECT TO GUIDELINES What is 
+(NAME)’s 
+religious 
+affiliation? 
+ 
+ 
+ 
+ 
+SEE CODES Can (NAME) 
+read and write 
+a simple 
+message in 
+any language 
+or dialect? 
+ 
+ 
+ 
+1 YES 
+2 NO What is (NAME)'s Highest Grade/
+Year Completed (HGC)? 
+ 
+ 
+ 
+SEE CODES BELOW 
+ 
+ 
+ANY ANSWER, ASK REQUEST FOR 
+CONSENT TO BE INTERVIEW IN 
+CBMS (SECTIONS B -  O)
+-  A01 A02 A03 2 A04 A05 A06 A07 A08 A09 A10 A11
+- 1 __________________________     _____________________ 
+   LAST NAME                    FIRST NAME 
+ 
+       _________        _____________________  
+SUFFIX                  MIDDLE NAME 0  1  2 MM  DD  YYYY    _________ 
+SPECIFY _________ 
+SPECIFY  ____________ 
+SPECIFY        
+- 2   
+- 2 __________________________     _____________________ 
+   LAST NAME                     FIRST NAME 
+       _________        _____________________  
+SUFFIX                  MIDDLE NAME   2 MM  DD  YYYY    _________ 
+SPEC IFY _________ 
+SPEC IFY  ____________ 
+SPECIFY
+- 2   
+- 3 __________________________     _____________________ 
+   LAST NAME                     FIRST NAME 
+       _________        _____________________  
+SUFFIX                  MIDDLE NAME   2 MM  DD  YYYY    _________ 
+SPEC IFY _________ 
+SPEC IFY  ____________ 
+SPECIFY
+- 4 __________________________     _____________________ 
+   LAST NAME                     FIRST NAME 
+       _________        _____________________  
+SUFFIX                  MIDDLE NAME   2 MM  DD  YYYY    _________ 
+SPEC IFY _________ 
+SPEC IFY  ____________ 
+SPECIFY        
+- 5 __________________________     _____________________ 
+   LAST NAME                    FIRST NAME 
+ 
+       _________        _____________________  
+SUFFIX                  MIDDLE NAME   2 MM  DD  YYYY          _________ 
+SPECIFY _________ 
+SPECIFY  ____________ 
+SPECIFY        
+- 6 __________________________     _____________________ 
+   LAST NAME                     FIRST NAME 
+       _________        _____________________  
+SUFFIX                  MIDDLE NAME   2 MM  DD  YYYY          _________ 
+SPECIFY _________ 
+SPECIFY  ____________        
+- 2   
+
+--- CHECK FOR PERSONS NOT YET 
+LISTED INDICATOR FOR ADDITIONAL 
+BOOKLET CODES FOR (A09) HIGHEST GRADE/YEAR COMPLETED 2 ---
+
+- Are there other persons in this household 
+who were not yet listed such as infants, 
+small children, elderly persons, and 
+overseas worker? 
+1 YES, ADD TO THE 
+HOUSEHOLD MEMBER 
+LIST   
+2 NONE Are there more than six (6) 
+members in this household? 
+ 
+ 
+1 YES, USE ADDITIONAL 
+BOOKLET 
+ 
+2 NONE 2
+
+--- CODES FOR (A02) RELATIONSHIP TO THE HOUSEHOLD HEAD 2 ---
+
+- 01 HOUSEHOLD HEAD  10 GRANDDAUGHTER  19 UNCLE 
+02 SPOUSE  11 FATHER  20 AUNT 
+03 SON  12 MOTHER  21 NEPHEW  
+04 DAUGHTER   13 FATHER-IN-LAW  22 NIECE 
+05 STEPSON  14 MOTHER-IN-LAW  23 OTHER RELATIVE 
+06 STEPDAUGHTER  15 BROTHER  24 BOARDER  
+07 SON-IN-LAW  16 SISTER  25 DOMESTIC HELPER  
+08 DAUGHTER-IN-LAW  17 BROTHER-IN-LAW   26 NONRELATIVE 
+09 GRANDSON  18 SISTER-IN-LAW 2
+- M M D D 2
+- Y Y Y Y 2
+-   2
+-       2
+-    2
+- 0 1 2
+-    2
+-   2
+-       2
+-    2
+-    2
+-   2
+-   2
+-       2
+-    2
+-   2
+-   2
+-   2
+-    2
+-   2
+-   2
+-    2
+- REQUEST FOR CONSENT TO BE INTERVIEWED IN CBMS (SECTIONS B TO Q) 3 REFUSAL CASE
+- L 
+I 
+N 
+E 
+  
+N 
+U 
+M 
+B 
+E 
+R FOR ALL HOUSEHOLD MEMBERS 3 FOR 10 YEARS OLD AND OVER FOR 60 YEARS 
+OLD AND OVER FOR FEMALE HOUSEHOLD 
+MEMBERS 10 YEARS OLD 
+AND OVER FOR ALL HOUSEHOLD MEMBERS
+- IN WHICH 
+NUCLEAR 
+FAMILY DOES 
+(NAME) 
+BELONG? What is 
+(NAME)’s 
+relationship to 
+the head of the 
+nuclear family? 
+ 
+ 
+SEE CODES 
+BELOW Was (NAME) issued a 
+National ID/PhilID? 
+ 
+PHYSICAL/PRINTED 
+PLASTIC ID OR EPHILID OR 
+DIGITAL ID 
+ 
+ 
+ 
+1 YES 
+2 NO, GO TO B05 
+8 DON’T KNOW, GO TO B05 What is (NAME)’s PhilSys Card 
+Number (PCN)? 
+ 
+ 
+ 
+ 
+ 
+ 
+SEE CODES BELOW 3 Is (NAME) a solo parent taking 
+care of a child/children? 
+ 
+SOLO PARENT SHOULD HAVE 
+UNMARRIED AND UNEMPLOYED 
+CHILDREN OR DEPENDENTS AGED 
+22 YEARS OLD OR BELOW, OR 
+THOSE AGED 22 YEARS OLD AND 
+ABOVE WITH DISABILITY 
+1 YES 
+2 NO, GO TO B07 
+8 DON’T KNOW, GO TO B07 Does (NAME) 
+have a Solo 
+Parent ID? 
+ 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO 
+8 DON’T KNOW Does (NAME) 
+have a Senior 
+Citizen ID? 
+ 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO 
+8 DON’T KNOW Is (NAME) 
+currently 
+pregnant? 
+ 
+ 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO Is (NAME) 
+currently 
+lactating/
+breastfeeding 
+mother? 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO Does (NAME) have a disability (i.e., 
+sever difficulty or cannot do the following: 
+seeing, hearing, communicating, walking 
+or climbing steps, remembering/
+concentrating, self-caring) or with cancer 
+or with rare disease? 
+ 
+ 
+1 YES 
+2 NO Does (NAME) 
+have Persons 
+with Disability 
+(PWD) ID? 
+ 
+ 
+ 
+ 
+1 YES 
+2 NO Which among the following type of 
+disability/ies does (NAME) have? 
+ 
+ 
+ 
+ 
+ 
+SEE CODES BELOW
+-  B01 B02 B03 B04 3 B05 B06 B07 B08 B09 B10 B11 B12
+- 1     3        A    B   C    D     E   F   G    Z 
+____________ 
+SPECIFY
+- 2     3        A    B   C    D    E   F   G    Z 
+____________ 
+SPECIFY
+- 3     3                 A    B   C    D    E   F   G    Z 
+____________ 
+SPECIFY
+- 3        
+- 4     3        A    B   C    D    E   F   G    Z 
+____________ 
+SPECIFY
+- 5     3        A    B   C    D    E   F   G    Z 
+____________ 
+SPECIFY
+- 6     3        A    B   C    D     E   F   G    Z 
+____________ 
+SPECIFY
+
+--- CODES FOR (B02) RELATIONSHIP TO NUCLEAR FAMILY HEAD CODES FOR (B04) PHILSYS CARD NUMBER 3 CODES FOR (B12) TYPE OF DISABILITIES ---
+
+- 00 ONE MEMBER HH  06 BROTHER 
+01 FAMILY HEAD  07 SISTER 
+02 SPOUSE  08 FATHER 
+03 PARTNER  09 MOTHER 
+04 SON  10 OTHER FAMILY MEMBER 
+05 DAUGHTER SPECIFY PCN IF RESPONDENT/HOUSEHOLD MEMBER IS WILLING TO PROVIDE 
+9999999999999996 LOST PHILSYS CARD 
+9999999999999997 NOT OPEN TO SHARE  
+9999999999999998 DON’T KNOW, NOT AVAILABLE 3 A VISUAL DISABILITY  E SPEECH LANGUANGE IMPAIRMENT 
+B DEAF OR HEARING DISABILITY  F CANCER 
+C INTELLECTUAL/LEARNING/MENTAL/PSYCHOSOCIAL DISABILITY  G RARE DISEASE 
+D PHYSICAL DISABILITY (ORTHOPEDIC)  Z OTHERS, SPECIFY
+-       3  
+-       3  
+-       3  
+-   3
+-   3
+-       3  
+-   3
+-   3
+-       3  
+-       3  
+-       3  
+-       3  
+-   3
+-   3
+-       3  
+-       3  
+-       3  
+-   3
+-   3
+-       3  
+-   3
+-   3
+-       3  
+- FOR 5 YEARS OLD AND OVER 4 FOR ALL 
+HOUSEHOLD 
+MEMBERS FOR 15 
+YEARS OLD 
+AND OVER FOR ALL HOUSEHOLD MEMBERS
+- Seeing, 
+even if 
+wearing 
+glasses Hearing, 
+even if 
+using 
+hearing aid Walking or 
+climbing 
+steps, even if 
+with cane or 
+artificial leg Remembering 
+or 
+concentrating 4 Self-care 
+(such as 
+washing all 
+over or 
+dressing) Communicating 
+using his/her 
+usual 
+(customary) 
+language
+-  B13 B14 B15 B16 4 B17 B18 C01 C02 C03 C04 C05 C06 C07
+- 1     4      ______________                 
+PROV/HUC/COUNTRY 
+  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY          ______________                 
+PROV/HUC/COUNTRY 
+  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY         
+- 4    
+- 4 
+- 2     4      ______________                 
+PROV/HUC /COUNTRY  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY  ______________                 
+PROV/HUC/COUNTRY   
+  PROV/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY 
+- 4    
+- 4 
+- 3     4      ______________                 
+PROV/HUC/COUNTRY   
+  PROV/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY  ______________                 
+PROV/HUC/COUNTRY   
+  PROV/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY 
+- 4        
+- 4    
+- 4 
+- 4     4      ______________                 
+PROV/HUC /COUNTRY  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY  ______________                 
+PROV/HUC/COUNTRY   
+  PROV/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY 
+- 4    
+- 4 
+- 5     4      ______________                 
+PROV/HUC/COUNTRY 
+  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY  ______________                 
+PROV/HUC/ COUNTRY  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY 
+- 4    
+- 4 
+- 6     4      ______________                 
+PROV/HUC/COUNTRY 
+  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY  ______________                 
+PROV/HUC/COUNTRY 
+  PRO V/HUC    CITY/MUN       BRGY 
+__________     __________    COUNTRY 
+ CITY/MUN             BRGY 
+- 4    
+- 4 
+
+--- CODES FOR (B13 TO B18) FUNCTIONAL 
+DISABILITIES CODES FOR (C02) OVERSEAS FILIPINO INDICATOR 4 CODES FOR (C04) MOST RECENT MOVEMENT AND (C06) PREVIOUS PLACE OF RESIDENCE CODES FOR (C07) REASON FOR INTERNAL DISPLACEMENT ---
+
+- 1 NO, NO DIFFICULTY 
+2 YES, SOME DIFFICULTY 
+3 YES, A LOT OF DIFFICULTY 
+4 CANNOT DO AT ALL 1 YES, OVERSEAS FILIPINO WORKER (OFW) WITH CONTRACT 
+2 YES, OTHER OFW WITH NO CONTRACT 
+3 YES, EMPLOYEE IN PHILIPIPINE EMBASSY, CONSULATES & OTHER MISSIONS 
+4 YES, STUDENT ABROAD 
+5 YES, TOURIST 
+6 YES, OTHER OVERSEAS FILIPINO NOT ELSEWHERE CLASSIFIED 
+7 NO, RESIDENT (PHILIPPINES) 4 IF DIFFERENT PROV/HUC, ENTER 3-DIGIT CODE FOR PROV/HUC; ENTER 2-DIGIT CODE FOR 
+CITY/MUN; ENTER 3-DIGIT CODE FOR BRGY 
+IF SAME CURRENT PROV/HUC BUT DIFFERENT CITY/MUN AND BRGY; ENTER 000 FOR PROV/
+HUC; ENTER 2-DIGIT CODE FOR SPECIFIC CITY/MUN; AND 3-DIGIT CODE FOR BRGY 
+IF SAME CURRENT PROV/HUC AND CITY/MUN BUT DIFFERENT BRGY;  ENTER 000 FOR PROV/
+HUC; ENTER 00 FOR CITY/MUN; AND ENTER 3-DIGIT CODE FOR BRGY; 
+IF OUTSIDE THE PHILIPPINES, ENTER 5-DIGIT FOR SPECIFIC COUNTRY  
+99999997 DON’T KNOW FOREIGN COUNTRY   
+99999998 DON'T KNOW 1 No 
+2 Yes, natural calamities 
+3 Yes, man-made disaster/event 
+4 Yes, peace and order 
+5 Yes, relocation due to other reasons
+- Y Y Y Y 4
+-   4
+-       4  
+-   4
+-       4  
+-       4  
+-   4
+-       4  
+-       4  
+-   4
+-       4  
+-       4  
+-   4
+-       4  
+- FOR 3 YEARS OLD AND OVER 5 FOR 15 YEARS OLD AND OVER FOR PERSONS WHO EVER WORKED OR HAD A JOB/BUSINESS DURING THE PAST WEEK
+- 5 ANSWER ONLY IF “4”, “5”, OR “7” IN C02
+- 5 Did (NAME) do any work for at 
+least one hour during the past 
+week (including work from 
+home or telecommuting? 
+ 
+1 YES, GO TO E03 
+2 NO Although (NAME) did not work, 
+did (NAME) have a job or 
+business during the past week? 
+ 
+ 
+1 YES 
+2 NO, GO TO E16 
+3 NO, TEMPORARILY,GO TO E16 Where was (NAME)’s location of work? 
+ 
+3 DIGITS FOR PROV/HUC 
+2 DIGITS FOR CITY/MUN
+- 5 ENTER PROV/HUC CODE ENTER CITY/MUN CODE
+-  D01 D02 D03 5 D04 D05 D06 D07 E01 E02 E03 E04
+- 1    5 _________ 
+SPECIFY   ____S_P_E_C__IF_Y_ ___      __________ 
+SPECIFY    __________ 
+SPECIFY
+- ____________ 
+SPECIFY 5
+- 2      5      _________ 
+SPECIFY   ____S_P_E_C__IF_Y_ ___      __________  
+SPECIFY    ________ __ 
+SPECIFY
+- ____________ 
+SPECIFY 5
+- 3      5      _________ 
+SPECIFY   ____S_P_E_C__IF_Y_ ___      __________ 
+SPECIFY    __________ 
+SPECIFY
+- ____________ 
+SPECIFY 5
+- 4      5      _________ 
+SPECIFY   ____S_P_E_C__IF_Y_ ___      __________  
+SPECIFY    ________ __ 
+SPECIFY
+- ____________ 
+SPECIFY 5
+- 5      5      _________ 
+SPECIFY   ____S_P_E_C__IF_Y_ ___      __________  
+SPECIFY    __________ 
+SPECIFY
+- ____________ 
+SPECIFY 5
+- 6      5      _________ 
+SPECIFY   ______________ 
+SPECIFY      __________ 
+SPECIFY    __________ 
+SPECIFY
+- ____________ 
+SPECIFY 5   
+
+--- CODES FOR (D03) GRADE/YEAR CURRENTLY ATTENDING 5 CODES FOR (D04) REASON FOR NOT ATTENDING SCHOOL ---
+
+-   5
+-   5
+-   5
+-   5
+-   5
+-   5
+-   5
+-   5
+-   5
+- L 
+I 
+N
+E 
+ 
+N
+U
+M
+B
+E
+R Now, we would like to ask information on the work, job or business activity of household member 6
+- FOR PERSONS WHO EVER WORKED OR HAD A JOB/BUSINESS DURING THE PAST WEEK 6 FOR PERSONS WHO DID NOT WORK OR HAD NO JOB/BUSINESS DURING THE PAST 
+WEEK
+- FOR 5 YEARS OLD AND OVER 6
+- ANSWER ONLY IF “4”, “5”, OR “7” IN C02 6
+-  E05 E06 E07 E08 6 E09 E10 E11 E12 E13 E14 E15 E16 E17 E18
+- 1 ____________ 
+SPECIFY ____________ 
+SPECIFY   6 _________ 
+SPECIFY       _________ 
+SPECIFY  
+- 2 ____________ 
+SPECIFY ____________ 
+SPECIFY   6 _________ 
+SPECIFY       _________ 
+SPECIFY  
+- 3 ____________ 
+SPECIFY ____________ 
+SPECIFY   6 _________ 
+SPECIFY       _________ 
+SPECIFY  
+- 4 ____________ 
+SPECIFY ____________ 
+SPECIFY   6 _________ 
+SPECIFY       _________ 
+SPECIFY  
+- 5 ____________ 
+SPECIFY ____________ 
+SPECIFY   6 _________ 
+SPECIFY       _________ 
+SPECIFY  
+- 6 ____________ 
+SPECIFY ____________ 
+SPECIFY   6 _________ 
+SPECIFY       _________ 
+SPECIFY  
+
+--- CODES FOR (E07) NATURE OF EMPLOYMENT CODES FOR (E08) CLASS OF WORKER 6 CODE FOR (E09) BASIS OF PAYMENT CODES FOR (E16) REASONS FOR NOT LOOKING FOR WORK ---
+
+- 1 PERMANENT JOB/BUSINESS/UNPAID FAMILY WORK 
+2 SHORT-TERM OR SEASONAL OR CASUAL JOB/
+BUSINESS, UNPAID FAMILY WORK 
+3 WORKED FOR DIFFERENT EMPLOYERS OR CUSTOMERS 
+ON DAY-TO-DAY OR WEEK-TO-WEEK BASIS 0 WORKED FOR PRIVATE HOUSEHOLD 
+1 WORKED FOR PRIVATE ESTABLISHMENT 
+2 WORKED FOR GOVERNMENT/GOVERNMENT-OWNED AND CONTROLLED CORPORATION 
+3 SELF-EMPLOYED WITHOUT PAID EMPLOYEE 
+4 EMPLOYER IN OWN FAMILY-OPERATED FARM OR BUSINESS 
+5 WORKED WITH PAY IN OWN FAMILY-OPERATED FARM OR BUSINESS 
+6 WORKED WITHOUT PAY IN OWN FAMILY-OPERATED FARM OR BUSINESS 6 0 IN KIND, IMPUTED (RECEIVED AS WAGE/SALARY) 
+1 PER PIECE 
+2 PER HOUR 
+3 PER DAY 
+4 MONTHLY 
+5 PAKYAW 
+6 OTHER SALARIES/WAGES, SPECIFY 
+7 NOT SALARIES/WAGES (EX. COMMISSION BASIS), SPECIFY 01 TEMPORARY ILLNESS OR DISABILITY 
+02 BAD WEATHER 
+03 WAITING FOR REHIRE/JOB RECALL 
+04 TIRED/BELIEVED NO WORK AVAILABLE 
+05 AWAITING RESULTS OF PREVIOUS JOB APPLICATION 
+06 TOO YOUNG/OLD TO GO TO SCHOOL 
+07 RETIRED 
+08 PERMANENT DISABILITY 
+09 SCHOOLING 
+10 HOUSEHOLD AND FAMILY DUTIES, SPECIFY  
+99 OTHERS, SPECIFY
+-       6
+-      6
+-   6
+-    6
+-       6
+-      6
+-   6
+-    6
+-       6
+-      6
+-   6
+-    6
+-       6
+-      6
+-   6
+-    6
+-       6
+-      6
+-   6
+-    6
+-       6
+-      6
+-   6
+-    6
+- ILLNESS/SICKNESS/INJURY 7
+- FOR ALL HOUSEHOLD MEMBERS 7
+- F01 In the past six (6) months, did you or any of your household members get ill/sick/injured that requires medical attention? 
+ 1 YES                             2 NO, GO TO F05  7
+- F02 Did you or any of your household members avail medical treatment for his/her current or most recent illness/sickness/injury? 
+1 YES                             2 NO, GO TO F04  7
+- F03 Where did the household member avail medical treatment for his/her current or most recent illness/sickness/injury? 
+ 
+ 
+SEE CODES BELOW ________________________ 
+SPECIFY 7
+- F04 What was the main reason why the household member did not avail any medical treatment in the past month? 
+SEE CODES BELOW _______________________ 
+SPECIFY 7
+- OPERATION TIMBANG PLUS AND CHILD MORTALITY 7
+- FOR CURRENT AND FORMER HOUSEHOLD MEMBERS (0 TO 5 YEARS OLD) 7
+- F05 In the past 12 months, did any of your household member aged zero (0) to five (5) years old measured during the Operation 
+Timbang (OPT) Plus? 
+1 YES                             2 NO, GO TO SECTION G  7
+- F06 In the past three (3) years, was/were there former household member/s aged zero (0) to five (5) years old died?  
+(Include children who were born alive but later died). 
+1 YES                        2 NO, GO TO SECTION G  7
+- F07 What was the age (in month/s) of the child or baby when he/she died? AGE (IN MONTHS) AGE (IN MONTHS) 7 AGE (IN MONTHS)
+- F08 What was the main cause of death of the child or baby? 
+SEE CODES BELOW CAUSE OF DEATH     
+     
+________________ 
+SPECIFY CAUSE OF DEATH     
+     
+________________ 
+SPECIFY 7 CAUSE OF DEATH     
+     
+________________ 
+SPECIFY
+
+--- CODES FOR (F03) MEDICAL TREATMENT FACILITY CODES FOR (F04) REASON OF NOT AVAILING MEDICAL TREATMENT 7 ---
+
+
+--- CODES FOR (F08) CAUSE OF DEATH 7 ---
+
+- 01 BACTERIAL SEPSIS OF NEWBORN  07 NEONATAL ASPIRATION SYNDROME 
+02 PNEUMONIA  08 INTRAUTERINE HYPOXIA AND BIRTH ASPHYXIA 
+03 RESPIRATORY DISTRESS OF NEWBORN  09 OTHER CONGENITAL MALFORMATIONS 
+04 CONGENITAL MALFORMATION OF HEART  10 DIARRHEA AND GASTROENTERITIS OF PRESUMED INFECTIOUS ORIGIN 
+05 DISORDERS RELATED TO SHORT GESTATION AND LOW BIRTH WEIGHT NOT  99 OTHERS, SPECIFY     
+ELSEWHERE CLASSIFIED 
+06 CONGENITAL PNEUMONIA 7
+- During the past 12 months (June 01, 2023 - May 31, 2024), was there a time when you ….                              1 YES            2 NO         8 DON’T KNOW       9 PREFER NOT TO ANSWER 7
+- G01 (or any other adult in the household) were worried about not having enough food to eat because of a lack of money or other resources? 7   
+- G03 (or any other adult in the household) ate only a few kinds of food because of a lack of money or other resources? 7   
+- G04 (or any other adult in the household) had to skip a meal because there was not enough money or other resources to get food? 7 
+- G05 (or any other adult in the household) ate less than you thought you should because of a lack of money or other resources? 7 
+- G06 or your household ran out of food because of a lack of money or other resources? 7   
+- G07 (or any other adult in the household) were hungry but did not eat because there was not enough money or other resources for food? 7   
+- G08 (or any other adult in the household) went without eating for a whole day because of a lack of money or other resources? 7   
+- The next question will ask about the assistance you or any member of your family received from abroad. 7
+-       7    
+-       7    
+-   7
+-   7
+-   7
+-   7
+-   7
+-   7
+- Now we will ask about the family's financial activities. 8
+- 8        
+- 8 A     B      C     D     E     F     G     Z 
+  _______________ 
+SPECIFY
+- We would like to ask whether your household experienced risks/vulnerabilities/disaster in the past 12 months as well as ask about your household’s preparedness should an 
+unfortunate event arises. 8
+- J01 In the past 12 month (June 01, 2023 - May 31, 2024), how many times did the following RISKS/VULNERABILITIES/DISASTERS negatively affected the household? 
+ 
+MENTION THE FOLLOWING RISKS/VULNERABILITIES/DISASTERS  AND RECORD NUMBER OF TIMES THE HOUSEHOLD EXPERIENCED THE RISKS/VULNERABILITIES/DISASTERS 8
+- RISKS/VULNERABILITIES/DISASTERS NUMBER OF 
+TIMES RISKS/VULNERABILITIES/DISASTERS 8 NUMBER OF 
+TIMES RISKS/VULNERABILITIES/DISASTERS NUMBER OF 
+TIMES
+- A Typhoon   H Pests or Diseases That Affected 
+Crops Before They Were Harvested 8   O Increase in Price  
+- B Power Outage   I Pests or Diseases that Affected 
+Livestock 8   P Political Conflict  
+- C Drought   J Pests or Disease That Led to Losses of 
+Stored Crops 8   Q Death of Household Member  
+- D Too much rain or Flood   K Crop Failed 8   R Illness/Injury of Household Member  
+- E Erosion, Cracks, Landslides   L Livestock Died 8   Z Others, specify 
+___________________________ 
+SPECIFY  
+- F Earthquake   M Pollution Caused by Mining 8  
+- G Fire   N Building Collapsed 8   
+- J02 Do you know the location of your evacuation area? 
+ 
+1 YES                         2 NO 8 
+- J03 In the past 12 months, do you know any local government contact number or hotlines which you can contact in case of emergency? 
+ 
+1 YES                     2 NO 8 
+- In the next questions, we will ask about your household’s online activities. 8
+- K01 In the past 12 months, do you or any member of your household have access to internet? 
+ 
+1 YES                                                              2 NO, GO TO SECTION L 8 
+- K02 Does this household have its own internet at home which can be used by any household member when needed?  
+  
+1 YES                                                              2 NO, GO TO SECTION L 8 
+- K03 What types of internet connection are available at home?  
+A FIXED (WIRED) NARROWBAND/BROADBAND NETWORK  
+C SATELLITE BROADBAND NETWORK 
+[e.g., via Digital Subscriber Line (DSL), cable modem, high 
+ 
+   speed leased line, fiber-to-the-home/building, powerline, and 
+ 
+other fixed (wired) broadband]  
+D MOBILE BROADBAND NETWORK [e.g., via handset, card (e.g., 
+B FIXED (WIRELESS) BROADBAND NETWORK   [e.g., via 
+integrated SIM card) or USB modem]   
+WiMAX and fixed Code Division Multiple Access (CDMA)] 8 
+- The next set of questions will ask about how you or your household members feel about your neighborhood and possible experiences as victims of crime in the past 12 months. 
+This might be a sensitive topic but we encourage you to answer the questions as it might help achieve peace and order in your community or Barangay. 8
+- L01 How safe do you feel walking alone in your area (i.e., neighborhood or village) at night?  
+ 1 Very safe  3 Unsafe  5 I never go out at night/Does not apply  
+2 Safe  4 Very unsafe  8 Don’t Know 8 
+- A Social Security System (SSS) Yes    1  GO TO M02 
+No   2  GO TO M01.B  8 A Social Security System (SSS) Yes    1  GO TO M03 
+No   2  GO TO M02.B 
+- B Government Service Insurance System (GSIS) Yes    1  GO TO M02 
+No   2  GO TO M01.C  8 B Government Service Insurance System (GSIS) Yes    1  GO TO M03 
+No   2  GO TO M02.C 
+-     8
+- M03 In the past 12 months (June 01, 2023 - May 31, 2024), is any member of your 
+household a dependent/beneficiary/member of any of the following social  
+assistance programs? M04 In the past 12 months (June 01, 2023 - May 31, 2024), did any member of your 
+household receive benefits/grants/assistance from the following social assistance 
+programs? 9
+- A Pantawid Pamilyang Pilipino Program (4Ps) Yes     1  GO TO M04 
+No   2  GO TO M03.B  A Pantawid Pamilyang Pilipino Program (4Ps) 9 Yes    1  GO TO M05 
+No   2  GO TO M04.B 
+- B Social Pension for Indigent Senior Citizen (SocPen) Yes     1  GO TO M04 
+No   2  GO TO M03.C  B Social Pension for Indigent Senior Citizen 
+(SocPen) 9 Yes    1  GO TO M05 
+No   2  GO TO M04.C 
+- C Assistance to Individuals in Crises Situation (AICS) Yes     1  GO TO M04 
+No   2  GO TO M03.D  C Assistance to Individuals in Crises Situation (AICS) 9 Yes    1  GO TO M05 
+No   2  GO TO M04.D 
+- D Walang Gutom 2027 : Food Stamp Program Yes     1  GO TO M04 
+No   2  GO TO M03.E  D Walang Gutom 2027 : Food Stamp Program 9 Yes    1  GO TO M05 
+No   2  GO TO M04.E 
+- F Employment Assistance/Livelihood Program (i.e., 
+TUPAD, cash-for work, SLP, DILEEP) Yes     1  GO TO M04 
+No   2  GO TO M03.G  F Employment Assistance/Livelihood Program (i.e., 
+TUPAD, cash-for work, SLP, DILEEP) 9 Yes    1  GO TO M05 
+No   2  GO TO M04.G 
+- Z Others, specify 
+_______________ 
+SPECIFY Yes     1  GO TO M04 
+No   2  GO TO M05  Z Others, specify 9 Yes    1  GO TO M05 
+No   2  GO TO M05 
+- ANSWER IF YES IN M03A 
+M05. Indicate Pantawid ID Number 
+ANSWER 9999999999999999998 IF DON’T KNOW 
+ANSWER 9999999999999999999 IF NOT APPLICABLE  9
+- In this section, we would like to know about the sources of water (for drinking and non-drinking uses), as well as to the sanitation facility being used by your household. 9
+- N01 What is your household's main source of water supply?   
+COMMUNITY WATER SYSTEM 
+01 PIPED INTO DWELLING     
+02 PIPED INTO YARD/PLOT   
+03 PUBLIC TAP/STANDPIPE 
+____________ 
+POINT SOURCE 
+      04 PROTECTED WELL/TUBE WELL/BOREHOLE       SPECIFY 
+05 UNPROTECTED (OPEN DUG WELL)   
+06 DEVELOPED/PROTECTED SPRING 
+07 UNDEVELOPED/UNPROTECTED SPRING 
+08 RIVER/STREAM/POND/LAKE/DAM 
+     09 RAINWATER 
+     10 TANKER TRUCK/PEDDLER/NEIGHBOR 
+      99 OTHERS, SPECIFY N04 Where is that water source located?   
+ 
+  1    I N    O   W N DWELLING  GO TO N08 
+2 IN OWN YARD/PLOT 
+3 ELSEWHERE 9
+- N05 How long does it take for members of your  
+     
+household to go there, get water,  
+and come back (in minutes)?   
+    _______ 
+000 HOUSEHOLD DOES NOT COLLECT, GO TO N08 
+___ NUMBER OF MINUTES  
+998 DON'T KNOW 9
+- N06 If water is communal/shared, who usually fetches the water in the household?    
+   
+ANSWER 99 IF NOT A HOUSEHOLD MEMBER  
+THEN INDICATE THE NAME      ___________________ 
+LAST NAME, FIRST NAME, M.I. 9
+- N02 What is the main source of drinking water used by  
+members of your household?  
+IF UNCLEAR, PROBE TO IDENTIFY THE PLACE FROM WHICH MEMBERS OF THIS 
+HOUSEHOLD MOST OFTEN COLLECT DRINKING WATER (COLLECTION POINT)   
+PIPED WATER 
+11 PIPED INTO DWELLING, GO TO N08 
+12 PIPED INTO YARD/PLOT, GO TO N08 
+13 PIPED TO NEIGHBOR     
+14 PUBLIC TAP/STAND PIPE 
+21 TUBE WELL/BOREHOLE  __________ 
+DUG WELL  SPECIFY 
+31 PROTECTED WELL 
+32 UNPROTECTED WELL  
+   (OPEN DUG WELL)  GO TO N04 
+SPRING 
+41 PROTECTED SPRING 
+42 UNPROTECTED SPRING 
+51 RAINWATER 
+61 TANKER-TRUCK 
+71 CART WITH SMALL TANK 
+72 WATER REFILLING STATION 
+81 SURFACE WATER  
+     (RIVER, STREAM , POND, LAKE, DAM, CANAL, IRRIGATION CHANNEL), GO TO N04 
+PACKAGED WATER 
+91 BOTTLED WATER 
+92 SACHET WATER 
+99 OTHERS, SPECIFY, GO TO N04 9
+- N07 How far is this water source from your house?               METER 9
+- N08 What kind of toilet facility do members of your household 
+usually use? 
+IF 'FLUSH' OR 'POUR FLUSH', PROBE: Where does it flush to? 
+IF NOT POSSIBLE TO DETERMINE, ASK PERMISSION TO 
+OBSERVE FACILITY   
+FLUSH/POUR FLUSH     
+11 FLUSH/POUR FLUSH TO PIPED SEWER SYSTEM 
+12 FLUSH/POUR FLUSH TO SEPTIC TANK 
+13 FLUSH/POUR FLUSH TO PIT LATRINE  ____________ 
+14 FLUSH/POUR FLUSH TO OPEN DRAIN  SPECIFY 
+15 FLUSH/POUR FLUSH TO DON’T KNOW WHERE 
+PIT LATRINE 
+21 VENTILATED IMPROVED LATRINE 
+22 PIT LATRINE WITH SLAB 
+23 PIT LATRINE WITHOUT SLAB/OPEN PIT 
+31 COMPOSTING TOILET 
+41 BUCKET/PAIL SYSTEM 
+51 HANGING TOILET/HANGING LATRINE 
+71 PUBLIC TOILET, GO TO N12 
+95 NO FACILITY/DISPOSAL OF HUMAN FECES IN FIELDS, FORESTS, 
+BUSHES, OPEN BODIES OF WATER, BEACHES, OR OTHER OPEN 
+SPACES, GO TO N12 
+99 OTHERS, SPECIFY 9
+- N03 What is the main source of water used by members of your household for other 
+purposes such as cooking and handwashing? 
+IF UNCLEAR, PROBE TO IDENTIFY THE PLACE FROM WHICH THE MEMBERS OF THIS 
+HOUSEHOLD MOST OFTEN COLLECT WATER FOR OTHER PURPOSES (COOKING 
+AND HANDWASHING)      
+PIPED WATER 
+11 PIPED INTO DWELLING, GO TO N09 
+12 PIPED INTO YARD/PLOT  
+13 PIPED TO NEIGHBOR  
+14 PUBLIC TAP/STAND PIPE        
+21 TUBE WELL/BOREHOLE 
+DUG WELL  __________ 
+31 PROTECTED WELL  SPECIFY 
+ 
+32 UNPROTECTED WELL (OPEN DUG WELL) 
+SPRING 
+41 PROTECTED SPRING 
+42 UNPROTECTED SPRING 
+ 51 RAINWATER 
+ 61 TANKER-TRUCK 
+ 71  CART WITH SMALL TANK 
+ 72 WATER REFILLING STATION 
+  81 SURFACE WATER  
+          (RIVER, STREAM  POND, LAKE, DAM, CANAL, IRRIGATION CHANNEL) 
+PACKAGED WATER 
+      91 BOTTLED WATER 
+      92 SACHET WATER 
+      99 OTHERS, SPECIFY 9
+- N09 Where is this toilet facility located?     
+  1 IN OWN DWELLING   
+2 IN OWN YARD/PLOT   
+3 ELSEWHERE 9
+- N10 Do you share this facility with others who are not 
+ 
+ members of your household?     
+1 YES                           2 NO, GO TO N12 9
+- N11 Do you share this facility only with members of other 
+households that you know or is the facility open to the     
+use of the general public? 
+1 SHARED WITH KNOWN HOUSEHOLD   2 SHARED WITH GENERAL 
+(NOT PUBLIC)  PUBLIC 9
+- N12 In what ways does your household dispose its garbage/solid wastes?    
+A SEGREGATING WASTE 
+         
+B LETTING GARBAGE TRUCK COLLECT WASTE 
+C RECYCLING/REUSING AT HOME 
+D SELLING/GIVING AWAY RECYCLABLES 
+  E  COMPOSTING           
+F BURNING 
+G DUMPING IN PIT WITH COVER  ____________ 
+H DUMPING IN PIT WITHOUT COVER 
+SPECIFY 
+I THROWING IN UNHABITED LOCATIONS 
+Z OTHERS, SPECIFY 9
+-       9             
+-   9
+-    9
+-   9
+-     9
+-   9
+-   9
+-   9
+-      9
+-      9
+- N13 We would like to learn about where members of this household 
+wash their hands. 
+Can you please show me where members of your household 
+most often wash their hands after using the toilet facility? 
+RECORD RESULT AND OBSERVATION    
+OBSERVED 
+ 
+FIXED FACILITY OBSERVED (SINK/TAP) 
+ 
+1 IN DWELLING 
+2 IN YARD/PLOT  ____________ 
+MOBILE OBJECT OBSERVED   SPECIFY 
+3 BUCKET/JUG/KETTLE 
+NOT OBSERVED 
+4 NO HANDWASHING PLACE IN DWELLING/YARD/PLOT 
+5 NO PERMISSION TO SEE  GO TO SECTION O 
+9 OTHERS, SPECIFY N14 OBSERVE PRESENCE OF WATER AT THE PLACE FOR 
+HANDWASHING. 
+ 
+VERIFY BY CHECKING THE FAUCET/TAP/PUMP, BASIN,   
+  
+BUCKET, WATER CONTAINER OR SIMILAR OBJECTS FOR 
+PRESENCE OF WATER     
+1 WATER IS AVAILABLE         2 WATER IS NOT AVAILABLE 10
+- N15 IS SOAP OR DETERGENT PRESENT AT THE PLACE FOR 
+   HANDWASHING?     
+1 YES                                        2 NO, GO TO SECTION O 10
+- N16 RECORD YOUR OBSERVATION 
+       
+A BAR OR LIQUID SOAP 
+ B DETERGENT 
+C ASH//SOIL/SAND  ____________ 
+Z OTHERS, SPECIFY    SPECIFY 10
+- The last set of questions will ask about the characteristics and amenities of your housing unit and your household conveniences. 10
+- O01 ANSWER THROUGH OBSERVATION. IF DOUBTFUL, ASK THE 
+RESPONDENT   
+What is the type of building occupied by your household?      
+01 SINGLE HOUSE 
+02 DUPLEX  ____________ 
+03 APARTMENT/ACCESSORIA/ROW HOUSE/TOWNHOUSE  SPECIFY 
+04 CONDOMINIUM/CONDOTEL 
+05 OTHER MULTI-UNIT RESIDENTIAL BUILDING (3 OR MORE UNITS) 
+06 COMMERCIAL/INDURSTIAL/AGRICULTURAL (e.g., OFFICE, FACTORY, BARN) 
+07 INSTITUTIONAL LIVING QUARTER (e.g., HOTEL, HOSPITAL, CONVENT, JAIL) 
+08 NONE (e.g., HOMELESS/CART), END INTERVIEW  
+09 OTHER TYPES OF BUILDING (e.g., BUS/TRAILER, BOAT, TENT), SPECIFY,  GO TO O10 
+10 TEMPORARY EVACUATION CENTER/RELOCATION AREA (e.g., SCHOOL, GYM, 
+RELOCATION HOUSE), END INTERVIEW O10 Is there any electricity in the dwelling place? 
+   
+1 YES                         2 NO, GO TO O12 10
+- O11 What type of fuel/energy source does this household use for lighting?  
+   
+1 ELECTRICITY   
+2 KEROSENE (GAAS) 
+ 3  LIQUIFIED PETROLEUM GAS (LPG) 
+4 OIL (VEGETABLE, ANIMAL, AND OTHERS)  ____________ 
+5 SOLAR PANEL/SOLAR LAMP  SPECIFY 
+6 NONE 
+9 OTHERS, SPECIFY 10
+- O12 What type of fuel/energy source does this household use most of the time for 
+cooking?   
+ 
+1 ELECTRICITY 
+2 KEROSENE (GAAS)   
+ 3 LIQUEFIED PETROLEUM GAS (LPG) 
+4 CHARCOAL 
+5 WOOD  ____________ 
+6 NONE  SPECIFY 
+9 OTHERS, SPECIFY 10
+- O02 How many floors are there in this building?  
+   
+ 
+NUMBER OF FLOORS 10
+- O03 ANSWER THROUGH OBSERVATION. IF 
+ 
+DOUBTFUL, ASK THE RESPONDENT 
+ 
+What is the main construction material of the roof 
+of this building/housing unit?    ____________ 
+SPECIFY 
+1 GALVANIZED IRON/ALUMINUM  
+ 2 CONCRETE/CLAY TILE 
+3 HALF-GALVANIZED IRON AND HALF-CONCRETE 
+4 WOOD/BAMBOO 
+5 COGON/NIPA/ANAHAW 
+6 ASBESTOS 
+7 MAKESHIFT/SALVAGED/IMPROVISED MATERIALS  
+9 OTHERS, SPECIFY 10
+- O13 How many of each of the following items does the household own?     
+HOUSEHOLD CONVENIENCES 
+A Refrigerator/Freezer  A     
+B Air conditioner  B     
+C Washing Machine  C     
+D Stove with Oven / Gas Range  D     
+ICT DEVICES       
+E Radio/Radio cassette (AM, FM, and transistor)  E     
+F Television  F     
+G Audio component/Stereo set/Karaoke/Videoke  G     
+H Landline/Wireless telephone  H     
+I Cellular Phone (Basic or with button keypad)  I     
+J Cellular Phone (Modern or smart phone)  J     
+K Tablet  K     
+ 
+L Personal computer (e.g., desktop, laptop, notebook, netbook)  L     
+ 
+VEHICLES       
+M Car  M     
+N Van  N     
+O Jeep  O     
+P Truck  P     
+Q Motorcycle/Motor scooter  Q     
+R E-bike  R     
+S Tricycle  S     
+T Bicycle  T     
+U Pedicab  U     
+V Motorized boat/Banca  V     
+W Non-motorized boat/Banca  W 10
+- O04 ANSWER THROUGH OBSERVATION. IF DOUBTFUL, 
+   
+ASK THE RESPONDENT  
+   
+What is the main construction material of the outer  ____________ 
+walls of this building/housing unit?    SPECIFY 
+01 CONCRETE/BRICK/STONE 
+02 WOOD 
+03 HALF CONCRETE/BRICK/STONE AND HALF WOOD 
+04 GALVANIZED IRON/ALUMINUM 
+05 BAMBOO/SAWALI/COGON/NIPA 
+06 ASBESTOS 
+07 GLASS 
+08 MAKESHIFT/SALVAGED/IMPROVISED MATERIALS  
+09 NONE 
+10 CONCRETE HOLLOW BLOCKS 
+11 CONCRETE HOLLOW BLOCKS/WOOD 
+12 SHEAR WALLS 
+99 OTHERS, SPECIFY 10
+- O05 What is the main construction material of the floor 
+   
+of this housing unit?  
+1 CONCRETE 
+____________ 
+2 WOOD 
+3 COCONUT LUMBER  SPECIFY 
+4 BAMBOO 
+5 EARTH/SAND/MUD 
+6 MAKESHIFT/SALVAGED/ IMPROVISED MATERIALS 
+9 OTHERS, SPECIFY 10
+- O06 What is the estimated floor area of this housing unit?         
+  IN SQUARE METERS 10
+- O07 How many bedrooms does this housing unit have?     
+  NUMBER OF BEDROOMS 10
+- REMARKS ABOUT THE INTERVIEW / HOUSEHOLD 10
+-  10
+- O08 What is the tenure status of the housing unit and 
+   
+lot occupied by this household?  
+1 OWN OR OWNER-LIKE POSSESSION OF THE HOUSE AND LOT 
+2 OWN HOUSE, RENT LOT 
+  3 OWN HOUSE, RENT-FREE LOT WITH CONSENT OF OWNER 
+4 OWN HOUSE, RENT-FREE LOT WITHOUT CONSENT OF OWNER  
+5 RENT HOUSE/INCLUDING LOT 
+6 RENT- FREE HOUSE AND LOT WITH CONSENT OF OWNER 
+7 RENT- FREE HOUSE AND LOT WITHOUT CONSENT OF OWNER 10
+- O09 When was the housing unit/building constructed?         
+   
+YEAR OF CONSTRUCTION 10
+-     10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-   10
+-     10
+-   10
+-     10

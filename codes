@@ -1,0 +1,483 @@
+A2. Relationship to Household Head
+01 – Household Head
+02 – Spouse
+03 – Son
+04 – Daughter
+05 – Stepson
+06 – Stepdaughter
+07 – Son-in-law
+08 – Daughter-in-law
+09 – Grandson
+10 – Granddaughter
+11 – Father
+12 – Mother
+13 – Father-in-law
+14 – Mother-in-law
+15 – Brother
+16 – Sister
+17 – Brother-in-law
+18 – Sister-in-law
+19 – Uncle
+20 – Aunt
+21 – Nephew
+22 – Niece
+23 – Other Relative
+24 – Boarder
+25 – Domestic Helper
+26 – Nonrelative
+
+A9. Highest Grade Completed Year
+00000000 – No Grade Completed (Early Childhood Education)
+01000000 – Nursery (Early Childhood Education)
+02000000 – Kindergarten (Early Childhood Education)
+02100000 – Kindergarten (K to 12) (Early Childhood Education)
+10000101 – Grade 1 (Primary Education – Elementary)
+10000102 – Grade 2 (Primary Education – Elementary)
+10000103 – Grade 3 (Primary Education – Elementary)
+10000104 – Grade 4 (Primary Education – Elementary)
+10000105 – Grade 5 (Primary Education – Elementary)
+10000106 – Grade 6 (Primary Education – Elementary)
+10000107 – Elementary Graduate (Primary Education – Elementary)
+10000108 – Grade 7 Graduate (Primary Education – Elementary)
+11000101 – Grade 1 (K to 12) (Primary Education – Elementary)
+11000102 – Grade 2 (K to 12) (Primary Education – Elementary)
+11000103 – Grade 3 (K to 12) (Primary Education – Elementary)
+11000104 – Grade 4 (K to 12) (Primary Education – Elementary)
+11000105 – Grade 5 (K to 12) (Primary Education – Elementary)
+11000108 – Elementary Graduate (K to 12) (Primary Education – Elementary)
+11000201 – Indigenous People Education (IPED) (Primary Education – Elementary)
+11000202 – Madrasah Education Programs (IMEP) (Primary Education – Elementary)
+11000203 – Special Education Program (SPED) (Primary Education – Elementary)
+11000301 – A&E Elementary Level Passer (ALS) (Primary Education – Elementary)
+11000302 – Alternative Delivery Mode (MDM) (Primary Education – Elementary)
+20400101 – 1st Year (Lower Secondary / Junior High School)
+20400102 – 2nd Year (Lower Secondary / Junior High School)
+20400103 – 3rd Year (Lower Secondary / Junior High School)
+20400105 – High School Graduate (Lower Secondary / Junior High School)
+21400101 – Grade 7 (K to 12) (Lower Secondary / Junior High School)
+21400102 – Grade 8 (K to 12) (Lower Secondary / Junior High School)
+21400103 – Grade 9 (K to 12) (Lower Secondary / Junior High School)
+21400105 – Junior High School Graduate (K to 12) (Lower Secondary / Junior High School)
+21400201 – Indigenous People Education (IPED) (Lower Secondary / Junior High School)
+21400202 – Madrasah Education Program (IMEP) (Lower Secondary / Junior High School)
+21400203 – Special Education Program (Lower Secondary / Junior High School)
+21400301 – A&E Secondary Level Passer (ALS) (Lower Secondary / Junior High School)
+21400302 – Alternative Delivery Mode (MDM) (Lower Secondary / Junior High School)
+30400106 – SHS Graduate (Strand Unknown to Respondent) (Upper Secondary – Academic Track)
+30400107 – Accountancy, Business and Management Strand Graduate (Upper Secondary – Academic Track)
+30400108 – General Academic Strand Graduate (Upper Secondary – Academic Track)
+30400109 – Humanities and Social Sciences Strand Graduate (Upper Secondary – Academic Track)
+30400110 – Pre-Baccalaureate Maritime Specialization Graduate (Upper Secondary – Academic Track)
+30400111 – Science, Technology, Engineering and Mathematics Strand Graduate (Upper Secondary – Academic Track)
+30400201 – Grade 11 (Upper Secondary – Arts and Design Track)
+30400203 – SHS Graduate (Strand Unknown to Respondent) (Upper Secondary – Arts and Design Track)
+30400204 – Music Strand Graduate (Upper Secondary – Arts and Design Track)
+30400205 – Theater Strand Graduate (Upper Secondary – Arts and Design Track)
+30400206 – Visual Arts Strand Graduate (Upper Secondary – Arts and Design Track)
+30400207 – Media Arts Strand Graduate (Upper Secondary – Arts and Design Track)
+30400208 – Dance Strand Graduate (Upper Secondary – Arts and Design Track)
+30400301 – Grade 11 (Upper Secondary – Sports Track)
+30400303 – SHS Graduate (Upper Secondary – Sports Track)
+30500006 – SHS Graduate (Strand Unknown to Respondent) (Upper Secondary – Technical-Vocational-Livelihood Track)
+30500007 – Agri-Fishery Arts Strand Graduate (Upper Secondary – Technical-Vocational-Livelihood Track)
+30500008 – Home Economics Strand Graduate (Upper Secondary – Technical-Vocational-Livelihood Track)
+30500009 – Industrial Arts Strand Graduate (Upper Secondary – Technical-Vocational-Livelihood Track)
+30500010 – Information and Communications Technology Strand Graduate (Upper Secondary – Technical-Vocational-Livelihood Track)
+30500011 – TVL Maritime Specialization Strand Graduate (Upper Secondary – Technical-Vocational-Livelihood Track)
+40000001 – 1st Year (Post-Secondary Non-Tertiary Education)
+40000002 – 2nd Year (Post-Secondary Non-Tertiary Education)
+40000003 – 3rd Year (Post-Secondary Non-Tertiary Education)
+50000001 – 1st Year (Short Cycle Tertiary Education)
+50000002 – 2nd Year (Short Cycle Tertiary Education)
+50000003 – 3rd Year (Short Cycle Tertiary Education)
+60000001 – 1st Year (Bachelor Level Education)
+60000002 – 2nd Year (Bachelor Level Education)
+60000003 – 3rd Year (Bachelor Level Education)
+60000004 – 4th Year (Bachelor Level Education)
+60000005 – 5th Year (Bachelor Level Education)
+60000006 – 6th Year (Bachelor Level Education)
+70000010 – Undergraduate (Master Level Education)
+80000010 – Undergraduate (Doctoral Level Education)
+
+B2. Relationship to Nuclear Family Head
+00 – One Member Household
+01 – Family Head
+02 – Spouse
+03 – Partner
+04 – Son
+05 – Daughter
+06 – Brother
+07 – Sister
+08 – Father
+09 – Mother
+10 – Other Family Member
+
+B4. PhilSys Card Number
+Any 16-digit code
+9999999999999996 – Lost PhilSys Card
+9999999999999997 – Not Open to Share
+9999999999999998 – Don’t Know, Not Available
+
+
+B12. Type of Disabilities
+A – Visual Disability
+B – Deaf or Hearing Disability
+C – Intellectual / Learning / Mental / Psychosocial Disability
+D – Physical Disability (Orthopedic)
+E – Speech Language Impairment
+F – Cancer
+G – Rare Disease
+Z – Others, Specify
+
+B13-B18. Functional Disabilities
+1 - NO, NO DIFFICULTY
+2 - YES, SOME DIFFICULTY
+3 - YES, A LOT OF DIFFICULTY
+4 - CANNOT DO AT ALL
+
+C2. Overseas Filipino Indicator
+1 - YES, OVERSEAS FILIPINO WORKER (OFW) WITH CONTRACT
+2 - YES, OTHER OFW WITH NO CONTRACT
+3 - YES, EMPLOYEE IN PHILIPPINE EMBASSY, CONSULATES & OTHER MISSIONS
+4 - YES, STUDENT ABROAD
+5 - YES, TOURIST
+6 - YES, OTHER OVERSEAS FILIPINO NOT ELSEWHERE CLASSIFIED
+7 - NO, RESIDENT (PHILIPPINES)
+
+C4 and C6. Most Recent Movement and Previous Place of Residence
+IF DIFFERENT PROV/HUC, ENTER 3-DIGIT CODE FOR PROV/HUC; ENTER 2-DIGIT CODE FOR
+CITY/MUN; ENTER 3-DIGIT CODE FOR BRGY
+IF SAME CURRENT PROV/HUC BUT DIFFERENT CITY/MUN AND BRGY; ENTER 000 FOR PROV/
+HUC; ENTER 2-DIGIT CODE FOR SPECIFIC CITY/MUN; AND 3-DIGIT CODE FOR BRGY
+IF SAME CURRENT PROV/HUC AND CITY/MUN BUT DIFFERENT BRGY; ENTER 000 FOR PROV/
+HUC; ENTER 00 FOR CITY/MUN; AND ENTER 3-DIGIT CODE FOR BRGY;
+IF OUTSIDE THE PHILIPPINES, ENTER 5-DIGIT FOR SPECIFIC COUNTRY
+99999997 DON’T KNOW FOREIGN COUNTRY
+9999998 DON'T KNOW
+
+C7. Reason for Internal Displacement
+1 - No
+2 - Yes, natural calamities
+3 - Yes, man-made disaster/event
+4 - Yes, peace and order
+5 - Yes, relocation due to other reasons
+
+D3. Grade/Year Currently Attending
+Same as Highest Grade Completed
+
+D4. Reason for not Attending School
+01 ACCESSIBILITY OF SCHOOL
+02 ILLNESS
+03 DISABILITY
+04 PREGNANCY
+05 MARRIAGE
+06 HIGH COST OF EDUCATION/FINANCIAL CONCERN
+07 EMPLOYMENT
+08 FINISHED SCHOOLING OR FINISHED POST-SECONDARY OR COLLEGE
+09 LOOKING FOR WORK
+10 LACK OF PERSONAL INTEREST
+11 TOO YOUNG/OLD TO GO TO SCHOOL
+12 BULLYING
+13 FAMILY MATTERS
+14 NO/WEAK INTERNET CONNECTION
+15 MODULAR LEARNING IS NOT PREFERRED
+16 WITH PROBLEMS IN SCHOOL REQUIREMENTS
+(E.G., NO BIRTH CERTIFICATE OR FORM 137)
+17 LACK OF CONFIDENCE
+18 ORAL HYGIENE ISSUE
+99 OTHERS, SPECIFY
+
+E7. Nature of Employment 
+1 PERMANENT JOB/BUSINESS/UNPAID FAMILY WORK
+2 SHORT-TERM OR SEASONAL OR CASUAL JOB/
+BUSINESS, UNPAID FAMILY WORK
+3 WORKED FOR DIFFERENT EMPLOYERS OR CUSTOMERS
+ON DAY-TO-DAY OR WEEK-TO-WEEK BASIS
+
+E8. Class of Worker
+0 WORKED FOR PRIVATE HOUSEHOLD
+1 WORKED FOR PRIVATE ESTABLISHMENT
+2 WORKED FOR GOVERNMENT/GOVERNMENT-OWNED AND CONTROLLED CORPORATION
+3 SELF-EMPLOYED WITHOUT PAID EMPLOYEE
+4 EMPLOYER IN OWN FAMILY-OPERATED FARM OR BUSINESS
+5 WORKED WITH PAY IN OWN FAMILY-OPERATED FARM OR BUSINESS
+6 WORKED WITHOUT PAY IN OWN FAMILY-OPERATED FARM OR BUSINESS
+E9. Basis of Employment 
+0 IN KIND, IMPUTED (RECEIVED AS WAGE/SALARY)
+1 PER PIECE
+2 PER HOUR
+3 PER DAY
+4 MONTHLY
+5 PAKYAW
+6 OTHER SALARIES/WAGES, SPECIFY
+7 NOT SALARIES/WAGES (EX. COMMISSION BASIS), SPECIFY
+
+E16. Reasons for Not Looking for Work
+01 TEMPORARY ILLNESS OR DISABILITY
+02 BAD WEATHER
+03 WAITING FOR REHIRE/JOB RECALL
+04 TIRED/BELIEVED NO WORK AVAILABLE
+05 AWAITING RESULTS OF PREVIOUS JOB APPLICATION
+06 TOO YOUNG/OLD TO GO TO SCHOOL
+07 RETIRED
+08 PERMANENT DISABILITY
+09 SCHOOLING
+10 HOUSEHOLD AND FAMILY DUTIES, SPECIFY
+99 OTHERS, SPECIFY
+
+F3. Medical Treatment Facility
+PUBLIC SECTOR
+A REGIONAL HOSPITAL/PUBLIC MEDICAL CENTER
+B PROVINCIAL HOSPITAL
+C DISTRICT HOSPITAL
+D MUNICIPAL HOSPITAL
+E RURAL HEALTH UNIT (RHU)/ URBAN HEALTH CENTER (UHC)/
+LYING-IN CLINIC
+F BARANGAY HEALTH STATION
+G MOBILE CLINIC
+H ISOLATION FACILITY
+I OTHER PUBLIC HEALTH FACILITY
+PRIVATE MEDICAL SECTOR
+J PRIVATE HOSPITAL
+K LYING-IN CLINIC/BIRTHING HOME
+L PRIVATE CLINIC
+M PRIVATE PHARMACY
+N MOBILE CLINIC
+O OTHER PRIVATE HEALTH FACILITY
+
+ALTERNATIVE MEDICAL SECTOR
+P HILOT/HERBALISTS
+Q THERAPEUTIC MASSAGE CENTER
+R OTHER ALTERNATIVE HEALING
+NOT MEDICAL SECTOR
+S SHOP SELLING DRUGS/MARKET
+T FAITH HEALER
+Z OTHER LOCATION
+
+F4. Reason for Not Availing Medical Treatment
+1 FACILITY IS FAR
+2 NO MONEY
+3 WORRIED ABOUT TREATMENT COST
+4 HOME REMEDY IS AVAILABLE
+5 HEALTH FACILITY IS NOT PHILHEALTH ACCREDITED
+6 EXPECTED THAT SICKNESS/INJURY WILL HEAL EVENTUALLY
+9 OTHERS, SPECIFY
+
+F8. Cause of Death
+01 BACTERIAL SEPSIS OF NEWBORN
+02 PNEUMONIA
+03 RESPIRATORY DISTRESS OF NEWBORN
+04 CONGENITAL MALFORMATION OF HEART
+05 DISORDERS RELATED TO SHORT GESTATION AND LOW BIRTH WEIGHT NOT
+ELSEWHERE CLASSIFIED
+06 CONGENITAL PNEUMONIA
+07 NEONATAL ASPIRATION SYNDROME
+08 INTRAUTERINE HYPOXIA AND BIRTH ASPHYXIA
+09 OTHER CONGENITAL MALFORMATIONS
+10 DIARRHEA AND GASTROENTERITIS OF PRESUMED INFECTIOUS ORIGIN
+99 OTHERS, SPECIFY
+
+G. Food Security
+1 YES 
+2 NO 
+8 DON’T KNOW 
+9 PREFER NOT TO ANSWER
+
+I. Formal Financial Account
+A - Bank account (ATM, online/electronic banking, passbook)
+B - Digital bank account (UNObank, Union Digital Bank, GoTyme, Overseas Filipino Bank,
+Tonik, and Maya Bank)
+C - E-money account (e.g., G-Cash, Maya) or cash card
+D - Account with Non-Stock Savings and Loan Association or NSSLA (e.g., AFPSLAI,
+Manila Teachers SLA)
+E - Account with cooperatives
+F - Account with microfinance NGO
+(e.g., CARD, ASA)
+G - Money Remittance Centers (e.g., Palawan Express,
+LBC, ML Kwarta Padala, Western Union)
+Y - None
+Z -  Others, specify (e.g., CIMB, ING, PayPal, Census
+Provident Fund, Inc [CPFI])
+
+K3. Type of internet connection
+A - FIXED (WIRED) NARROWBAND/BROADBAND NETWORK
+[e.g., via Digital Subscriber Line (DSL), cable modem, high
+speed leased line, fiber-to-the-home/building, powerline, and
+other fixed (wired) broadband]
+B - FIXED (WIRELESS) BROADBAND NETWORK [e.g., via
+WiMAX and fixed Code Division Multiple Access (CDMA)]
+C - SATELLITE BROADBAND NETWORK
+D - MOBILE BROADBAND NETWORK [e.g., via handset, card (e.g.,
+integrated SIM card) or USB modem]
+
+L1. Public Safety
+1 Very safe
+2 Safe
+3 Unsafe
+4 Very unsafe
+5 I never go out at night/Does not apply
+8 Don’t Know
+
+M5. Pantawid ID Number
+Any 19-digit code
+ANSWER 9999999999999999998 IF DON’T KNOW
+ANSWER 9999999999999999999 IF NOT APPLICABLE
+
+N1. Main source of water supply 
+COMMUNITY WATER SYSTEM
+01 PIPED INTO DWELLING
+02 PIPED INTO YARD/PLOT
+03 PUBLIC TAP/STANDPIPE
+POINT SOURCE
+04 PROTECTED WELL/TUBE WELL/BOREHOLE
+05 UNPROTECTED (OPEN DUG WELL)
+06 DEVELOPED/PROTECTED SPRING
+07 UNDEVELOPED/UNPROTECTED SPRING
+08 RIVER/STREAM/POND/LAKE/DAM
+09 RAINWATER
+10 TANKER TRUCK/PEDDLER/NEIGHBOR
+99 OTHERS, SPECIFY
+
+N2 and N3. Main source of drinking water, and Main source of washing water
+PIPED WATER
+11 PIPED INTO DWELLING, GO TO N08
+12 PIPED INTO YARD/PLOT, GO TO N08
+13 PIPED TO NEIGHBOR
+14 PUBLIC TAP/STAND PIPE
+21 TUBE WELL/BOREHOLE
+DUG WELL
+31 PROTECTED WELL
+32 UNPROTECTED WELL
+(OPEN DUG WELL)
+SPRING
+41 PROTECTED SPRING
+42 UNPROTECTED SPRING
+51 RAINWATER
+61 TANKER-TRUCK
+71 CART WITH SMALL TANK
+72 WATER REFILLING STATION
+81 SURFACE WATER
+(RIVER, STREAM , POND, LAKE, DAM, CANAL, IRRIGATION CHANNEL), GO TO N04
+PACKAGED WATER
+91 BOTTLED WATER
+92 SACHET WATER
+99 OTHERS, SPECIFY,
+
+N4 and N9. Location of water source
+1 IN OWN DWELLING
+2 IN OWN YARD/PLOT
+3 ELSEWHERE
+
+N8. Toilet Facility
+FLUSH/POUR FLUSH
+11 FLUSH/POUR FLUSH TO PIPED SEWER SYSTEM
+12 FLUSH/POUR FLUSH TO SEPTIC TANK
+13 FLUSH/POUR FLUSH TO PIT LATRINE
+14 FLUSH/POUR FLUSH TO OPEN DRAIN
+15 FLUSH/POUR FLUSH TO DON’T KNOW WHERE
+PIT LATRINE
+21 VENTILATED IMPROVED LATRINE
+22 PIT LATRINE WITH SLAB
+23 PIT LATRINE WITHOUT SLAB/OPEN PIT
+31 COMPOSTING TOILET
+41 BUCKET/PAIL SYSTEM
+51 HANGING TOILET/HANGING LATRINE
+71 PUBLIC TOILET
+95 NO FACILITY/DISPOSAL OF HUMAN FECES IN FIELDS, FORESTS,
+BUSHES, OPEN BODIES OF WATER, BEACHES, OR OTHER OPEN
+SPACES
+99 OTHERS, SPECIFY
+
+N12. Garbage disposal
+A SEGREGATING WASTE
+B LETTING GARBAGE TRUCK COLLECT WASTE
+C RECYCLING/REUSING AT HOME
+D SELLING/GIVING AWAY RECYCLABLES
+E COMPOSTING
+F BURNING
+G DUMPING IN PIT WITH COVER
+H DUMPING IN PIT WITHOUT COVER
+I THROWING IN UNHABITED LOCATIONS
+Z OTHERS, SPECIFY
+
+N13. Washing hands facility
+FIXED FACILITY OBSERVED (SINK/TAP)
+1 IN DWELLING
+2 IN YARD/PLOT
+MOBILE OBJECT OBSERVED
+3 BUCKET/JUG/KETTLE
+NOT OBSERVED
+4 NO HANDWASHING PLACE IN DWELLING/YARD/PLOT
+5 NO PERMISSION TO SEE
+9 OTHERS, SPECIFY
+
+N16. Cleaning Agent
+A BAR OR LIQUID SOAP
+B DETERGENT
+C ASH//SOIL/SAND
+Z OTHERS, SPECIFY
+
+O1. Type of building
+01 SINGLE HOUSE
+02 DUPLEX
+03 APARTMENT/ACCESSORIA/ROW HOUSE/TOWNHOUSE
+04 CONDOMINIUM/CONDOTEL
+05 OTHER MULTI-UNIT RESIDENTIAL BUILDING (3 OR MORE UNITS)
+06 COMMERCIAL/INDURSTIAL/AGRICULTURAL (e.g., OFFICE, FACTORY, BARN)
+07 INSTITUTIONAL LIVING QUARTER (e.g., HOTEL, HOSPITAL, CONVENT, JAIL)
+08 NONE (e.g., HOMELESS/CART)
+09 OTHER TYPES OF BUILDING (e.g., BUS/TRAILER, BOAT, TENT), SPECIFY, GO TO O10
+10 TEMPORARY EVACUATION CENTER/RELOCATION AREA (e.g., SCHOOL, GYM,
+RELOCATION HOUSE),
+
+O3. Main construction material of roof
+1 GALVANIZED IRON/ALUMINUM
+2 CONCRETE/CLAY TILE
+3 HALF-GALVANIZED IRON AND HALF-CONCRETE
+4 WOOD/BAMBOO
+5 COGON/NIPA/ANAHAW
+6 ASBESTOS
+7 MAKESHIFT/SALVAGED/IMPROVISED MATERIALS
+9 OTHERS, SPECIFY
+
+O4. Main construction material of outer walls
+01 CONCRETE/BRICK/STONE
+02 WOOD
+03 HALF CONCRETE/BRICK/STONE AND HALF WOOD
+04 GALVANIZED IRON/ALUMINUM
+05 BAMBOO/SAWALI/COGON/NIPA
+06 ASBESTOS
+07 GLASS
+08 MAKESHIFT/SALVAGED/IMPROVISED MATERIALS
+09 NONE
+10 CONCRETE HOLLOW BLOCKS
+11 CONCRETE HOLLOW BLOCKS/WOOD
+12 SHEAR WALLS
+99 OTHERS, SPECIFY
+
+O5. Main construction material of floor
+1 CONCRETE
+2 WOOD
+3 COCONUT LUMBER
+4 BAMBOO
+5 EARTH/SAND/MUD
+6 MAKESHIFT/SALVAGED/ IMPROVISED MATERIALS
+9 OTHERS, SPECIFY
+
+O8. Tenure status
+1 OWN OR OWNER-LIKE POSSESSION OF THE HOUSE AND LOT
+2 OWN HOUSE, RENT LOT
+3 OWN HOUSE, RENT-FREE LOT WITH CONSENT OF OWNER
+4 OWN HOUSE, RENT-FREE LOT WITHOUT CONSENT OF OWNER
+5 RENT HOUSE/INCLUDING LOT
+6 RENT- FREE HOUSE AND LOT WITH CONSENT OF OWNER
+7 RENT- FREE HOUSE AND LOT WITHOUT CONSENT OF OWNER
+
+O11 and O12. Fuel source for lighting and Fuel source for cooking
+1 ELECTRICITY
+2 KEROSENE (GAAS)
+3 LIQUIFIED PETROLEUM GAS (LPG)
+4 OIL (VEGETABLE, ANIMAL, AND OTHERS)
+5 SOLAR PANEL/SOLAR LAMP
+6 NONE
+9 OTHERS, SPECIFY

@@ -1,0 +1,7 @@
+code,description
+1,Very Safe
+2,Safe
+3,Neither Safe nor Unsafe
+4,Unsafe
+5,Very Unsafe
+8,Don't Know

@@ -1,0 +1,22 @@
+code,description
+A,Public Hospital
+B,Private Hospital
+C,Public Health Center
+D,Private Clinic
+E,Barangay Health Station
+F,Rural Health Unit
+G,Medical Mission
+H,Traditional Healer
+I,Pharmacy
+J,Dental Clinic
+K,Optical Clinic
+L,Laboratory
+M,X-ray Facility
+N,Rehabilitation Center
+O,Mental Health Facility
+P,Maternity Home
+Q,Birthing Home
+R,Ambulance Service
+S,Home Care
+T,Other
+Z,Not Specified

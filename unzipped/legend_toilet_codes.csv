@@ -1,0 +1,15 @@
+code,description
+11,Flush to Sewer System
+12,Flush to Septic Tank
+13,Flush to Open Drain
+14,Flush to Other
+15,"Flush, Don't Know Where"
+21,Pit Latrine with Slab
+22,Pit Latrine without Slab
+23,Composting Toilet
+31,Hanging Toilet
+41,Bucket Toilet
+51,Other
+71,No Toilet Facility
+95,Not Stated
+99,Unknown

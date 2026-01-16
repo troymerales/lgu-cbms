@@ -1,0 +1,27 @@
+code,description
+01,Household Head
+02,Spouse
+03,Son/Daughter
+04,Son/Daughter-in-law
+05,Grandson/Granddaughter
+06,Father/Mother
+07,Father/Mother-in-law
+08,Brother/Sister
+09,Brother/Sister-in-law
+10,Nephew/Niece
+11,Uncle/Aunt
+12,Cousin
+13,Other Relative
+14,Non-relative
+15,Domestic Helper
+16,Boarder
+17,Other Non-relative
+18,Adopted Child
+19,Step Child
+20,Foster Child
+21,Common Law Spouse
+22,Same Sex Partner
+23,Other
+24,Not Stated
+25,Unknown
+26,Refused to Answer
